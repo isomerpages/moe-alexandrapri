@@ -17,22 +17,27 @@ Students also learn to appreciate the importance of all occupations during the a
 <img src="/images/Picture32%20(1).png" 
      style="width:55%">
 
-![](/images/Picture33.png)
+<img src="/images/Picture33.png" 
+     style="width:55%">
+
 *Students interact with a robot and experience floristry at booths at the exhibition.*
 
 <br>
 <br>
 
 <img src="/images/Picture34.png" 
-     style="width:55%">
+     style="width:40%">
 
-![](/images/Picture35.png)
+<img src="/images/Picture35.png" 
+     style="width:50%">
 *Students pen messages of appreciation for the non-teaching staff and presented their messages during Labour Day.*
 
 <br>
 <br>
 
-![](/images/Picture36.png)
+<img src="/images/Picture36.png" 
+     style="width:50%">
 
-![](/images/Picture37.png)
+<img src="/images/Picture37.png" 
+     style="width:50%">
 *P4 Learning Journey to Kidzania*
