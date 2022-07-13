@@ -18,3 +18,5 @@ Students also learn to appreciate the importance of all occupations during the a
      style="width:55%">
 
 ![](/images/Picture33.png)
+*Students interact with a robot and experience floristry at booths at the exhibition.*
+
