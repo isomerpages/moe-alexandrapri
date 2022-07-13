@@ -4,7 +4,7 @@ permalink: /curriculum/character-n-citizenship-education/d-character-champions-p
 description: ""
 third_nav_title: CCE
 ---
-# **D. Character Champions Programme**
+# **(D) Character Champions Programme**
 
 On a termly basis, students who have been exemplary in displaying the HER3OIC values are awarded as Character Champions. They receive a badge and a certificate to recognise their achievement.
 
@@ -37,4 +37,3 @@ On a termly basis, students who have been exemplary in displaying the HER3OIC va
 <img src="/images/Picture%2010.png" 
      style="width:50%">
 <center>Resilience Champions</center>
-
