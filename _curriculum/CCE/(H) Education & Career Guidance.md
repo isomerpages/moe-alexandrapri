@@ -20,3 +20,8 @@ Students also learn to appreciate the importance of all occupations during the a
 ![](/images/Picture33.png)
 *Students interact with a robot and experience floristry at booths at the exhibition.*
 
+<img src="/images/Picture34.png" 
+     style="width:55%">
+
+![](/images/Picture35.png)
+*Students pen messages of appreciation for the non-teaching staff and presented their messages during Labour Day.*
