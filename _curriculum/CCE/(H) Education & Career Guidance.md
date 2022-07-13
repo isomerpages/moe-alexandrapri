@@ -28,3 +28,8 @@ Students also learn to appreciate the importance of all occupations during the a
 
 ![](/images/Picture35.png)
 *Students pen messages of appreciation for the non-teaching staff and presented their messages during Labour Day.*
+
+<br>
+<br>
+
+![](/images/Picture36.png)
