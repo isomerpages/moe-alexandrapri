@@ -45,3 +45,6 @@ We conclude with the saying, “***Winners win, winners lose, but winners play**
 *   **Primary 3 Young Savers Camp**  
 
 Life Skills Camp @ ALPS is a day camp to equip students with life skills such as basic CPR and knot-tying. Students walk along the scenic Marina Bay district. As they enjoy the beautiful city view, they will also learn more about the different iconic places of Singapore. At the end of the trail, students will get to enjoy the water play features at the children’s playground at Gardens by the Bay.
+
+<img src="/images/PEJ.jpg" 
+     style="width:60%">
