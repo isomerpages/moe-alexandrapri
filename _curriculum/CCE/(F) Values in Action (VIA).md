@@ -28,4 +28,4 @@ In 2018, the Kindness Board was put up to encourage students to share kind deeds
 
 
 ![](/images/VIA%201.jpg)
-
+*Students designed posters to promote kindness in the school community.*
