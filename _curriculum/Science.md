@@ -86,3 +86,19 @@ The students’ submissions are evaluated using the following criteria:
 ![](/images/SCJ.png)
 
 ![](/images/SCK.png)
+
+B-2    Commemoration of Environment Events
+
+In order to raise the awareness of our students to environmental issues, the department plans for certain events to be commemorated in ALPS. Not only will participation in the planned activities help to develop a sense of regard for the environment, it helps to highlight their commitment to be responsible global citizens with a stake in conserving the environment.
+
+World Water Day
+
+The event was commemorated with an assembly talk followed by recess activities in the form of board games and posters to highlight the need to be responsible for water usage.
+
+![](/images/SCL.png)
+
+Earth Day
+
+  
+
+Earth Day is not as well-known as its cousin ‘Earth Hour’. It is a thematic annual event that demonstrates and promotes environmental awareness and calls for the protection of the earth. The activities for this meaningful event is planned based on the theme for the year. In 2016, the theme was 'Trees for the Earth’. In line with the theme, an assembly talk was conducted to promote environmental awareness. P1 and P2 students were asked to make a pledge that they can embed into a pot of soil at home. P3 students were given a planting kit to grow at home.
