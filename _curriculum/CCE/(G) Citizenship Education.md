@@ -25,14 +25,9 @@ Citizenship Education is delivered through both formal and informal curricula, w
 
   
 
-Primary 1: Community Trail
-
-Primary 2: Philatelic Experience
-
-Primary 3: Learning Journey to Chinatown & Tiong Bahru Digital Trail  
-
-Primary 4: Learning Journey to Kampong Glam     
-
-Primary 5: NE Show 
-
+Primary 1: Community Trail    
+Primary 2: Philatelic Experience    
+Primary 3: Learning Journey to Chinatown & Tiong Bahru Digital Trail     
+Primary 4: Learning Journey to Kampong Glam        
+Primary 5: NE Show     
 Primary 6: Learning Journey to Little India
