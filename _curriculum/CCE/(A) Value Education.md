@@ -8,7 +8,7 @@ third_nav_title: CCE
 
 ### Explicit Teaching of HER3OIC values and SEL competencies through Form Teacher Guidance Period (FTGP) and CCE lessons (in Mother Tongue Language
 
-The weekly assembly programme is focussed on inculcating the HER3OIC values in students. This year, the values of focus for each term are as follows: 
+The weekly assembly programme is focussed on inculcating the HER<sub>3</sub>OIC values in students. This year, the values of focus for each term are as follows: 
  
 Term 1: Respect & Responsibility     
 Term 2: Empathy & Creativity    
