@@ -29,3 +29,15 @@ In 2018, the Kindness Board was put up to encourage students to share kind deeds
 
 ![](/images/VIA%201.jpg)
 *Students designed posters to promote kindness in the school community.*
+
+
+_(iii) P5 VIA Project – Intergenerational Learning Programme (organised in collaboration with Family Central)_
+
+In 2019, the Primary 5 students embarked on a project to plan and implement a session to interact and share a skill with the elderly. The aim was to:
+
+*   promote intergenerational bonding; and to
+*   provide a platform for students to apply their leadership skills and the HER<sub>3</sub>OIC values. 
+
+Sessions planned in 2019 included fingerprint art, designing a tote bag, use of washi tape in decoration and terrarium-making. 
+
+Students had meaningful interactions with the elderly and reported high levels of satisfaction in leading this project.
