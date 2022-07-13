@@ -4,7 +4,7 @@ permalink: /curriculum/character-n-citizenship-education/g-citizenship-education
 description: ""
 third_nav_title: CCE
 ---
-# **G. Citizenship Education**
+# **(G) Citizenship Education**
 
 In line with the goal of strengthening the Singapore Spirit, Citizenship Education in ALPS aims to develop in students an awareness of the facts, opportunities and circumstances facing Singapore as well as a strong sense of emotional belong, pride and respect for the community and nation. 
 
