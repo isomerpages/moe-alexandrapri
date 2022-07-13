@@ -25,3 +25,7 @@ In 2018, the Kindness Board was put up to encourage students to share kind deeds
 | 2016 	| 2017 	| 2018 	| 2019 	|
 | ---	| ---	| ---	| ---	|
 | Kind & Clean Canteen 	| Super Words 	| Super Deeds (Actions) 	| Say “No” to Bullying & “Yes” to Kindness Campaign  	|
+
+
+![](/images/VIA%201.jpg)
+
