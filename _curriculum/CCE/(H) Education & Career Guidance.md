@@ -33,3 +33,6 @@ Students also learn to appreciate the importance of all occupations during the a
 <br>
 
 ![](/images/Picture36.png)
+
+![](/images/Picture37.png)
+*P4 Learning Journey to Kidzania*
