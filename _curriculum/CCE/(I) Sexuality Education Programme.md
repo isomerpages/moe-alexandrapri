@@ -4,7 +4,7 @@ permalink: /curriculum/character-n-citizenship-education/i-sexuality-education-p
 description: ""
 third_nav_title: CCE
 ---
-# **I. Sexuality Education Programme**
+# **(I) Sexuality Education Programme**
 
   
 
