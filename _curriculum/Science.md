@@ -12,7 +12,6 @@ description: ""
 *   Teaching and Learning to incorporate Scientific Inquiry, Knowledge and Reasoning to foster collaborative teamwork in the learning of Science 
 *   Nurturing the ALPS student to be a global citizen who is knowledgeable and inspired to take responsibility for the environment.
 
-  
 
 **What is Science Learning in ALPS?**   
 
@@ -77,3 +76,8 @@ This annual event is formulated on the principle that an ALPS student can be a:
 
 <img src="/images/SCH.png" 
      style="width:50%">
+		 
+As part of our Environmental Education, we have planned tasks for students to design and create useful objects by Reusing and Repurposing paper products. Primary 1 students are tasked to repurpose the cores of toilet roll or kitchen roll. Primary 2 students are tasked to repurpose other paper products. In this way, P1 and P2 students are introduced at a young age to the concepts of reusing and repurposing as a starting point of their environmental education.
+
+The students’ submissions are evaluated using the following criteria:
+	
