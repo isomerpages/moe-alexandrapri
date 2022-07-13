@@ -31,3 +31,5 @@ Primary 3: Learning Journey to Chinatown & Tiong Bahru Digital Trail  
 Primary 4: Learning Journey to Kampong Glam        
 Primary 5: NE Show     
 Primary 6: Learning Journey to Little India
+
+![](/images/CCE%20education-1.jpg)
