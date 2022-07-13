@@ -25,3 +25,10 @@ Held twice a year, Art@Recess is part of the vibrant school culture that ALPS ai
 
 *   **Aesthetics Week (Art & Music)**     
 The annual Aesthetics Week aims to enrich students’ learning in visual and performing arts through exposure to cultures around the world. With a different theme for each year, students will enjoy class performances, hands-on booths and music quizzes that would facilitate their immersion in artful cultural festivities.
+
+![](/images/ARTC.jpg)
+
+![](/images/ARTD.jpg)
+
+<img src="/images/ARTF%20(1).jpg" 
+     style="width:70%">
