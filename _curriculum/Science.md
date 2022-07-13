@@ -135,5 +135,11 @@ As a new department in ALPS, having being established in 2016, we are proud to r
 * 4th place for the Clean Plate Campaign among 35 participating schools.
 
 <img src="/images/tn-SCP.jpg" 
-     style="width:25%">
+     style="width:25%">		 
+		 
+(ii) Green Award (Singapore Environment Council)
 
+* Palm Award
+
+<img src="/images/SCQ.jpg" 
+     style="width:25%">
