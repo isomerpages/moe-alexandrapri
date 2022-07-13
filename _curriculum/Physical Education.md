@@ -13,3 +13,13 @@ The ALPS Southern Ridges Hike aims to promote camaraderie between our P1 and P2 
 ![](/images/PEA.jpg)
 
 ![](/images/PEB.jpg)
+
+<br>
+
+* **Sports Meet**  
+
+Athletic meets are held for every level to give students a chance to display the skills taught in their physical education lessons and compete with different classes in a variety of events. There are two basic kinds of events - individual and group. A running race is an example of an individual event. Group events, where students are divided into teams, include obstacle and relay courses.     
+
+At the end of the Sports Meet, prizes are awarded to the winners. Participating in various games and sports develop a feeling of sporting spirit. In sports, the participating candidate may win or lose. The student learns to accept both victories and defeats with grace. 
+
+We conclude with the saying, “***Winners win, winners lose, but winners play***”.
