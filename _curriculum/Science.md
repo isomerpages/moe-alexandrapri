@@ -44,4 +44,4 @@ The SIA is used as platform for teachers to evaluate the acquisition of process 
      style="width:50%">
 
 <img src="/images/SCD.jpg" 
-     style="width:50%">
+     style="width:70%">
