@@ -18,3 +18,21 @@ Citizenship Education is delivered through both formal and informal curricula, w
 (ii) **Little NE Ambassadors programme** – Students are given opportunities to lead the school in pledge-taking and flag-bearing daily;
 
 (iii) **Commemoration of NE Core Events (i.e. Total Defence Day, International Friendship Day, Racial Harmony Day and National Day)** – For each event, students are explicitly taught key NE messages and the significance of various events. They are given opportunities to apply their learning through various engaging hands-on activities; and
+
+![](/images/CCE%20education.jpg)
+
+(iv) **Experiential Learning Journeys (LJs)** – The learning journeys seek to complement the Social Studies and English curriculum by giving students a direct, sensory experience of Singapore’s rich history and heritage. The learning journeys for 2020 include: 
+
+  
+
+Primary 1: Community Trail
+
+Primary 2: Philatelic Experience
+
+Primary 3: Learning Journey to Chinatown & Tiong Bahru Digital Trail  
+
+Primary 4: Learning Journey to Kampong Glam     
+
+Primary 5: NE Show 
+
+Primary 6: Learning Journey to Little India
