@@ -43,3 +43,31 @@ The MTL Department aims to ignite passion in the students to learn and appreciat
 
 <img src="/images/MTL4.jpg" 
      style="width:50%">
+		 
+		 
+(iv)      Culture Appreciation Programme  
+
+The CL Department strives to enhance the lower primary students' interest in Chinese Language and Culture through attendance at cultural performance at public performing arts venues.                     
+
+For the Primary 3 students, the MTL Department accepts invitation from Hong Wen School to participate in the school’s Chinese Cultural Appreciation Programme. This programme allows the students to be exposed to the various Chinese art forms such as Chinese Painting, Chinese Calligraphy, Chinese Paper-cutting and Chinese Knots. 
+
+The post-programme activity conducted in class allows the students to be reflective and better appreciate the MT languages and culture.
+
+  
+
+(v)       Culture Festival Celebrations  
+
+To help students value Singapore’s socio-cultural diversity, and promote social cohesion and harmony, the MTL Department organises interesting and meaningful activities to celebrate Chinese New Year, Hari Raya Puasa, Mid-Autumn Festival and Deepavali. These activities allow students to have a better understanding of the other ethnic races’ culture and tradition and better appreciate the multi-racial and multi-cultural society in Singapore.
+
+
+![](/images/MTL5.jpg)
+_Chinese New Year Celebration - Prosperity Toss (Yu Sheng)_
+
+![](/images/MTL6.jpg)
+_Chinese New Year Celebration - Student's Performance_
+
+![](/images/MTL7.jpg)
+_Deepavali Celebration_
+
+![](/images/MTL8.jpg)
+_Hari Raya Celebration_
