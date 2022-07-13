@@ -116,3 +116,21 @@ In 2016, ALPS participated in the Food for the Heart Clean Plate Campaign for th
 ALPS Toymaker Programme    
 
 The ALPS Toymaker Programme provides an opportunity for students to apply Design Thinking principles in creating their toys, especially prototyping. The event is opened to all ALPS students who are encouraged to submit their creations. These are then shortlisted and judged using a set of criteria based on the Sony Creative Science Award. Winners will have their creation submitted for the Sony Creative Science Award. Certificates are given out to participants.
+
+![](/images/SCO.png)
+
+**(D) Achievements**
+
+As a new department in ALPS, having being established in 2016, we are proud to report the following achievements.  
+
+ (i) Sony Creative Science Award                           
+
+* Most shortlisted toys – WhizKid Category 
+* 1st prize – WhizKid Category 
+* Commendation Award- WhizKid Category
+* Merit Award - ScizKid P1 & P2 
+
+(ii) Clean Plate Campaign
+
+* 4th place for the Clean Plate Campaign among 35 participating schools.
+
