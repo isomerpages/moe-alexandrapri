@@ -10,9 +10,7 @@ description: ""
 *   Objective       
 The Mother-Tongue Language Department aims to nurture self-directed and life-long learners who can communicate effectively in their respective Mother-Tongue Languages, in written and spoken forms, and carry on the good practices of their culture and customs.   To achieve this, besides the MOE MTL syllabus and Character and Citizenship Education curriculum, the MT Language Department develops fun, exciting and engaging programmes to prepare students in attaining proficiency in the 4 language skills, namely Listening, Speaking, Reading and Writing, and achieving a deeper appreciation of our diverse cultures. The MTL teachers seek to create a caring, safe and stimulating learning environment for students to think critically, communicate confidently and make connection of the cultures associated with MT Languages.
 
-  
 
-#### 
 
 *   Programmes
 
@@ -36,13 +34,13 @@ The MTL teachers aim to arouse the students’ interest in learning their MT lan
 The MTL Department aims to ignite passion in the students to learn and appreciate their respective MT languages and culture by providing opportunities for them to be exposed to traditional art forms.
 
 <img src="/images/MTL2.jpg" 
-     style="width:50%">
+     style="width:30%">
 
 <img src="/images/MTL3.jpg" 
-     style="width:50%">
+     style="width:30%">
 
 <img src="/images/MTL4.jpg" 
-     style="width:50%">
+     style="width:30%">
 		 
 		 
 (iv)      Culture Appreciation Programme  
