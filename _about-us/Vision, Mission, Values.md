@@ -11,6 +11,9 @@ description: ""
 
 Every ALPS staff / student is A Reflective Learner, An Empathic Designer, and An Inspiring Leader.
 
+<br>
+<br>
+
 ### MISSION
 
 <img src="/images/Mission.jpg" style="width:200px;height:300px;margin-left:15px;" align = "right"> 
