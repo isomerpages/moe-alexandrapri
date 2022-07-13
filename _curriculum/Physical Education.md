@@ -25,13 +25,18 @@ At the end of the Sports Meet, prizes are awarded to the winners. Participating 
 
 We conclude with the saying, “***Winners win, winners lose, but winners play***”.
 
+<img src="/images/PEC.jpg" 
+     style="width:60%">
+		 
+<img src="/images/PED.jpg" 
+     style="width:60%">
+		 
+<img src="/images/PEF.jpg" 
+     style="width:60%">
 
-![](/images/PEC.jpg)
 
-![](/images/PED.jpg)
-
-![](/images/PEF.jpg)
-
+<br>
+<br>
 
 *   **Primary 4 Outdoor Environmental Camp** 
     
