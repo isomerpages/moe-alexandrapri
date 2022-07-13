@@ -45,3 +45,4 @@ The SIA is used as platform for teachers to evaluate the acquisition of process 
 
 <img src="/images/SCD.jpg" 
      style="width:70%">
+<center>Skills evaluation</center>
