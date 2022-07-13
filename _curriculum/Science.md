@@ -108,3 +108,5 @@ Clean Plate Campaign 
 An ALPS student is taught that reducing food waste is an important virtue. Each child is taught to be responsible enough to finish any food that they brought along or purchased during recess. They are asked to clean their food scrapes into a pail before returning their cutlery to the right places. We have appointed Food Ambassadors in the upper primary levels to serve as role models and help to monitor food wastage during recess.
 
 In 2016, ALPS participated in the Food for the Heart Clean Plate Campaign for the first time and came in fourth in a field of 35 participating schools. The result speaks well of the value embedded in our students.
+
+![](/images/SCN.png)
