@@ -110,3 +110,9 @@ An ALPS student is taught that reducing food waste is an important virtue. Each 
 In 2016, ALPS participated in the Food for the Heart Clean Plate Campaign for the first time and came in fourth in a field of 35 participating schools. The result speaks well of the value embedded in our students.
 
 ![](/images/SCN.png)
+
+**(C)    Design Thinking in Science**  
+
+ALPS Toymaker Programme    
+
+The ALPS Toymaker Programme provides an opportunity for students to apply Design Thinking principles in creating their toys, especially prototyping. The event is opened to all ALPS students who are encouraged to submit their creations. These are then shortlisted and judged using a set of criteria based on the Sony Creative Science Award. Winners will have their creation submitted for the Sony Creative Science Award. Certificates are given out to participants.
