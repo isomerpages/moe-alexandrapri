@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/(E) Mindfulness Programme.md
       - CCE/(F) Values in Action (VIA).md
       - CCE/(G) Citizenship Education.md
       - CCE/(H) Education & Career Guidance.md
