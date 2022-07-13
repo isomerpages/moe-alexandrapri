@@ -69,10 +69,11 @@ The Science Journal introduces a scientist that each student will learn in each 
 
 B-1     The ALPS Green Challenge 
 
-  
-
 This annual event is formulated on the principle that an ALPS student can be a:
 
 * Creative Green Planeteer by Reusing
 * Inventive Green Planeteer by Repurposing
 * Responsible Green Planeteer by Reusing
+
+<img src="/images/SCH.png" 
+     style="width:50%">
