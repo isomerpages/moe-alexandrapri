@@ -80,4 +80,5 @@ This annual event is formulated on the principle that an ALPS student can be a:
 As part of our Environmental Education, we have planned tasks for students to design and create useful objects by Reusing and Repurposing paper products. Primary 1 students are tasked to repurpose the cores of toilet roll or kitchen roll. Primary 2 students are tasked to repurpose other paper products. In this way, P1 and P2 students are introduced at a young age to the concepts of reusing and repurposing as a starting point of their environmental education.
 
 The students’ submissions are evaluated using the following criteria:
-	
+
+![](/images/SCI.png)
