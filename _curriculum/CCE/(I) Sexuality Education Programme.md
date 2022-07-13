@@ -70,4 +70,4 @@ c.       Character and Citizenship Education (CCE)
 
 10.  Parents can contact the school at Alexandra Primary School: 62485400 or email [suguna_manickam@moe.edu.sg](mailto:suguna_manickam@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
-11.       Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangement.
+11.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangement.
