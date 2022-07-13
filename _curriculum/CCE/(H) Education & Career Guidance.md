@@ -13,3 +13,8 @@ At Primary 4, students embark on a learning journey to Kidzania to gain initial 
 Since 2018, Primary 5 students take part in an annual ECG Carnival where they gain insights from sharings by speakers of various industries and experience hands-on activities relating to work in various industries. 
 
 Students also learn to appreciate the importance of all occupations during the annual Labour Day commemoration.
+
+<img src="/images/Picture32%20(1).png" 
+     style="width:55%">
+
+![](/images/Picture33.png)
