@@ -41,3 +41,5 @@ In 2019, the Primary 5 students embarked on a project to plan and implement a se
 Sessions planned in 2019 included fingerprint art, designing a tote bag, use of washi tape in decoration and terrarium-making. 
 
 Students had meaningful interactions with the elderly and reported high levels of satisfaction in leading this project.
+
+![](/images/VIA%202.jpg)
