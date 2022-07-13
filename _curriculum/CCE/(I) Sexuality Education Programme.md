@@ -54,11 +54,9 @@ c.       Character and Citizenship Education (CCE)
 
   
 
- 7.         The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_. 
+ 7.  The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_. 
 
-  
-
-[Please click this link to download the ALPS 2022 Sexuality Education Programme.](https://alexandrapri.moe.edu.sg/qql/slot/u146/Our%20Programmes/CCE/sexuality%20ed/ALPS%202022%20Sexuality%20Education%20Programme.pdf)  
+[Please click this link to download the ALPS 2022 Sexuality Education Programme.]()
 
   
 
