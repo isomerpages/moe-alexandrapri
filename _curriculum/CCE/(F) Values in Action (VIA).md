@@ -43,3 +43,13 @@ Sessions planned in 2019 included fingerprint art, designing a tote bag, use of 
 Students had meaningful interactions with the elderly and reported high levels of satisfaction in leading this project.
 
 ![](/images/VIA%202.jpg)
+
+_(iv) Partnerships with MINDS, Superhero Me and Rainbow Centre_ 
+
+Selected Primary 6 students have volunteered to take part in exchange programmes to interact with friends from MINDS and Rainbow Centre. Superhero Me facilitated some of the exchange programmes. These aim to spark bonds of friendship between the students and to promote an inclusive culture in the community. 
+
+Students applied the HER<sub>3</sub>OIC values in planning activities during the interaction sessions and preparing tokens of appreciation for their friends.
+
+![](/images/VIA%203.jpg)
+
+![](/images/VIA%204.jpg)
