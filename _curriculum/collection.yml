@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/(A) Value Education.md
       - CCE/(B) Form Teacher Interaction Time (FIT).md
       - CCE/(C) Breakfast with Friends Time (BFF Time).md
       - CCE/(D) Character Champions Programme.md
