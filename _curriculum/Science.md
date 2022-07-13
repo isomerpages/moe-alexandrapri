@@ -64,3 +64,15 @@ To allow students to:
 The Science Journal introduces a scientist that each student will learn in each level. For P3, Jane Goodall, an accomplished conservationist is adopted while Archimedes is the scientist of choice in P4 as the first topic is on properties of matter. Teachers prepare specific materials to be included in the journal such as science drawing of leaves, cross-section of an orange, fish and comparisons of animals using pictures.
 
 ![](/images/SCG.png)
+
+**(B) Environmental Education**
+
+B-1     The ALPS Green Challenge 
+
+  
+
+This annual event is formulated on the principle that an ALPS student can be a:
+
+* Creative Green Planeteer by Reusing
+* Inventive Green Planeteer by Repurposing
+* Responsible Green Planeteer by Reusing
