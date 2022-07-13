@@ -20,10 +20,8 @@ As a school, ALPS is committed to bringing out the best in every child through p
 
   
 
-Mdm Teo Ching Ling  张庆玲
-
-Principal
-
+Mdm Teo Ching Ling  张庆玲   
+Principal    
 Alexandra Primary School
 
 * * *
