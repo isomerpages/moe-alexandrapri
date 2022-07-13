@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science.md
       - Mother Tongue.md
       - CCE/Character & Citizenship Education.md
       - CCE/(A) Value Education.md
