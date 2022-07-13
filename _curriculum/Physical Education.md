@@ -67,6 +67,8 @@ Life Skills Camp @ ALPS is a day camp to equip students with life skills such as
 <img src="/images/PEG.jpg" 
      style="width:60%">
  
- ![](/images/PEH.jpg)
- 
- ![](/images/PEI.jpg)
+ <img src="/images/PEH.jpg" 
+     style="width:60%">
+		 
+<img src="/images/PEI.jpg" 
+     style="width:60%">
