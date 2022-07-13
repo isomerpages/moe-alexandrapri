@@ -57,4 +57,9 @@ Life Skills Camp @ ALPS is a day camp to equip students with life skills such as
  Life Skills Camp @ ALPS is a day camp to equip students with life skills such as outdoor cooking, organisational skills and basic homemaking skills. Students can look forward to making new friends from other classes as they participate in the different activities.
  
  
-    
+<img src="/images/PEG.jpg" 
+     style="width:60%">
+ 
+ ![](/images/PEH.jpg)
+ 
+ ![](/images/PEI.jpg)
