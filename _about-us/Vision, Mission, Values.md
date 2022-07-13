@@ -16,6 +16,6 @@ Every ALPS staff / student is A Reflective Learner, An Empathic Designer, and An
 ![](/images/Mission.jpg)
 
 
-### Values
+### OUR HER<sub>3</sub>OIC VALUES
 
 <img src="/images/Values.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
