@@ -32,3 +32,16 @@ A-1      Experiential Learning
 Science learning in ALPS centres on inquiry and discovery. With this core principle, science learning can take the form experiments or out of classroom experiences to peg the interest of the students.
 
 ![](/images/SCB.png)
+
+A-2     Science Investigation in Action (SIA)  
+
+The SIA is used as platform for teachers to evaluate the acquisition of process skills. Through the use of rubrics, teachers are able to give specific feedback on the attainment of process skills through a 3- rating structure of ‘Competent’, ‘Developing’ and ‘Novice’. Each child will complete the activity at each station within a stipulated time frame before moving on to the next one. There are 3 stations for the students to complete. Each station is based on a topic in the syllabus and evaluates specific skills.
+
+<img src="/images/SCE.jpg" 
+     style="width:50%">
+
+<img src="/images/SCC.jpg" 
+     style="width:50%">
+
+<img src="/images/SCD.jpg" 
+     style="width:50%">
