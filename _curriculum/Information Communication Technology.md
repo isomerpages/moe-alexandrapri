@@ -18,3 +18,11 @@ Technology has transformed our work and social environments, changing the way we
 ### Internet Safer Day 2022
 
 Internet Safer Day was conducted on 22nd February 2022 with trainers from Touch Wellness Services engaged to give talks to the students. Primary 1 to 3 students attended the online Zoom assembly programme “Proper Netiquette: Showing Respect Online & Offline” whereas Primary 4 to 6 students attended the programme on “Screen Time Management: Facing the Consequence of Multiple Screens”.
+
+![](/images/Picture1.jpg)
+
+
+The students acquired a better understanding of how to conduct themselves online and prioritize their screen time and participated whole heartedly using their Student Diary to respond to the online quiz.  At the end of the session, students were also tasked to complete an SLS lesson package on Netiquette and Screen Time Management to review their learning points.
+
+
+![](/images/Picture2.jpg)
