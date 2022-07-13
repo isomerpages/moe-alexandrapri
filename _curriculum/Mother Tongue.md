@@ -29,3 +29,17 @@ The MTL teachers aim to arouse the students’ interest in learning their MT lan
 
 <img src="/images/MTL1.jpg" 
      style="width:60%">
+		 
+		 
+(iii)      Mother-Tongue Fortnight Programme  
+
+The MTL Department aims to ignite passion in the students to learn and appreciate their respective MT languages and culture by providing opportunities for them to be exposed to traditional art forms.
+
+<img src="/images/MTL2.jpg" 
+     style="width:50%">
+
+<img src="/images/MTL3.jpg" 
+     style="width:50%">
+
+<img src="/images/MTL4.jpg" 
+     style="width:50%">
