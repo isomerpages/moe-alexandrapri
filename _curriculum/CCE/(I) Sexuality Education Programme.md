@@ -64,10 +64,10 @@ c.       Character and Citizenship Education (CCE)
 
 **Information for Parents**
 
-8.         Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.         Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an **Parent** **O****pt-out form** attached in the **Parents Gateway**. The completed Parent Opt-out form is to be submitted by **11/02/2022**.
+9. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an **Parent Opt-out form** attached in the **Parents Gateway**. The completed Parent Opt-out form is to be submitted by **11/02/2022**.
 
-10.  Parents can contact the school at Alexandra Primary School: 62485400 or email [suguna\_manickam@moe.edu.sg](mailto:suguna_manickam@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+10.  Parents can contact the school at Alexandra Primary School: 62485400 or email [suguna_manickam@moe.edu.sg](mailto:suguna_manickam@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
 11.       Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangement.
