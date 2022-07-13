@@ -26,3 +26,6 @@ The Conversational Chinese and Malay Programme was introduced to the Primary 3 s
 The MTL Department provides authentic opportunities for students to use their MT languages. 
 
 The MTL teachers aim to arouse the students’ interest in learning their MT languages by planning fun and meaningful activities to help them reinforce the learning of their MT language beyond the classrooms.
+
+<img src="/images/MTL1.jpg" 
+     style="width:60%">
