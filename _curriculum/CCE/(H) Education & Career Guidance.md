@@ -4,7 +4,7 @@ permalink: /curriculum/character-n-citizenship-education/h-education-n-career-gu
 description: ""
 third_nav_title: CCE
 ---
-# **H. Education & Career Guidance**
+# **(H) Education & Career Guidance**
 
 At ALPS, students develop greater awareness of future education pathways and careers through a variety of experiences. Students are exposed to various careers in various learning journeys. 
 
