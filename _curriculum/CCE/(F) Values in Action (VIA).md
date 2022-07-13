@@ -21,3 +21,7 @@ _(ii) Singapore Kindness Movement Project_ 
 Since 2016, ALPS Kindness Ambassadors have progressively promoted kindness with various focus each year. The projects aims to foster a positive culture centred on respect and empathy for others. 
 
 In 2018, the Kindness Board was put up to encourage students to share kind deeds which they have done.
+
+| 2016 	| 2017 	| 2018 	| 2019 	|
+| ---	| ---	| ---	| ---	|
+| Kind & Clean Canteen 	| Super Words 	| Super Deeds (Actions) 	| Say “No” to Bullying & “Yes” to Kindness Campaign  	|
