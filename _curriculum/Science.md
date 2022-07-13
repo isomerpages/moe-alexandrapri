@@ -82,3 +82,7 @@ As part of our Environmental Education, we have planned tasks for students to de
 The students’ submissions are evaluated using the following criteria:
 
 ![](/images/SCI.png)
+
+![](/images/SCJ.png)
+
+![](/images/SCK.png)
