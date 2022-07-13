@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/(C) Breakfast with Friends Time (BFF Time).md
       - CCE/(D) Character Champions Programme.md
       - CCE/(E) Mindfulness Programme.md
       - CCE/(F) Values in Action (VIA).md
