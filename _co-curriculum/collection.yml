@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCA/CCA.md
       - CCA/Clubs & Societies.md
       - CCA/Sports & Games.md
       - CCA/Visual and Performing Arts.md
