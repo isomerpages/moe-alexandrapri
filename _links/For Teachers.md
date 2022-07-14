@@ -3,7 +3,7 @@ title: For Teachers
 permalink: /links/for-teachers
 description: ""
 ---
-# **For Parents**
+# **For Teachers**
 
 | Quick Links 	| MOE Links 	| SSOE 2 Links 	|
 |---	|---	|---	|
