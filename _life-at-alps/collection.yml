@@ -2,9 +2,9 @@ collections:
   life-at-alps:
     output: true
     order:
-      - Intro/For Parents.md
-      - Intro/For Students.md
       - Intro/.keep
+      - Intro/For Students.md
+      - Intro/For Parents.md
       - Achievements/2021.md
       - Achievements/.keep
       - Achievements/2020.md
