@@ -11,7 +11,10 @@ locations:
     operating_hours:
       - days: Mon-Fri
         time: 7.00am - 6.00pm
-        description: Closed on Weekends and Public Holidays
+        description: |-
+          Bus Services: 51, 122, 139, 186, 970
+
+          Nearest MRT: Tiong Bahru & Redhill
     maps_link: https://goo.gl/maps/xGfWamaECz3pENEH6
     title: Address
 contacts:
