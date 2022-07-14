@@ -54,8 +54,6 @@ ALPS provides students with shared experiences that are linked to the Big Book t
 After reading how much the giant in the book that they have read enjoyed ice cream, the Primary 1 students get to enjoy their own yummy ice cream after adding sprinkles and chocolate fudge.
 
 <br>
-<br>
-
 
 <img src="/images/EL4.jpg" style="width:240px;height:180px;margin-left:15px;" align = "right">
 
@@ -63,6 +61,7 @@ After reading how much the giant in the book that they have read enjoyed ice cre
 
 Students read the book, Bubble Trouble, and found out their bubbles could be trouble. They each were then given a bottle of bubble liquid to test it out on their own. They discovered that bubbles were more fun than trouble!
 
+<br>
 
 *   **Programmes to promote APPRECIATION of the language**  
 In the teaching of EL, it is important to inculcate in our students an enjoyment and appreciation of how language conveys information and emotions, and enable the visualisation of the scenes created by words.
