@@ -41,3 +41,13 @@ The ALPS EL Curriculum is built based on the ALPS Philosophy.
 ![](/images/EL2.png)
 
 The ALPS EL curriculum uses LAMP as a metaphor to signify the importance of having an effective grasp of the English language. Language lights up the way for students to acquire and create knowledge, and at the same time connect and communicate with others.
+
+<br>
+
+*   **Programmes to Promote LEARNING**     
+ALPS adopts the Strategies for English Language Learning and Reading (STELLAR), a national pedagogic framework, in the teaching of EL. The Modified Language Experience Approach (MLEA) is one aspect of the STELLAR pedagogy. 
+
+<br>  
+
+*   **Modified Language Experience Approach (MLEA)**      
+ALPS provides students with shared experiences that are linked to the Big Book that they have read together in class. The shared experience (see examples below) provides the context and content for students to think, discuss and write, using the target language structures and vocabulary that they have been exposed to in their reading of the Big Book.
