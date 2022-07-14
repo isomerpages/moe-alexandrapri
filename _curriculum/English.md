@@ -16,11 +16,6 @@ description: ""
 <br>
 <br>
 
-
-
-
-
-
 *   **Articulation of the ALPS Vision**     
 Language is needed to shape thoughts, express emotions and even define the world view of individuals. To be a Reflective Learner, language is needed to encode what one is thinking and reflecting on. To be an Empathic Designer, understanding the language is required to understand others. To be an Inspiring Leader, a good grasp of the language is needed to communicate ideas. 
 				
@@ -51,3 +46,19 @@ ALPS adopts the Strategies for English Language Learning and Reading (STELLAR), 
 
 *   **Modified Language Experience Approach (MLEA)**      
 ALPS provides students with shared experiences that are linked to the Big Book that they have read together in class. The shared experience (see examples below) provides the context and content for students to think, discuss and write, using the target language structures and vocabulary that they have been exposed to in their reading of the Big Book.
+
+<img src="/images/EL3.jpg" style="width:240px;height:180px;margin-left:15px;" align = "right">
+
+**Primary 1: The Giant’s Ice Cream**
+
+After reading how much the giant in the book that they have read enjoyed ice cream, the Primary 1 students get to enjoy their own yummy ice cream after adding sprinkles and chocolate fudge.
+
+<br>
+<br>
+
+
+<img src="/images/EL4.jpg" style="width:240px;height:180px;margin-left:15px;" align = "right">
+
+**Primary 2: Bubble Trouble**  
+
+Students read the book, Bubble Trouble, and found out their bubbles could be trouble. They each were then given a bottle of bubble liquid to test it out on their own. They discovered that bubbles were more fun than trouble!
