@@ -37,3 +37,7 @@ The department sets its mission to create an engaging curriculum that will stimu
 
 *   **Embracing of the ALPS Philosophy**      
 The ALPS EL Curriculum is built based on the ALPS Philosophy.
+
+![](/images/EL2.png)
+
+The ALPS EL curriculum uses LAMP as a metaphor to signify the importance of having an effective grasp of the English language. Language lights up the way for students to acquire and create knowledge, and at the same time connect and communicate with others.
