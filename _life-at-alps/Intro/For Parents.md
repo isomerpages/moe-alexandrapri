@@ -6,7 +6,7 @@ third_nav_title: Intro
 ---
 # **For Parents**
 
-[Guidelines for School-Home Partnership](https://alexandrapri-moe-edu-sg-admin.cwp.sg/qql/slot/u146/Announcements/Guidelines%20for%20School-Home%20Partnership.pdf)
+[Guidelines for School-Home Partnership](/files/Guidelines%20for%20School-Home%20Partnership.pdf)
   
 [MC Online](https://www.mconline.sg/LEAD/login/lms_login.aspx)1  
   
