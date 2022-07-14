@@ -2,5 +2,6 @@ collections:
   life-at-alps:
     output: true
     order:
+      - E Yearbook/2015.md
       - E Yearbook/.keep
       - MOE Kindergarten @ Alexandra.md
