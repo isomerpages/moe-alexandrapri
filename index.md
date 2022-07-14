@@ -21,9 +21,4 @@ sections:
         - title: Parents Gateway Official Mobile App
           description: Read more
           url: /life-at-alps/intro/for-parents
-  - infobar:
-      title: Changes to PSLE Scoring and S1 Posting
-      description: "2021"
-      button: Read more
-      url: /faq/
 ---
