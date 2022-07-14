@@ -1,4 +1,5 @@
 collections:
   life-at-alps:
     output: true
-    order: []
+    order:
+      - MOE Kindergarten @ Alexandra.md
