@@ -82,3 +82,10 @@ _Primary 2 students watched The Ant and the Grasshopper presented by iTheatre._
 
 *   **Literature Is For Everyone (LIFE) Programme**  
 LIFE aims to allow students to learn from good literature. Through a guided approach, students pick up language models from the books, build experiences vicariously through the characters in the stories, appreciate the elements of good stories and develop meta-cognition skills to encourage empathy.
+
+![](/images/EL4.png)
+
+*   **Programmes to promote MASTERY**
+
+<img src="/images/EL5.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
+The ALPS EL curriculum aims to develop our students’ proficiency in the 4 language skills, Reading, Writing, Speaking and Listening, and the 2 language components, Grammar and Vocabulary. Mastery of the language lays the foundation for our students to gain access to learning of the other subjects such as, Mathematics, Science and to be more encompassing, learning about the world. One way to help students attain mastery is through reviews and assessment. Data collected from assessment will help inform teachers on how to further support students’ on their literacy acquisition journey.
