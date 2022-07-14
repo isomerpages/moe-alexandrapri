@@ -21,3 +21,9 @@ third_nav_title: "2019"
 ![](/images/Term4%20(8).jpg)
 
 ![](/images/Term4%20(9).jpg)
+
+![](/images/Term4%20(10).jpg)
+
+![](/images/Term4%20(11).jpg)
+
+![](/images/Term4%20(12).jpg)
