@@ -26,3 +26,6 @@ third_nav_title: "2021"
 
 ![](/images/tdd%20Slide2.jpg)
 
+![](/images/tdd%20Slide3.jpg)
+
+![](/images/tdd%20Slide4.jpg)
