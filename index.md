@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Alexandra Primary School
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
@@ -19,9 +19,9 @@ sections:
         - title: Guidelines for School-Home Partnership
           description: Read more
           url: /life-at-alps/intro/for-parents
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Parents Gateway Official Mobile App
+          description: Read more
+          url: /life-at-alps/intro/for-parents
   - infobar:
       title: Infobar title
       subtitle: Subtitle
