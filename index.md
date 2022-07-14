@@ -4,7 +4,7 @@ title: Alexandra Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -13,12 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: MOE Kindergarten Virtual Open House (29 Jan 2022)
+          description: Read more
+          url: /life-at-alps/moe-kindergarten-at-alexandra
+        - title: Guidelines for School-Home Partnership
+          description: Read more
+          url: /life-at-alps/intro/for-parents
         - title: Page A
           description: Page A is important too
           url: /privacy/
@@ -33,5 +33,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
-
