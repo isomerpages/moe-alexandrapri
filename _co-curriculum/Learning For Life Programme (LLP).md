@@ -40,3 +40,33 @@ Primary 4 students apply CQ concepts to understanding local cultures. They apply
 ![](/images/Game.png)
 
 Through playing a CQ game designed by the school, Primary 5 students get to explore different aspects of culture. They will use what they have learnt to understand the culture of ancient civilisations and other countries, as part of their Social Studies curriculum.
+
+### CQ Experiences
+
+The school organises experiences for students to apply what they have learnt about CQ.
+
+#### P5 Values-in-Education (VIA) – Intergenerational Learning Programme
+
+Students cross the culture of age in their interactions with senior citizens.
+
+![](/images/P5%20VIA.png)
+
+### **P5 Exchange Programme with Students from China**
+
+Students cross the culture of nationality through an opportunity to host students from China in our school.
+
+![](/images/Exchange%20China.png)
+
+### **P5 Immersion Programmes to China and Brunei**
+
+A selected group of students cross the culture of nationality through an opportunity to be immersed in the culture of the visiting country.
+
+![China Imm.png](https://alexandrapri.moe.edu.sg/qql/slot/u146/LLP/China%20Imm.png)  
+
+![Brunei.png](https://alexandrapri.moe.edu.sg/qql/slot/u146/LLP/Brunei.png)
+
+### **P6 Exchange Programme with Japanese Students**
+
+Students cross the culture of nationality through an opportunity to host students from The Japanese School, Singapore in our school. As flag-bearers of Singapore, our students shared with the Japanese students our culture and way of life.
+
+![Jap Sch Exchange.png](https://alexandrapri.moe.edu.sg/qql/slot/u146/LLP/Jap%20Sch%20Exchange.png)
