@@ -2,6 +2,7 @@ collections:
   life-at-alps:
     output: true
     order:
+      - E Yearbook/eYearbook.md
       - E Yearbook/2018.md
       - E Yearbook/2017.md
       - E Yearbook/2016.md
