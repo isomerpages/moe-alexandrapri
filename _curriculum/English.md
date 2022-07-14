@@ -76,3 +76,7 @@ Students Drop Everything And Read (D.E.A.R) between 7 a.m. and 7.30 a.m. and hav
 
 *   **Theatre Experience**  
 Theatre experience provides P1 to P3 students with the opportunity to appreciate the language in action and have a deeper understanding of story plots through the depiction of the actors.
+
+<img src="/images/EL3.png" 
+     style="width:60%">
+_Primary 2 students watched The Ant and the Grasshopper presented by iTheatre._
