@@ -6,3 +6,11 @@ third_nav_title: "2020"
 ---
 # **Term 1**
 
+![](/images/T1%20Slide1.jpg)
+
+![](/images/T2%20Slide2.jpg)
+
+![](/images/T1%20Slide3.jpg)
+
+![](/images/T1%20Slide4.jpg)
+
