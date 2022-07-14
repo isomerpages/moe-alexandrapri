@@ -89,3 +89,18 @@ LIFE aims to allow students to learn from good literature. Through a guided appr
 
 <img src="/images/EL5.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
 The ALPS EL curriculum aims to develop our students’ proficiency in the 4 language skills, Reading, Writing, Speaking and Listening, and the 2 language components, Grammar and Vocabulary. Mastery of the language lays the foundation for our students to gain access to learning of the other subjects such as, Mathematics, Science and to be more encompassing, learning about the world. One way to help students attain mastery is through reviews and assessment. Data collected from assessment will help inform teachers on how to further support students’ on their literacy acquisition journey.
+
+<br>
+<br>
+
+*   **PERFORM: Use the Language in Authentic Settings**  
+
+Opportunities are built into the EL curriculum to enable students to see the value of their learning of the  language.
+
+<img src="/images/EL6.png" style="width:200px;height:300px;margin-left:15px;" align = "right">
+
+In P1 and P2, the focus is for them to understand that they are able to acquire knowledge when they have good grasp of the EL. They are taken to places of interests for example, the Singapore Zoological Garden and the Jurong Bird Park respectively to learn about animals and birds through the written information at these two places. 
+
+In P3 and P4, the focus is for them to create and communicate knowledge through the use of EL. Students are taken on learning journeys for example the Tiong Bahru Heritage Tour and the Sungei Buloh Nature Reserve walk. Students have to put together a presentation of what they have learnt and share it with others.
+
+In P5 and P6, the focus is for them to experience EL as the lingua franca to communicate with others in different cultural context from theirs.
