@@ -10,7 +10,9 @@ third_nav_title: Intro
   
 [MC Online](https://www.mconline.sg/LEAD/login/lms_login.aspx)1  
   
-[Parents Gateway App (How-To)](https://alexandrapri-moe-edu-sg-admin.cwp.sg/qql/slot/u146/Official%20Note/PG%20-%20Annex%20A.pdf) [Changes to the PSLE Scoring and Secondary One Posting from 2021](https://www.moe.gov.sg/microsites/psle/PSLE%20Scoring/psle-scoring.html)   
+[Parents Gateway App (How-To) ](/files/PG%20-%20Annex%20A.pdf)
+
+[Changes to the PSLE Scoring and Secondary One Posting from 2021](https://www.moe.gov.sg/microsites/psle/PSLE%20Scoring/psle-scoring.html)   
   
 **Subject Based Banding (SBB) Information**  
 
