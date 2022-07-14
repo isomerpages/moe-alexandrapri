@@ -71,3 +71,5 @@ third_nav_title: "2021"
 ![](/images/T3%20Slide2%20(7).jpg)
 
 ![](/images/T3%20Slide3%20(7).jpg)
+
+![](/images/T3%20Slide4%20(6).jpg)
