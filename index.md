@@ -26,8 +26,4 @@ sections:
       description: "2021"
       button: Read more
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
