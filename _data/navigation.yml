@@ -6,14 +6,21 @@ links:
     collection: curriculum
   - title: Co-curriculum
     collection: co-curriculum
-  - title: Life @ APLS
-    collection: life-at-alps
+  - title: Life@ALPS
+    url: /life-at-alps/achievements/2021
+    sublinks:
+      - title: Events
+        url: /life-at-alps/events/2021/term-1
+      - title: Achievements
+        url: /life-at-alps/achievements/2021
+      - title: e-Yearboook
+        url: /life-at-alps/e-yearbook
+      - title: MOE Kindergarten @ Alexandra
+        url: /life-at-alps/moe-kindergarten-at-alexandra
   - title: Contact Us
     url: /contact-us/
   - title: ALPS HBL
     url: https://sites.google.com/moe.edu.sg/alps/home
-  - title: events
-    collection: events
   - title: Links
     collection: links
   - title: Resources
