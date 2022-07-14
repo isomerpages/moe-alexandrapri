@@ -14,7 +14,7 @@ third_nav_title: Intro
   
 **Subject Based Banding (SBB) Information**  
 
-*   [Subject Based Banding (English Language)](https://alexandrapri-moe-edu-sg-admin.cwp.sg/qql/slot/u146/Links/1.%20MOE_SBB_EL_1%20Mar%202018.pdf)
-*   [Subject Based Banding (Chinese Language)](https://alexandrapri-moe-edu-sg-admin.cwp.sg/qql/slot/u146/Links/2.%20MOE_SBB_CL_1%20Mar%202018.pdf)
-*   [Subject Based Banding (Malay Language)](https://alexandrapri-moe-edu-sg-admin.cwp.sg/qql/slot/u146/Links/3.%20MOE_SBB_ML_1%20Mar%202018.pdf)
-*   [Subject Based Banding (Tamil Language)](https://alexandrapri-moe-edu-sg-admin.cwp.sg/qql/slot/u146/Links/4.%20MOE_SBB_TL_1%20Mar%202018.pdf)
+*   [Subject Based Banding (English Language)](/files/MOE_SBB_EL_1%20Mar%202018.pdf)
+*   [Subject Based Banding (Chinese Language)](/files/MOE_SBB_CL_1%20Mar%202018.pdf)
+*   [Subject Based Banding (Malay Language)](/files/MOE_SBB_ML_1%20Mar%202018.pdf)
+*   [Subject Based Banding (Tamil Language)](/files/MOE_SBB_TL_1%20Mar%202018.pdf)
