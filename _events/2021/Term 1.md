@@ -19,3 +19,7 @@ third_nav_title: "2021"
 ![](/images/cny%20Slide1.jpg)
 
 ![](/images/cny%20Slide2.jpg)
+
+![](/images/cny%20Slide3.jpg)
+
+![](/images/tdd%20Slide1.jpg)
