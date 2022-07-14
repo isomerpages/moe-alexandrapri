@@ -62,3 +62,17 @@ After reading how much the giant in the book that they have read enjoyed ice cre
 **Primary 2: Bubble Trouble**  
 
 Students read the book, Bubble Trouble, and found out their bubbles could be trouble. They each were then given a bottle of bubble liquid to test it out on their own. They discovered that bubbles were more fun than trouble!
+
+
+*   **Programmes to promote APPRECIATION of the language**  
+In the teaching of EL, it is important to inculcate in our students an enjoyment and appreciation of how language conveys information and emotions, and enable the visualisation of the scenes created by words.
+
+<br>
+
+*   **Reading Programme**   
+Students Drop Everything And Read (D.E.A.R) between 7 a.m. and 7.30 a.m. and have about ten minutes of silent reading before the start of the EL lesson per day. This provides opportunity for students to engage in reading and develop a love for reading. 
+
+<br>
+
+*   **Theatre Experience**  
+Theatre experience provides P1 to P3 students with the opportunity to appreciate the language in action and have a deeper understanding of story plots through the depiction of the actors.
