@@ -79,3 +79,6 @@ Theatre experience provides P1 to P3 students with the opportunity to appreciate
 <img src="/images/EL3.png" 
      style="width:60%">
 _Primary 2 students watched The Ant and the Grasshopper presented by iTheatre._
+
+*   **Literature Is For Everyone (LIFE) Programme**  
+LIFE aims to allow students to learn from good literature. Through a guided approach, students pick up language models from the books, build experiences vicariously through the characters in the stories, appreciate the elements of good stories and develop meta-cognition skills to encourage empathy.
