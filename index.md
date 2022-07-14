@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Alexandra Primary School
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/ALPS.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -23,10 +23,9 @@ sections:
           description: Read more
           url: /life-at-alps/intro/for-parents
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Changes to PSLE Scoring and S1 Posting
+      description: "2021"
+      button: Read more
       url: /faq/
   - resources:
       title: Media
