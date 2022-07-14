@@ -5,6 +5,17 @@ description: ""
 ---
 # **School Information**
 
+### School Gate Operating Hours
+
+| School Gates 	| Vehicle Access 	| Pedestrian Access 	|
+|---	|---	|---	|
+| Gate 1 @ Prince Charles Crescent 	| (Buses & School Personnel only)<br>7.00 am - 7.30 am<br>1.00 pm - 2.00 pm 	| 7.00 am - 6.00 pm 	|
+| Gate 2 @ Prince Philip Avenue 	| 7.00 am - 7.30 am 	| 7.00 am - 7.30 am<br>1.30 pm - 1.45 pm<br>3.15 pm - 3.45 pm<br>(Friday only) 	|
+| Gate 3 @ Alexandra Road 	| NA 	| 7.00 am - 7.30 am<br>1.30 pm - 1.45 pm<br>3.15 pm - 3.45 pm<br>(Friday only) 	|
+
+
+#### Others
+
 |  	|  	|
 |---	|---	|
 | **School Library Operating Hours**<br><br>Monday to Friday: 8.00 am - 1.30 pm<br>(Closed on Saturday, Sunday & Public Holidays) 	| **School Dentist**<br><br>Monday to Thursdays: 8.00 am - 5.30 pm<br>Fridays: 8.00 am - 5.00 pm<br>(Closed for lunch Time: 12.30 pm - 1.30 pm) <br>Tel: 87645584 	|
