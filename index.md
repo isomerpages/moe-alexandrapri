@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Alexandra Primary School
       background: /images/Banner Photos/student.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: MOE Kindergarten Virtual Open House (29 Jan 2022)
