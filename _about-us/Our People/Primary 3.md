@@ -1,6 +1,6 @@
 ---
 title: Primary 3
-permalink: /about-us/our-people/primary-3
+permalink: /about-us/our-people/primary-3/
 description: ""
 third_nav_title: Our People
 ---
@@ -10,9 +10,8 @@ third_nav_title: Our People
 
 | **Class** 	| Form Teachers 	|
 |---	|---	|
-| **3 HARMONY** 	| Ms Harlina Binte Abdul Jalil<br>     <br>Mr Foo Weng Hong 	|
-| **3 EMPATHY** 	| Mdm Su Wan Ju (苏老师)<br>     <br>Mr Melvin Chin Wei Lie 	|
-| **3 RESILIENCE** 	| Mrs Tay-Lee Seng Mei <br>     <br>Mr Mohamed Saddiq   	|
-| **3 OPTIMISM** 	| Mr Panneer Selvam<br><br>Ms Zhang Wanqi 	|
-| **3 INTEGRITY** 	| Mr Raymond Tay Chee Beng   (郑老师)<br><br>Mdm Rani Haizuran Bte Abdul Rahman 	|
-| **3 CREATIVITY** 	| Mr Adriel Chia Wei Xian<br>     <br>Mrs Judy Lim (Chan Pei Ru) 	|
+| **3 HARMONY** 	| Miss Chen Jingjing (陈老师)<br>     	|
+| **3 EMPATHY** 	| Miss Charissa Ong Xiao En<br>     	|
+| **3 RESILIENCE** 	| Mrs Hazel Foo (Tan Xuanli) <br>     <br>Mr Foo Weng Hong   	|
+| **3 OPTIMISM** 	| Ms Jamie Wong Qian Ling<br><br>Miss Cheryl Chua Qihui	|
+| **3 INTEGRITY** 	|Ms Khoo Yi Hui<br><br>Mrs Ng-Tan Jun Hui (陈老师) 	|
