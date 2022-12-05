@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Alexandra Primary School
-      background: /images/ALPS.gif
+      background: /images/Banner Photos/student.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
