@@ -15,3 +15,22 @@ third_nav_title: "2022"
 
 ![](/images/2022%20Events/Term%203/Slide5.jpg)
 
+![](/images/2022%20Events/Term%203/Slide6.jpg)
+
+![](/images/2022%20Events/Term%203/Slide7.jpg)
+
+![](/images/2022%20Events/Term%203/Slide8.jpg)
+
+![](/images/2022%20Events/Term%203/Slide9.jpg)
+
+![](/images/2022%20Events/Term%203/Slide10.jpg)
+
+![](/images/2022%20Events/Term%203/Slide11.jpg)
+
+![](/images/2022%20Events/Term%203/Slide12.jpg)
+
+![](/images/2022%20Events/Term%203/Slide13.jpg)
+
+![](/images/2022%20Events/Term%203/Slide14.jpg)
+
+![](/images/2022%20Events/Term%203/Slide15.jpg)
