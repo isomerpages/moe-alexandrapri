@@ -10,8 +10,8 @@ third_nav_title: Our People
 
 | **Class** 	| Form Teachers 	|
 |---	|---	|
-| **3 HARMONY** 	| Miss Chen Jingjing (陈老师)<br>     	|
-| **3 EMPATHY** 	| Miss Charissa Ong Xiao En<br>     	|
+| **3 HARMONY** 	| Miss Chen Jingjing (陈老师)<br>    <br> 	|
+| **3 EMPATHY** 	| Miss Charissa Ong Xiao En<br>   <br>  	|
 | **3 RESILIENCE** 	| Mrs Hazel Foo (Tan Xuanli) <br>     <br>Mr Foo Weng Hong   	|
 | **3 OPTIMISM** 	| Ms Jamie Wong Qian Ling<br><br>Miss Cheryl Chua Qihui	|
 | **3 INTEGRITY** 	|Ms Khoo Yi Hui<br><br>Mrs Ng-Tan Jun Hui (陈老师) 	|
