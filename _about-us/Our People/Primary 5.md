@@ -1,6 +1,6 @@
 ---
 title: Primary 5
-permalink: /about-us/our-people/primary-5
+permalink: /about-us/our-people/primary-5/
 description: ""
 third_nav_title: Our People
 ---
@@ -11,9 +11,9 @@ third_nav_title: Our People
 
 | Class 	| Form Teachers 	|
 |---	|---	|
-| **5 HARMONY** 	| Mrs Serene Quek (Chee Hui Lee)<br>     <br>Ms Priscilla Chiang 	|
-| **5 EMPATHY** 	| Mrs Navin (Gayathri   Mangai)<br>     <br>Mdm Sharon Goh Shiao Yuen   	|
-| **5 RESILIENCE** 	| Mr Simon Raj s/o   Panirsilvam<br>     <br>Miss Joanne Tan Wei Shen 	|
-| **5 OPTIMISM**  	| Mdm Lin Huiting<br>     <br>Mrs Shirlyn Ling (Pang Shyue Ling) 	|
-| **5 INTEGRITY**  	| Miss Ellene Chew Ee Lin <br>     <br>Mr Neo Sian Lee 	|
-| **5 CREATIVITY**  	| Mr Tang Keng Soon<br>     <br>Mrs Gopinathan (Logeswary) 	|
+| **5 HARMONY** 	| Ms Dewi Nurazlin Binte Aziz<br>     <br>Mrs Yvonne Seah (Chung Tsui Ping) 	|
+| **5 EMPATHY** 	| Mdm Alison Heu<br>     <br>Mdm Sharon Goh Shiao Yuen   	|
+| **5 RESILIENCE** 	| Mdm Chai Gek Mui<br>     <br>Ms Kowk Hui Min 	|
+| **5 OPTIMISM**  	| Miss Kua Li En<br>     <br>Mr Ting Huat Seng 	|
+| **5 INTEGRITY**  	| Ms Ng Peck Yong <br>     <br>	|
+| **5 CREATIVITY**  	| Mdm Chia Ai Tian<br>     <br>Miss Kavitha d/o Annadhura 	|
