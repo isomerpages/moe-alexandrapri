@@ -1,6 +1,6 @@
 ---
 title: Art
-permalink: /curriculum/art
+permalink: /curriculum/art/
 description: ""
 ---
 # **Art**
