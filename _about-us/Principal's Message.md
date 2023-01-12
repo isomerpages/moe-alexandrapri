@@ -22,7 +22,9 @@ Starting from 3 Jan 2023, ALPS will operate MK@Alexandra and welcome our first c
 
 We warmly welcome Mdm Choy Yuan Chun, the Centre Head (CH) of MK@Alexandra, and her team of pioneer MK educators (MKE):
 
-*  Dania Amelina Binte Jumari   ![](/images/School%20Leaders/SLs%20and%20MK%20Team.jpg)
+<img src="/images/School%20Leaders/SLs%20and%20MK%20Team.jpg" style="width:350px;height:200px;margin-left:15px;" align = "right">
+
+*  Dania Amelina Binte Jumari  
 * Justine Ong Kai Yee
 * Nadirah Binte Maszelan
 * Nur Haziqah Binte Anwar
