@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /about-us/our-people/non-teaching-staff
+permalink: /about-us/our-people/non-teaching-staff/
 description: ""
 third_nav_title: Our People
 ---
@@ -8,11 +8,11 @@ third_nav_title: Our People
 
 |  	|  	|
 |---	|---	|
-| **Administration   Manager** 	| Ms Low Suat Har Casey 	|
+| **Administration   Manager** 	| Ms Stacey Ng Pei Sze <br> <br> Mdm Pang Siew Cheng 	|
 | **Operations   Manager** 	| Mr Koh Chye Leong 	|
-| **Administrative   Executive** 	| Ms Ang Kim<br>     <br>Ms Leong Si Min Joanne<br>     <br>Miss Noorasyakirah Rahmat 	|
+| **Administrative   Executive** 	| Ms Leong Si Min Joanne<br>     <br>Miss Noorasyakirah Rahmat 	|
 | **Teacher   Aide** 	| Miss Tan Hong Choo Keslin 	|
-| **Library   Assistant** 	| Mdm Surina Binte Shumanan 	|
-| **ICT   Executive** 	| Mr Joseph   Manarang 	|
+| **Library   Assistant** 	| Mdm Ismalyia Bte Ismail 	|
+| **ICT   Executive** 	| Miss Tina 	|
 | **Desktop   Engineer** 	| Mr   Mohamed Ghazzali<br>     <br>     Mr Noorman Bin Mohamed 	|
-| **Operations   Support Officer** 	| Mdm Goh Sang Mui Helen<br>     <br>Mr Chua Peng Khoon<br>     <br>Mr Chan Boon Wan<br>     <br>Mr Lim Tiong Nghee 	|
+| **Operations   Support Officer** 	| Mdm Goh Sang Mui Helen<br>     <br>Mr Chua Peng Khoon<br>     <br>Mr Chan Boon Wan	|
