@@ -1,22 +1,41 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
 # **Principal's Message**
 
 
-**Shine from Within, Soar on Eagle’s Wings**  
+
+
+**A New Milestone in ALPS’ Journey of Growing the Next Generation**
 
 <img src="/images/Principal%20Photo.jpg" style="width:180px;height:200px;margin-left:15px;" align = "right">
 
-2020 celebrates the courage and resilience of men and women striving to overcome the sudden onslaught of the COVID challenge. Against this backdrop of complex and uncertain reality, one thing is sure. Education of our next generation must continue as a priority to safeguard and stabilize our future. I am truly honoured to assume responsibility as the Principal of Alexandra Primary School (ALPS) with effect from 15 Dec 2020.
+        
 
-Appreciation is due to the founding principal, Mrs Lim Bee Lay, who has led her team in building a firm foundation for the school. Together with supportive stakeholders from the School Advisory Committee, Parent Support Group, parents and the community, the young school of seven years has already successfully groomed two cohorts of graduates. Standing on this solid base, the school aspires to gather strength in carrying out our mission to “create a caring, safe and stimulating school environment where each child can grow and glow”.
+2023 marks the tenth year of operation since Alexandra Primary School (ALPS) opened our gates in 2014 to welcome young learners into our campus to begin their formal education. Since then, the school has groomed four cohorts of P6 graduands and celebrated alongside their parents our students’ many achievements and developmental milestones. Though ALPS is a young school, we stand tall in our commitment to focus on the holistic development of our students and anchor them on sound values to signpost what is right in a world that is becoming increasingly complex and ambiguous. We believe it is important to equip our young charges with skills for the future and a moral compass to guide their decision making in life no matter their station in society. We recognize that every child is unique and will support them to discover and develop their strengths and to manage their weaknesses.   
 
-I believe in harnessing the power of love to help Alexandrians shine and soar. As writer C.S. Lewis said, “Love is not an affectionate feeling, but a steady wish for the loved person’s ultimate goal as far as it can be obtained.” I hope for our Alexandrians to shine from within, living the school’s HER<sub>3</sub>OIC<sub>1</sub>  values through their word and deed. I have faith that our Alexandrians will be empowered to soar on eagle’s wings, learning to see beyond constraints, ride above the storms of life and rise to greater heights.
+In 2022, ALPS was recognized as a good school by an external team of validators from MOE who studied our processes, programmes and priorities. We achieved well in our finance and safety audits and our Learning for Life Programme (LLP) on Cultural Intelligence was surfaced as a best practice. Our alumnus, Arianne Teow (Class of 2022), received the Lee Kuan Yew All-Round Excellence (LKY-ARE) Award, a pinnacle award that recognizes students who are not only strong in academic achievements but also in leadership and contribution to the community. This signifies that the school has built on strong foundations and is on a clear trajectory of excellence going forward. Though the transition years have been a difficult time for everyone as we navigate disruptions brought about by the pandemic, our efforts are relentless. Relying on whatever goodwill and trust earned over the first few years of relationship building, we bore witness to significant sacrifices of our staff and strong support from our School Advisory Committee (SAC), community partners and parents, especially our Parent Support Group (PSG). Our students, too, observed and learnt from the adults in their lives and quickly adapted to safety measures and home-based learning that helped them continue learning. What kept us all going is our indomitable spirit and instinct to not only survive but also regenerate after a baptism of fire. Education of our next generation continues to be our top priority and we resolve for Alexandrians to grow up demonstrating our HER         <sup>3</sup>OIC values <sup>1</sup>. ALPS aspires to grow from strength to strength in carrying out our mission to “create a caring, safe and stimulating school environment where each child can grow and glow”.
 
-As a school, ALPS is committed to bringing out the best in every child through providing a holistic education and engaging the support of many willing hearts and helping hands. We look forward to the partnership of our stakeholders to consolidate and multiply our efforts. The lyrics of the school song rightly captured our aspiration: “The sky is our limit, on eagle’s wings we will take flight.” Together, let us help every ALPS student shine from within and soar on eagle’s wings! 
+Starting from 3 Jan 2023, ALPS will operate MK@Alexandra and welcome our first cohort of 120 Kindergarten students. This marks a significant milestone in the history of ALPS. We are excited to partner with our preschool colleagues to create greater impact in the young children’s development starting from the golden window of learning opportunity at the early ages of 4 and 5.
+
+We warmly welcome Mdm Choy Yuan Chun, the Centre Head (CH) of MK@Alexandra, and her team of pioneer MK educators (MKE):
+
+*  Dania Amelina Binte Jumari 
+* Justine Ong Kai Yee
+* Nadirah Binte Maszelan
+* Nur Haziqah Binte Anwar
+* Patricia Tay Ai Tin
+* Tamima Hana
+* Tan Yuan Ching, Rachel
+* Yang Huiqin
+* Yasmin Binte Mohamed Yusoff
+* Zhu Lijun
+
+
+As we usher in 2023, we look forward to a celebratory tenth anniversary for ALPS and the sustained and strong partnership of our stakeholders in helping us and our students to grow and glow!
+
 
   
 
@@ -25,4 +44,4 @@ Principal
 Alexandra Primary School
 
 * * *
-**HER<sub>3</sub>OIC values:** Harmony, Empathy, Resilience, Responsibility, Respect, Optimism, Integrity, Creativity.
+**HER<sup>3</sup>OIC values:** Harmony, Empathy, Resilience, Responsibility, Respect, Optimism, Integrity, Creativity.
