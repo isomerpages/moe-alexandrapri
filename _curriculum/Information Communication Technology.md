@@ -1,6 +1,6 @@
 ---
 title: Information Communication Technology
-permalink: /curriculum/information-communication-technology
+permalink: /curriculum/information-communication-technology/
 description: ""
 ---
 # **ICT Programme in ALPS**

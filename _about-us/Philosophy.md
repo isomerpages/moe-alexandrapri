@@ -1,6 +1,6 @@
 ---
 title: Philosophy
-permalink: /about-us/philosophy
+permalink: /about-us/philosophy/
 description: ""
 ---
 # **Philosophy**

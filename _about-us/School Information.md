@@ -1,6 +1,6 @@
 ---
 title: School Information
-permalink: /about-us/school-information
+permalink: /about-us/school-information/
 description: ""
 ---
 # **School Information**

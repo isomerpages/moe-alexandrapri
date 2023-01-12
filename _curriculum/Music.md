@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /curriculum/music
+permalink: /curriculum/music/
 description: ""
 ---
 # **Music**
