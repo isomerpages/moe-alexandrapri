@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner Photos/student.jpg
       url: /contact-us/
       key_highlights:
         - title: MOE Kindergarten Virtual Open House (29 Jan 2022)
