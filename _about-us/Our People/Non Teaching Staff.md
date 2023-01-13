@@ -11,6 +11,7 @@ third_nav_title: Our People
 | **Administration   Manager** 	| Ms Stacey Ng Pei Sze <br> <br> Mdm Pang Siew Cheng 	|
 | **Operations   Manager** 	| Mr Koh Chye Leong 	|
 | **Administrative   Executive** 	| Ms Leong Si Min Joanne<br>     <br>Miss Noorasyakirah Rahmat 	|
+| **Corporate Support Officer** 	| Mdm Lim See Fong<br>     <br>Mdm Khatijah Binte Abdul Raup <br> <br> Mdm Tan Goke Hong Jasmine 	|
 | **Teacher   Aide** 	| Miss Tan Hong Choo Keslin 	|
 | **Library   Assistant** 	| Mdm Ismalyia Bte Ismail 	|
 | **ICT   Executive** 	| Miss Tina 	|
