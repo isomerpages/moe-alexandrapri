@@ -26,5 +26,4 @@ links:
   - title: Links
     collection: links
   - title: MK@Alexandra
-    url: Mk at Alexandra
-    sublinks: []
+    collection: mk-at-alexandra
