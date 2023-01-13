@@ -29,7 +29,7 @@ We create a caring, safe and stimulating school environment where each child can
 
 
 
-### OUR HER<sub>3</sub>OIC VALUES
+### OUR HER<sup>3</sup>OIC VALUES
 
 <img src="/images/Values.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
