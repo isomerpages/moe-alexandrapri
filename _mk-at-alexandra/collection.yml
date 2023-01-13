@@ -1,4 +1,5 @@
 collections:
   mk-at-alexandra:
     output: true
-    order: []
+    order:
+      - Center Head's Message.md
