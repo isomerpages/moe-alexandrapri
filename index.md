@@ -9,9 +9,6 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: MOE Kindergarten Virtual Open House (29 Jan 2022)
-          description: Read more
-          url: /life-at-alps/moe-kindergarten-at-alexandra
         - title: Guidelines for School-Home Partnership
           description: Read more
           url: /life-at-alps/intro/for-parents
