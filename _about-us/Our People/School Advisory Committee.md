@@ -14,4 +14,4 @@ third_nav_title: Our People
 
 ![](/images/School%20Advisory%20Comm-2.jpg)
 
-![](/images/School%20Advisory%20Comm-3.jpg)
+![](/images/School%20Leaders/School%20Advisory%20Leaders%20.jpg)
