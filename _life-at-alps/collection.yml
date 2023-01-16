@@ -1,0 +1,21 @@
+collections:
+  life-at-alps:
+    output: true
+    order:
+      - Intro/.keep
+      - Intro/For Students.md
+      - Intro/For Parents.md
+      - Achievements/2021.md
+      - Achievements/.keep
+      - Achievements/2020.md
+      - Achievements/2019.md
+      - Achievements/2018.md
+      - Achievements/2017.md
+      - Achievements/2016.md
+      - Achievements/2015.md
+      - E Yearbook/eYearbook.md
+      - E Yearbook/2018.md
+      - E Yearbook/2017.md
+      - E Yearbook/2016.md
+      - E Yearbook/2015.md
+      - E Yearbook/.keep

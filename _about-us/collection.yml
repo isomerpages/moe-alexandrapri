@@ -1,0 +1,22 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Values.md
+      - Philosophy.md
+      - School Song.md
+      - School Information.md
+      - Our People/School Leaders.md
+      - Our People/School Advisory Committee.md
+      - Our People/Key Personnel.md
+      - Our People/Primary 1.md
+      - Our People/Primary 2.md
+      - Our People/Primary 3.md
+      - Our People/Primary 4.md
+      - Our People/Primary 5.md
+      - Our People/Primary 6.md
+      - Our People/Other Teaching Staff.md
+      - Our People/Non Teaching Staff.md
+      - Our People/Parent Support Group.md
+      - Our People/.keep

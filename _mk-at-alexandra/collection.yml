@@ -1,0 +1,6 @@
+collections:
+  mk-at-alexandra:
+    output: true
+    order:
+      - Center Head's Message.md
+      - Information.md
