@@ -3,8 +3,6 @@ title: Information
 permalink: /mk-at-Alexandra/information/
 description: ""
 ---
-
-        
 We warmly welcome Mdm Choy Yuan Chun, the Centre Head (CH) of MK@Alexandra, and her team of pioneer MK educators (MKE):
 
         
@@ -27,3 +25,5 @@ We warmly welcome Mdm Choy Yuan Chun, the Centre Head (CH) of MK@Alexandra, and 
 * Yasmin Binte Mohamed Yusoff
 
 * Zhu Lijun
+
+For more information about MOE Kindergartens (MK), click [here](http://www.moe.gov.sg/mk).
