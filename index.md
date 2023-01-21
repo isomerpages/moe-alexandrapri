@@ -15,5 +15,5 @@ sections:
         - title: Parents Gateway Official Mobile App
           description: Read more
           url: /life-at-alps/intro/for-parents
-      background: /images/School Logo/ALEXANDRA_Logo_Small.png
+      background: /images/Banner Photos/student.jpg
 ---
