@@ -1,4 +1,4 @@
-logo: /images/School Logo/ALEXANDRA.png
+logo: /images/School Logo/ALEXANDRA_SMALL.png
 links:
   - title: About Us
     collection: about-us
@@ -16,14 +16,12 @@ links:
       - title: Achievements
         url: /life-at-alps/achievements/2021
       - title: e-Yearboook
-        url: /life-at-alps/e-yearbook
-      - title: MOE Kindergarten @ Alexandra
-        url: /life-at-alps/moe-kindergarten-at-alexandra
+        url: /life-at-alps/E-Yearbook/
   - title: Contact Us
     url: /contact-us/
-  - title: ALPS HBL
-    url: https://sites.google.com/moe.edu.sg/alps/home
   - title: Links
     collection: links
   - title: MK@Alexandra
     collection: mk-at-alexandra
+  - title: HBL
+    url: https://sites.google.com/moe.edu.sg/alps/home

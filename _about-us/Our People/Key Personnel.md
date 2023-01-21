@@ -22,7 +22,7 @@ third_nav_title: Our People
 | **Year Head (P1 & P2)** 	| Miss Patricia Sin Pingting 	|
 | **Year Head (P3 & P4)** 	| Miss Joanne Tan Wei Shen 	|
 | **Year Head (P5 & P6)** 	| Ms Kwok Hui Min  	|
-| **SH (ICT)** 	| Mr Simon Raj s/o Panirsilvam 	|
+| **SH (Tech)** 	| Mr Simon Raj s/o Panirsilvam 	|
 | **SH (MTL)** 	| Mr Mohamed Saddiq 	|
 | **SH (Student Well-Being)** 	| Mr Geoffrey Tan Hui Juai (陈老师) 	|
 | **SH (Innovation & Project Work)** 	| Mr Melvin Chin Wei Lie 	|
