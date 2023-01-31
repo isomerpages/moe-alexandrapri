@@ -19,6 +19,6 @@ description: ""
 |  	|  	|
 |---	|---	|
 | **School Library Operating Hours**<br><br>Monday to Friday: 8.00 am - 1.30 pm<br>(Closed on Saturday, Sunday & Public Holidays) 	| **School Dentist**<br><br>Monday to Thursdays: 8.00 am - 5.30 pm<br>Fridays: 8.00 am - 5.00 pm<br>(Closed for lunch Time: 12.30 pm - 1.30 pm) <br>Tel: 87645584 	|
-| **School Bookshop**<br><br>Ricky Book Centre<br>Tel: 8875 9554 	| **ALPS Dental Clinic Schedule for January 2023**<br><br>Opening Date:<br>03/01/2023 to 06/01/2023, 16/01/2023 to 20/01/2023 and 30/01/2023 to 31/01/2023<br><br>Closure Dates:<br>09/01/2023 to 13/01/2023 and 23/01/2023 to 27/01/2023   	|
+| **School Bookshop**<br><br>Ricky Book Centre<br>Tel: 8875 9554 	| **ALPS Dental Clinic Schedule for February 2023**<br><br>Opening Date:<br>02/02/2023 to 03/02/2023, 13/02/2023 to 17/02/2023 and 27/02/2023 to 28/02/2023<br><br>Closure Dates:<br>06/02/2023 to 10/02/2023 and 20/02/2023 to 24/02/2023   	|
 | **School Uniform**<br><br>BIBI & BABA Pte Ltd	<br>213 Henderson Road #01-12	<br>Singapore 159553<br><br>Business Hours:<br>Monday to Friday: 9.00 am - 1.00 pm<br>Saturday: 9.00 am - 12.30 pm 	| **School Bus Operator**<br><br>Revolving Transport Pte Ltd<br>34 Jalan Tari Piring Singapore 799187<br>Tel: 6481 4013 / 6481 4529 	|
 | **Student Care Centre**<br><br>Afterschool @ Alexandra Primary School by<br>NTUC First Campus<br>Hotline: 8787 8065  	|  	|
