@@ -27,4 +27,4 @@ third_nav_title: Our People
 | **SH (Student Well-Being)** 	| Mr Geoffrey Tan Hui Juai (陈老师) 	|
 | **SH (Innovation & Project Work)** 	| Mr Melvin Chin Wei Lie 	|
 | **SH (CCE)** 	| Mrs Shirlyn Ling (Pang Shyue Ling) 	|
-| **SH (Science)** 	| Ms Jamie Wong Qian Ling) 	|
+| **SH (Science)** 	| Ms Jamie Wong Qian Ling 	|
