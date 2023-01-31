@@ -35,7 +35,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) f
 
 
 
-5.        The subjects that incorporate topics on sexuality include:
+5.         The subjects that incorporate topics on sexuality include:
 
 a.       Science
 
@@ -48,7 +48,7 @@ b.       Character and Citizenship Education (CCE)
 
 7.          Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-[Please click this link to download the ALPS 2022 Sexuality Education Programme.]()
+[Please click this link to download the ALPS 2023 Sexuality Education Programme.](https://drive.google.com/file/d/1qdD_K8sbMSAC1ongKsIF3_8e4Z2SigzQ/view?usp=share_link)
 
 
 
@@ -59,4 +59,3 @@ b.       Character and Citizenship Education (CCE)
 9.  Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete a **Parent Opt-out form** attached in the **Parents Gateway**. The completed Parent Opt-out form is to be submitted by **10/02/2023**.
 
 10.  Parents can contact the school at Alexandra Primary School: 62485400 or email [suguna_manickam@moe.edu.sg](mailto:suguna_manickam@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-
