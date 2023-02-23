@@ -13,4 +13,4 @@ description: ""
 | [Cyber Wellness - Media Literacy Council](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)  	|
 | [Education and Career Guidance (ECG)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)  	|
 | [Direct School Admission (DSA)](https://www.moe.gov.sg/secondary/dsa) 	|
-[OPAC](https://schoolibrary.moe.edu.sg/alexandrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+[OPAC](https://schoolibrary.moe.edu.sg/alexandrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  |
