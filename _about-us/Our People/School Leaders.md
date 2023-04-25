@@ -6,4 +6,4 @@ third_nav_title: Our People
 ---
 # **School Leaders**
 
-![](/images/SL%20Photo%20for%20Website.jpg)
+![SL Group Photo](/images/School%20Leaders/sls%20group%20photo.jpg)
