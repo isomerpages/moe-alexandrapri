@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 # **Parent Support Group**
 
-![](/images/PSG%20exco%202021-2-2.jpg)
+![PSG](/images/PSG/2023%20psg%20exco%20collage.png)
 
         
 
