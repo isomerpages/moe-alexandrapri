@@ -10,8 +10,9 @@ third_nav_title: Our People
 
 
 
-![](/images/School%20Leaders/sac%202023%20to%202025.jpg)
+![SAC Member 1](/images/School%20Leaders/sac%20member%201.png)
 
+![SAC Member 2](/images/School%20Leaders/sac%20member%202.png)
 
 
 ![](/images/School%20Leaders/School%20Advisory%20Leaders%20.jpg)
