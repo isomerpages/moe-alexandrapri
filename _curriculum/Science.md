@@ -7,7 +7,7 @@ description: ""
 
 ### The Primary Science Curriculum
 
-![](/images/Department/Science/Upload/7th%20pic%201.jpg)
+![](/images/Department/Science/Upload/7th%20pic%202.jpg)
 
 **Objectives of the Primary Science Curriculum**
 
