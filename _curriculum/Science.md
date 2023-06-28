@@ -91,9 +91,9 @@ This annual event is formulated on the principle that an ALPS student can be a:
 * Inventive Green Planeteer by Repurposing
 * Responsible Green Planeteer by Reusing
 
-
+![](/images/Department/Science/Upload/6th%20pic.jpg)
 		 
-As part of our Environmental Education, we have planned tasks for students to design and create useful objects by Reusing and Repurposing paper products. Primary 1 students are tasked to repurpose the&nbsp;cores of toilet roll or kitchen roll. Primary 2 students are tasked to repurpose other paper products. In this way, P1 and P2 students are introduced at a young age to the concepts of reusing and repurposing as a starting point of their environmental education.
+As part of our Environmental Education, we have planned tasks for students to design and create useful objects by Reusing and Repurposing paper products. Primary 1 students are tasked to repurpose the cores of toilet roll or kitchen roll. Primary 2 students are tasked to repurpose other paper products. In this way, P1 and P2 students are introduced at a young age to the concepts of reusing and repurposing as a starting point of their environmental education.
 
 The students’ submissions are evaluated using the following criteria:
 
@@ -105,7 +105,7 @@ The students’ submissions are evaluated using the following criteria:
 
 B-2 &nbsp; &nbsp;Commemoration of Environment Events
 
-In order to raise the awareness of our students to environmental issues, the department plans for certain events to be commemorated in ALPS. Not only will participation in the planned activities help&nbsp;to develop a sense of regard for the environment, it helps to highlight their commitment to be responsible global citizens with a stake in conserving the environment.
+In order to raise the awareness of our students to environmental issues, the department plans for certain events to be commemorated in ALPS. Not only will participation in the planned activities help to develop a sense of regard for the environment, it helps to highlight their commitment to be responsible global citizens with a stake in conserving the environment.
 
 World Water Day
 
