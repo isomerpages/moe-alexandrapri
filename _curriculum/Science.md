@@ -7,7 +7,7 @@ description: ""
 
 ### The Primary Science Curriculum
 
-![](/images/Department/Science/Upload/science%20curriculum%20logo%201.jpg)
+![](/images/Department/Science/Upload/7th%20pic%201.jpg)
 
 **Objectives of the Primary Science Curriculum**
 
@@ -51,7 +51,8 @@ Science learning in ALPS centres on inquiry and discovery. With this core princi
 
 The use of ICT is promoted through the use of Dataloggers, Nearpod, Padlet and Augmented Reality through iPads or Laptops. For example, P5 students learn about the Respiratory System.
 
-![](/images/Department/Science/Upload/4th%20pic.jpg)
+
+![](/images/Department/Science/Upload/4th%20pic%201.jpg)
 
 **A-4&nbsp; &nbsp;Science Journal ** 
 
@@ -91,7 +92,7 @@ This annual event is formulated on the principle that an ALPS student can be a:
 * Inventive Green Planeteer by Repurposing
 * Responsible Green Planeteer by Reusing
 
-![](/images/Department/Science/Upload/6th%20pic.jpg)
+![](/images/Department/Science/Upload/6th%20pic%201.jpg)
 		 
 As part of our Environmental Education, we have planned tasks for students to design and create useful objects by Reusing and Repurposing paper products. Primary 1 students are tasked to repurpose the cores of toilet roll or kitchen roll. Primary 2 students are tasked to repurpose other paper products. In this way, P1 and P2 students are introduced at a young age to the concepts of reusing and repurposing as a starting point of their environmental education.
 
@@ -139,7 +140,7 @@ In 2016, ALPS participated in the Food for the Heart Clean Plate Campaign for th
    
 The School Green Awards is a yearly environmental programme which serves as a platform for schools and students to develop and showcase their environmental efforts. Due to our continued efforts in promoting sustainable living habits amongst staff, students and the community, our school has been awarded the Yellow Flame Award for 3 consecutive years since 2020.
 
-![](/images/Department/Science/Upload/14th%20pic.jpg)
+![](/images/Department/Science/Upload/14th%20pic%201.jpg)
 
 **(C)&nbsp;&nbsp; &nbsp;Design Thinking in Science**  
 
