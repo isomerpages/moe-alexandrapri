@@ -53,7 +53,7 @@ The use of ICT is promoted through the use of Dataloggers, Nearpod, Padlet and A
 
 ![](/images/Department/Science/Upload/4th%20pic.jpg)
 
-**A-4&nbsp; &nbsp; Science Journal ** 
+**A-4&nbsp; &nbsp;Science Journal ** 
 
 Objectives of the Science Journal
 
