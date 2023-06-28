@@ -7,7 +7,7 @@ description: ""
 
 ### The Primary Science Curriculum
 
-
+![](/images/Department/Science/Upload/science%20curriculum%20logo%201.jpg)
 
 **Objectives of the Primary Science Curriculum**
 
@@ -36,7 +36,7 @@ Science teachers adopt the 3C approach, namely Capture, Construct and Consolidat
 
 **Consolidate** learning through exit cards, topical reviews and assessments.
 
-
+![](/images/Department/Science/Upload/2nd%20pic.jpg)
 
   
 **(A) Teaching and Learning Programmes**  
@@ -45,40 +45,45 @@ A-1&nbsp; &nbsp; &nbsp; Experiential Learning
 
 Science learning in ALPS centres on inquiry and discovery. With this core principle, science learning&nbsp;can take the form experiments or out of classroom experiences to peg the interest of the students.
 
-![](/images/SCB.png)
+![](/images/Department/Science/Upload/3rd%20pic.jpg)
 
-A-2&nbsp; &nbsp; &nbsp;Science Investigation in Action (SIA)  
+A-2&nbsp; &nbsp; &nbsp;Use of ICT in the Learning Science
 
-The SIA is used as platform for teachers to evaluate the acquisition of process skills. Through the use of rubrics, teachers are able to give specific feedback on the attainment of process skills through a 3- rating structure of ‘Competent’, ‘Developing’ and ‘Novice’. Each child will complete the activity at each station within a stipulated time frame before moving on to the next one. There are 3 stations for the students to complete. Each station is based on a topic in the syllabus and evaluates specific skills.
+The use of ICT is promoted through the use of Dataloggers, Nearpod, Padlet and Augmented Reality through iPads or Laptops. For example, P5 students learn about the Respiratory System.
 
-<img src="/images/SCE.jpg" style="width:50%">
-
-<img src="/images/SCC.jpg" style="width:50%">
-
-<img src="/images/SCD.jpg" style="width:70%">
-<center>Skills evaluation</center>
-
-A-3&nbsp; &nbsp; &nbsp;Use of ICT in the Learning of Science
-
-![](/images/SCF.png)
-
+![](/images/Department/Science/Upload/4th%20pic.jpg)
 
 A-4&nbsp; &nbsp; Science Journal  
 
-To allow students to:
+Objectives of the Science Journal
 
 *   build on their prior knowledge, readings or classroom experiences to relate to their Science investigation
 *   develop conceptual knowledge
 *   become more aware of their own learning and what they can do to self- direct it
 
 
-The Science Journal introduces a scientist that each student will learn in each level. For P3, Jane Goodall,&nbsp;an accomplished conservationist is adopted while Archimedes is the scientist of choice in P4 as the first topic is on properties of matter. Teachers prepare specific materials to be included in the journal such as science drawing of leaves, cross-section of an orange, fish and comparisons of animals using pictures.
+The Science Journal introduces a scientist that each student will learn in each level. For P3, Jane Goodall,&nbsp;an accomplished conservationist is adopted while Archimedes is the scientist of choice in P4 as the first topic is on properties of matter. Teachers prepare specific materials to be included in the journal such as science drawing of leaves or a 3D flower model. Exit cards, notes and mini-activities are also included in the science journal.
 
-![](/images/SCG.png)
+A-5&nbsp; &nbsp; Science Enrichment Programme
+
+ALPS offers the GEP E2K enrichment programme to selected students from P4 to P6. Due to the nature of the programme, class size is pegged at a maximum of 25 students. On average, the programme for each level lasted for 12 sessions which provide sufficient time for 2 to 3 E2K activities. Students are exposed to critical thinking and analysis in scientific experimentation through different scenarios to arrive at scientific theories and principles. For P6 students, they carry out experiments to determine the best possible characteristics of a vehicle that they designed.
+
+![](/images/Department/Science/Upload/5th%20pic%20%20.jpg)
 
 **(B) Environmental Education**
 
-B-1&nbsp; &nbsp; &nbsp;The ALPS Green Challenge&nbsp;
+In Alexandra Primary School, we want to develop learners who think critically and inventively to solve environmental issues while showing care for the environment.
+
+Our ALPS Environmental Education Programme allows our students to:
+
+**1.**&nbsp;&nbsp;&nbsp;&nbsp; **Learn** environmental issues to model the way<br>
+**2.**&nbsp;&nbsp;&nbsp;&nbsp; **Think of ways to save** the environment and overcome challenges <br>
+**3.**&nbsp;&nbsp;&nbsp;&nbsp; **Do the actions** that will save the environment to be a good role model <br>
+**4.**&nbsp;&nbsp;&nbsp;&nbsp; **Share with others** to encourage and enable others to care and protect the environment 
+
+To do so, we have programmes such as the **(A)** ALPS P1-P2 Green Challenge, **(B)** Commemoration of environmental events like World Water Day and Earth Day, and **(C)** Everyday Responsibilities such as recycling and clean plate routine to provide students opportunities to learn environmental knowledge experientially.
+
+B-1&nbsp; &nbsp; &nbsp;ALPS P1-P2 Green Challenge&nbsp;
 
 This annual event is formulated on the principle that an ALPS student can be a:
 
@@ -86,7 +91,7 @@ This annual event is formulated on the principle that an ALPS student can be a:
 * Inventive Green Planeteer by Repurposing
 * Responsible Green Planeteer by Reusing
 
-<img src="/images/SCH.png" style="width:50%">
+
 		 
 As part of our Environmental Education, we have planned tasks for students to design and create useful objects by Reusing and Repurposing paper products. Primary 1 students are tasked to repurpose the&nbsp;cores of toilet roll or kitchen roll. Primary 2 students are tasked to repurpose other paper products. In this way, P1 and P2 students are introduced at a young age to the concepts of reusing and repurposing as a starting point of their environmental education.
 
