@@ -126,7 +126,7 @@ In 2016, ALPS participated in the Food for the Heart Clean Plate Campaign for th
 
 ![](/images/SCN.png)
 
-**Recyling**&nbsp;
+**Recycling**&nbsp;
 
    Each class is encouraged to set up recycling bins in their classrooms at the start of the year so that students practise recycling right by cleaning the recyclables before recycling them.
 	 
