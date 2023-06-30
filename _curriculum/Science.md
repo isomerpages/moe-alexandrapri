@@ -136,7 +136,7 @@ In 2016, ALPS participated in the Food for the Heart Clean Plate Campaign for th
    
 The School Green Awards is a yearly environmental programme which serves as a platform for schools and students to develop and showcase their environmental efforts. Due to our continued efforts in promoting sustainable living habits amongst staff, students and the community, our school has been awarded the Yellow Flame Award for 3 consecutive years since 2020.
 
-![](/images/Department/Science/Upload/14th%20pic%201.jpg)
+![](/images/Department/Science/Upload/14th%20pic.jpg)
 
 **(C)&nbsp;&nbsp; &nbsp;Design Thinking in Science**  
 
