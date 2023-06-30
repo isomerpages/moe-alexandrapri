@@ -110,7 +110,7 @@ Yearly, our school celebrates World Water Day by conducting assembly talks and c
 
 ![](/images/Department/Science/Upload/10th%20pic.jpg)
 
-**Earth Day**
+**Earth Day Recess Activities**
 
 Earth Day is not as well-known as its cousin ‘Earth Hour’. It is a thematic annual event that demonstrates and promotes environmental awareness and calls for the protection of the earth. The activities for this meaningful event is planned based on the theme for the year. In 2023, the theme is 'Invest in Our Planet’. Through collaboration with the Parent Support Group, recess activities are planned so that students can learn more about sustainable living habits such as recycling, upcycling and growing edibles.
 
