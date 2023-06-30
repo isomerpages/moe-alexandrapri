@@ -50,7 +50,6 @@ Science learning in ALPS centres on inquiry and discovery. With this core princi
 
 The use of ICT is promoted through the use of Dataloggers, Nearpod, Padlet and Augmented Reality through iPads or Laptops. For example, P5 students learn about the Respiratory System.
 
-
 ![](/images/Department/Science/Upload/4th%20pic%201.jpg)
 
 **A-4&nbsp; &nbsp;Science Journal ** 
@@ -91,7 +90,7 @@ This annual event is formulated on the principle that an ALPS student can be a:
 * Inventive Green Planeteer by Repurposing
 * Responsible Green Planeteer by Reusing
 
-![](/images/Department/Science/Upload/8th%20pic%203.png)
+![](/images/Department/Science/Upload/8th%20pic4.jpg)
 		 
 As part of our Environmental Education, we have planned tasks for students to design and create useful objects by Reusing and Repurposing paper products. Primary 1 students are tasked to repurpose the cores of toilet roll or kitchen roll. Primary 2 students are tasked to repurpose other paper products. In this way, P1 and P2 students are introduced at a young age to the concepts of reusing and repurposing as a starting point of their environmental education.
 
