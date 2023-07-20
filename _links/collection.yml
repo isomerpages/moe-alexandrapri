@@ -2,8 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Bus Operator/For Service Providers.md
-      - Bus Operator/.keep
       - For Teachers.md
       - For Parents.md
       - For Students.md
