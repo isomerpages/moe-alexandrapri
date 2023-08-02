@@ -18,7 +18,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Application Procedure**
 
 1.  Complete the [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
-2.  Submit the completed Call for Proposal - Annex A by closing date, DD August 2023 to the School's General Office.
+2.  Submit the completed Call for Proposal - Annex A by closing date, 14 August 2023 to the School's General Office.
 
 * Address: 2A Prince Charles Crescent Singapore 159016
 * Contact No: 62485400
