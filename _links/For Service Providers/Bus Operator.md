@@ -10,12 +10,12 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**
 
-1. Call for Proposal
-2. Agreement for Appointment of Schools Bus Operator
+1. [Call for Proposal](/files/call%20for%20proposals.pdf)
+2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
 **Application Procedure**
 
-1.  Complete the Call for Proposal - Annex A
+1.  Complete the [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
 2.  Submit the completed Call for Proposal - Annex A by closing date, DD August 2023 to the School's General Office.
 
 * Address: 2A Prince Charles Crescent Singapore 159016
