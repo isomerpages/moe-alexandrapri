@@ -20,10 +20,10 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Address: 2A Prince Charles Crescent Singapore 159016
 * Contact No: 62485400
-* Email: loh_kah_hong@schools.gov.sg
+* Email: alexandra_ps@moe.edu.sg
 * Contact Person: Mr Loh Kah Hong, VP (Admin)
 
 **How to get there?**
 
-* Nearest Mrt: Tiong Bahru & Redhill (EW Line)
+* Nearest Mrt: Tiong Bahru & Redhill (10-15 minutes walking distance)
 * Bus number: 51, 122, 139, 186, 970
