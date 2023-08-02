@@ -8,6 +8,7 @@ third_nav_title: For Service Providers
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
+<br>
 
 **Service Requirements**
 
@@ -26,5 +27,5 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **How to get there?**
 
-* Nearest Mrt: Tiong Bahru & Redhill (10-15 minutes walking distance)
+* Nearest Mrt: Tiong Bahru &amp; Redhill (10-15 minutes walking distance)
 * Bus number: 51, 122, 139, 186, 970
