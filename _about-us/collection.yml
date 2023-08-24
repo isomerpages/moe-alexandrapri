@@ -2,12 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/School Information.md
-      - School Information/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Philosophy.md
       - School Song.md
+      - School Information/.keep
+      - School Information/School Information.md
+      - Our People/.keep
       - Our People/School Leaders.md
       - Our People/School Advisory Committee.md
       - Our People/Key Personnel.md
@@ -20,4 +21,3 @@ collections:
       - Our People/Other Teaching Staff.md
       - Our People/Non Teaching Staff.md
       - Our People/Parent Support Group.md
-      - Our People/.keep
