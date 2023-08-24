@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - School Bus Service/School Information.md
-      - School Bus Service/.keep
+      - School Information/School Information.md
+      - School Information/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Philosophy.md
