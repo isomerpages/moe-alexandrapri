@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-bus-service/
 description: ""
 third_nav_title: School Information
 ---
- **School Bus Operator and Bus Fare**
+**School Bus Operator and Bus Fare**
 
 
 
