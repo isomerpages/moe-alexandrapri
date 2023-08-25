@@ -1,6 +1,6 @@
 ---
-title: Bus Operator
-permalink: /links/for-service-providers/bus-operator/
+title: School Bus Advertisement
+permalink: /links/for-service-providers/school-bus-advertisement/
 description: ""
 third_nav_title: For Service Providers
 ---
