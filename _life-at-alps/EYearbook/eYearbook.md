@@ -1,11 +1,9 @@
 ---
 title: eYearbook
-permalink: /life-at-alps/E-Yearbook/
+permalink: /life-at-alps/e-yearbook/
 description: ""
-third_nav_title: E Yearbook
+third_nav_title: EYearbook
 ---
-
-
 # **E-Yearbook**
 
 
