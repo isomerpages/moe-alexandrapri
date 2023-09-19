@@ -4,7 +4,7 @@ permalink: /about-us/10th-year-anniversary/10th-anniverysary-tree-planting/
 description: ""
 third_nav_title: 10th Year Anniversary
 ---
-![](/images/10th%20Year%20Anniversary/tree%20planting.jpg)
+![](/images/10th%20Year%20Anniversary/tree%20planting%20photo.JPG)
 
 <br>
 
