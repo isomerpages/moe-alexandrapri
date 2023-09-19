@@ -22,4 +22,4 @@ As this mural unfolds, it celebrates not only the school but also the nurturing 
 
 * * *
 
-</sup></sup>
+ <sup>1</sup> ALPS Mission: We create a caring, safe and stimulating school environment where each child can GROW and GLOW.</sup></sup>
