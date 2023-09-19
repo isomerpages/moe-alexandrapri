@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - 10th Year Anniversary/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Philosophy.md
@@ -23,3 +22,4 @@ collections:
       - Our People/Other Teaching Staff.md
       - Our People/Non Teaching Staff.md
       - Our People/Parent Support Group.md
+      - 10th Year Anniversary/.keep
