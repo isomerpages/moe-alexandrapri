@@ -14,7 +14,7 @@ Against a backdrop of swirling colours, reminiscent of the iconic Rainbow Stairc
 
 Amidst a diverse array of Co-Curricular Activities (CCAs) ranging from Clubs and Societies represented by Cheerleading to the realm of Sports &amp; Games exemplified by Badminton, and Uniformed Groups—Scouts, we witness enthusiastic learners passionately pursuing their interests. The mural also showcases ALPS' distinctive and enriching curriculum which are supported by specially designed environments like MusicKingdom and the Bouldering Wall.
 
-As this mural unfolds, it celebrates not only the school but also the nurturing environment where students from both ALPS and MOE Kindergarten @ Alexandra **Grow and Glow** in the warmth of learning, friendship, and discovery. The mural stands as a tribute to the past, seeks to illuminate the present, and heralds the future of ALPS, embodying a decade of excellence and a promise of more to come.
+As this mural unfolds, it celebrates not only the school but also the nurturing environment where students from both ALPS and MOE Kindergarten @ Alexandra **Grow and Glow<sup>1<sup>** in the warmth of learning, friendship, and discovery. The mural stands as a tribute to the past, seeks to illuminate the present, and heralds the future of ALPS, embodying a decade of excellence and a promise of more to come.
 
   
 
@@ -22,4 +22,4 @@ As this mural unfolds, it celebrates not only the school but also the nurturing 
 
 * * *
 
-[\[1\]](#_ftnref1) ALPS Mission: We create a caring, safe and stimulating school environment where each child can GROW and GLOW.
+</sup></sup>
