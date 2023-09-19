@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 10th Year Anniversary/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Philosophy.md
