@@ -1,8 +1,8 @@
 ---
 title: 10th Anniversary Tree Planting
-permalink: /about-us/10th-year-anniversary/10th-anniverysary-tree-planting/
+permalink: /about-us/alps-10th-anniversary/10th-anniverysary-tree-planting/
 description: ""
-third_nav_title: 10th Year Anniversary
+third_nav_title: ALPS 10th Anniversary
 ---
 ![](/images/10th%20Year%20Anniversary/tree%20planting.jpg)
 

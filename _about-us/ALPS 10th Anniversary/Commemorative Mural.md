@@ -1,8 +1,8 @@
 ---
 title: Commemorative Mural
-permalink: /about-us/10th-year-anniversary/commemorative-mural/
+permalink: /about-us/alps-10th-anniversary/commemorative-mural/
 description: ""
-third_nav_title: 10th Year Anniversary
+third_nav_title: ALPS 10th Anniversary
 ---
 ![](/images/10th%20Year%20Anniversary/alps%20mural.jpg)
 
