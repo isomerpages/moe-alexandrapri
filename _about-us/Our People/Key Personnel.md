@@ -19,7 +19,7 @@ third_nav_title: Our People
 | **HOD (CCE)** 	| Miss Kavitha d/o Annadhurai 	|
 | **HOD (Student Management)** 	| Mrs Yvonne Seah 	|
 | **School Staff Developer** 	| Ms Jean Lim Yi Jun 	|
-| **Assistant Year Head (P1 & P2) Covering** 	| Rebecca Ng 	|
+| **Assistant Year Head (P1 & P2) Covering** 	|Mrs Rebecca Ng 	|
 | **Year Head (P3 & P4)** 	| Miss Joanne Tan Wei Shen 	|
 | **Year Head (P5 & P6)** 	| Ms Kwok Hui Min  	|
 | **SH (Tech)** 	| Mr Simon Raj s/o Panirsilvam 	|
