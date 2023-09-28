@@ -15,5 +15,5 @@ third_nav_title: Our People
 | **Teacher   Aide** 	| Miss Tan Hong Choo Keslin 	|
 | **Library   Assistant** 	| Ms Karen Chuah Ee Hsuan 	|
 | **ICT   Executive** 	| Miss Tina 	|
-| **Desktop   Engineer** 	| Mr   Mohamed Ghazzali<br>     <br>     Mr Noorman Bin Mohamed 	|
-| **Operations   Support Officer** 	| Mdm Goh Sang Mui Helen<br>     <br>Mr Chua Peng Khoon<br>     <br>Mr Chan Boon Wan<br>   <br>Goh Boon Hin<br>  <br>Loong Sue Loon	|
+| **Desktop   Engineer** 	| Mr   Noorman Bin Mohamed<br>     <br>     Mr Kng Wei Jie 	|
+| **Operations   Support Officer** 	| Mdm Goh Sang Mui Helen<br>     <br>Mr Chua Peng Khoon<br>     <br>Mr Chan Boon Wan<br>   <br>Mr Goh Boon Hin<br>  <br>Mr Loong Sue Loon	|
