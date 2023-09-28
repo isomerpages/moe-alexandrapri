@@ -11,7 +11,7 @@ third_nav_title: Our People
 | **Administration   Manager** 	| Ms Tan Geok Hwa 	|
 | **Operations   Manager** 	| Mr Koh Chye Leong 	|
 | **Administrative   Executive** 	| Ms Leong Si Min Joanne<br>     <br>Miss Noorasyakirah Rahmat 	|
-| **Corporate Support Officer** 	| Mdm Lim See Fong<br>     <br>Mdm Khatijah Binte Abdul Raup <br> <br> Natasha Abdullah 	|
+| **Corporate Support Officer** 	| Mdm Lim See Fong<br>     <br>Mdm Khatijah Binte Abdul Raup <br> <br>Ms Natasha Abdullah 	|
 | **Teacher   Aide** 	| Miss Tan Hong Choo Keslin 	|
 | **Library   Assistant** 	| Ms Karen Chuah Ee Hsuan 	|
 | **ICT   Executive** 	| Miss Tina 	|
