@@ -4,27 +4,11 @@ permalink: /mk-at-alexandra/our-people/
 description: ""
 third_nav_title: Information
 ---
-We warmly welcome Mdm Choy Yuan Chun, the Centre Head (CH) of MK@Alexandra, and her team of pioneer MK educators (MKE):
+# **Our People**
 
-        
-* Dania Amelina Binte Jumari
- 
-* Justine Ong Kai Yee
-
-* Nadirah Binte Maszelan
- 
-* Nur Haziqah Binte Anwar
- 
-* Patricia Tay Ai Tin
- 
-* Tamima Hana
- 
-* Tan Yuan Ching, Rachel
-
-* Yang Huiqin 
-
-* Yasmin Binte Mohamed Yusoff
-
-* Zhu Lijun
-
-For more information about MOE Kindergartens (MK), click [here](http://www.moe.gov.sg/mk).
+|  	|  	|
+|---	|---	|
+| **Centre Head** 	| Mdm Choy Yuan Chun 	|
+| **Senior Teacher ( Chinese Language)** 	| Mdm Zhu Lijun 	|
+| **English Language** 	| Ms Dania Amelina Binte Jumari<br>     <br>Ms Nur Haziqah Binte Anwar <br> <br>Ms Patricia Tay Ai Tin <br><br> Ms Tamima Hana <br> <br>Ms Tan Yuan Ching, Rachel <br> <br> Ms Lim Rui Shyuan, Ruth 	|
+| **Mother Tongue Languages** 	| Ms Nadirah Binte Maszelan<br>     <br>Mdm Yasmin Binte Mohamed Yusoff <br> <br>Ms Justine Ong Kai Yee <br> <br> Ms Yang Huiqin <br> <br>Ms Wang Haiyan <br> <br>Mdm Liow Geok Mui, Teresa 	|
