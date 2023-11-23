@@ -5,4 +5,6 @@ description: ""
 third_nav_title: Information
 variant: markdown
 ---
-[MK School Environment](https://youtu.be/1HMvezhdGvA?si=raYwZfPzm0nAtalG)
+### MK School Environment
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1HMvezhdGvA?si=J5CpHPLIgDNAQBlK" height="315" width="560"></iframe>
