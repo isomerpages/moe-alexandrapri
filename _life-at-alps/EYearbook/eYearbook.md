@@ -1,8 +1,9 @@
 ---
 title: eYearbook
-permalink: /life-at-alps/e-yearbook/
+permalink: /life-at-alps/e-yearbook/eyearbook/
 description: ""
 third_nav_title: EYearbook
+variant: tiptap
 ---
 # **E-Yearbook**
 
