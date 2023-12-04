@@ -2,6 +2,7 @@
 title: For Students
 permalink: /links/for-students/
 description: ""
+variant: markdown
 ---
 # **For Students**
 
@@ -14,3 +15,4 @@ description: ""
 | [Koobits (Mathematics)](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login) 	|
 | [Zoom (Students' Guide)](https://drive.google.com/file/d/1PKGas75K-i9ZHm0ZhJ3eRdcVv4JfdTeU/view) 	|
 [School Library OPAC](https://schoolibrary.moe.edu.sg/alexandrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
+|[My SkillsFuture for Students](https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html)
