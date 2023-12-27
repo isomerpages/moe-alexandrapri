@@ -14,7 +14,7 @@ variant: markdown
 | **Class** 	| Form Teachers 	|
 |---	|---	|
 | **1 HARMONY** 	| Miss Joy Koh<br>     <br>Miss Lin Yushi 	|
-| **1 EMPATHY** 	| Mdm Tan Xiao Jing<br>   <br>  	|
+| **1 EMPATHY** 	| Mrs Lam-Ng Wee Li<br>   <br> Mr Sean Lim Zhong Sheng  	|
 | **1 RESILIENCE** 	| Ms Pamela Leong Yoke Kwang<br><br>Miss Nur Hakimah 	|
 | **1 RESPECT** 	| Mr Jeremiah Luke Francisco<br>     <br>Mdm Mumtaz&nbsp; Maideen 	|
 | **1 OPTIMISM** 	|Mdm Omar Bivee<br><br>Mdm Hu Yulan (胡老师)	|
