@@ -3,17 +3,6 @@ title: Primary 5
 permalink: /about-us/our-people/primary-5/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-# **Primary 5**
-
-### Form Teachers - Primary Five
-
-
-| Class 	| Form Teachers 	|
-|---	|---	|
-| **5 HARMONY** 	| Ms Dewi Nurazlin Binte Aziz<br>     <br>Mrs Yvonne Seah (Chung Tsui Ping) 	|
-| **5 EMPATHY** 	| Mrs Alison Tay<br>     <br>Mdm Sharon Goh Shiao Yuen   	|
-| **5 RESILIENCE** 	| Mdm Chai Gek Mui<br>     <br>	|
-| **5 OPTIMISM**  	| Miss Kua Li En<br>     <br>Mr Ting Huat Seng 	|
-| **5 INTEGRITY**  	| Ms Ng Peck Yong <br>     <br> Ms Kwok Hui Min	|
-| **5 CREATIVITY**  	| Mdm Chia Ai Tian<br>     <br>Miss Kavitha d/o Annadhura 	|
+<h1><strong>Primary 5</strong></h1><h3>Form Teachers - Primary Five</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Form Teachers</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>5 HARMONY</strong></p></td><td rowspan="1" colspan="1"><p>Mr Tang Keng Soon<br>Ms Priscilla Chiang Shiau Chuen</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>5 EMPATHY</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Lin Huiting<br>Ms Koh Win Li Eunice</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>5 RESILIENCE</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Kong Hui Min<br>Mr Simon Raj s/o Panirsilvam</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>5 OPTIMISM</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Nur Amirah Bte Abu Hasan<br>Mr Melvin Chin Wei Lei</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>5 INTEGRITY</strong></p></td><td rowspan="1" colspan="1"><p>Mr Chiam Thoon Wui, Edward<br>Mrs Judy Lim (Chan Pei Ru)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>5 CREATIVITY</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Navin (Gayathri Mangai)<br>Mdm Su Wan Ju</p></td></tr></tbody></table><p></p>
