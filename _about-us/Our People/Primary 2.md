@@ -3,17 +3,6 @@ title: Primary 2
 permalink: /about-us/our-people/primary-2/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-# **Primary 2**
-
-### Form Teachers - Primary Two
-
-| **Class**   	| Form Teachers 	|
-|---	  |---	|
-| **2 HARMONY** 	| Mrs Lam-Ng Wee Li<br>     <br>Mrs Tiffany Ang - Chiu Huay Yi (邱老师) 	|
-| **2 EMPATHY** 	| Mrs Rebecca Ng<br>  <br>Miss Wendy Sin Kia Yee  |
-| **2 RESILIENCE** 	| Mrs Hensa&nbsp;(Tan Ee Na)<br>     <br>Miss Lin Yushi (林老师) 	|
-| **2 RESPECT** 	| Ms Thang Li<br> <br>Mr Sean Lim Zhong Sheng |
-| **2 OPTIMISM** 	| Mrs Pannirselvam nee C Mahalakshmi<br>     <br>Miss Joy Koh 	|
-| **2 INTEGRITY** 	| Mdm Suguna Manickam<br>  <br>	|
-| **2 CREATIVITY** 	| Mdm Marilyn Yee Li Min<br>     <br>Mr Geoffrey Tan Hui Juai (陈老师)	|
+<h1><strong>Primary 2</strong></h1><h3>Form Teachers - Primary Two</h3><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p>Form Teachers</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>2 HARMONY</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Chang Li Ting (Lian Li Ting)<br>Mr Tan Sit Huat</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2 EMPATHY</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Tan Xiao Jing<br>Mdm Marilyn Yee Li Min</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2 RESILIENCE</strong></p></td><td rowspan="1" colspan="1"><p>Ms Pamela Leong Yoke Kwang<br>Miss Nur Hakimah</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2 RESPECT</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Mumtaz Maideen<br>Mdm Soh Siew Hoon</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2 OPTIMISM</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Omar Bivee<br>Mdm Hu Yulan</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2 INTEGRITY</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Karen Tay-Lee Ee Wen<br>Mdm Foo Siew Yee</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2 CREATIVITY</strong></p></td><td rowspan="1" colspan="1"><p>Ms Khoo Yi Hui<br>Mrs Alyssa Wee (Seah Ming Xuan)</p></td></tr></tbody></table><p></p>
