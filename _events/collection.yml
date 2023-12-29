@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2018.md
-      - 2018/.keep
       - 2022/.keep
       - 2022/Term 1.md
       - 2022/Term 2.md
