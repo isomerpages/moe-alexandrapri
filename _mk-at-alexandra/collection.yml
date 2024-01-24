@@ -2,9 +2,9 @@ collections:
   mk-at-alexandra:
     output: true
     order:
-      - MK Open House.md
       - Center Head's Message.md
       - Information/.keep
       - Information/Our People.md
       - Information/Learning Environment.md
       - Information/Contact Us.md
+      - MK Open House.md
