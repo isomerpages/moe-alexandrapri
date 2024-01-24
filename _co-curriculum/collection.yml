@@ -1,0 +1,12 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/Clubs & Societies.md
+      - CCA/Sports & Games.md
+      - CCA/Visual and Performing Arts.md
+      - CCA/Uniformed Group.md
+      - Learning For Life Programme (LLP).md
+      - Applied Learning Programme.md

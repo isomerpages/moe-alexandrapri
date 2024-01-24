@@ -1,0 +1,27 @@
+logo: /images/School Logo/ALEXANDRA_SMALL.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-curriculum
+    collection: co-curriculum
+  - title: Life@ALPS
+    url: /life-at-alps/intro/for-students
+    sublinks:
+      - title: Intro
+        url: /life-at-alps/intro/for-students
+      - title: Events
+        url: /life-at-alps/events/2021/term-1
+      - title: Achievements
+        url: /life-at-alps/achievements/2021
+      - title: e-Yearbook
+        url: /life-at-alps/e-yearbook/e-yearbook
+  - title: MK@Alexandra
+    collection: mk-at-alexandra
+  - title: Links
+    collection: links
+  - title: Contact Us
+    url: /contact-us/
+  - title: HBL
+    url: https://sites.google.com/moe.edu.sg/alexandra-primary-school/home
