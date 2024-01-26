@@ -3,16 +3,19 @@ title: School Advisory Committee
 permalink: /about-us/our-people/school-advisory-committee/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-# **School Advisory Committee**
-
-### School Advisory Committee (2021-2023)
-
-
-
-![SAC Member 1](/images/School%20Leaders/sac%20member%201.png)
-
-![SAC Member 2](/images/School%20Leaders/sac%20member%202.png)
-
-
-![](/images/School%20Leaders/School%20Advisory%20Leaders%20.jpg)
+<h1><strong>School Advisory Committee</strong></h1>
+<h3>School Advisory Committee (2021-2023)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SAC Member 1" src="/images/School%20Leaders/sac%20member%201.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leaders/SAC_Member_updated.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leaders/SL_.png">
+</div>
+<p></p>
