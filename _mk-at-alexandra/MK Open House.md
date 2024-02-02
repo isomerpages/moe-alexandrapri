@@ -24,7 +24,11 @@ and Early Years Centre (EYC) children will open from <strong>9am on Friday, 16 F
 find out more about the registration process.</p>
 <p></p>
 <h3><strong><u>Why Choose MK?</u></strong></h3>
-<p>To find out more about MK@Alexandra, please click here to access the briefing
+<p>To find out more about MK@Alexandra, please click <a href="/files/MKOH_2024_parent_copy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to access the briefing
 slides.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Choose_MK.jpg">
+</div>
 <p></p>
 <p></p>
