@@ -27,8 +27,9 @@ find out more about the registration process.</p>
 <p>To find out more about MK@Alexandra, please click <a href="/files/MKOH_2024_parent_copy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to access the briefing
 slides.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Choose_MK.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Choose_MK_updated.png">
 </div>
 <p></p>
 <p></p>
