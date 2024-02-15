@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Navin (Gayathri Mangai)
+<p>Mrs Gayathri Navin
 <br>Mdm Su Wan Ju</p>
 </td>
 </tr>
