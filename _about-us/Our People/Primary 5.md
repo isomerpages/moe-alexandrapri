@@ -44,7 +44,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kong Hui Min
-<br>Mr Simon Raj s/o Panirsilvam</p>
+<br>Mr Simon Raj Panirsilvam</p>
 </td>
 </tr>
 <tr>
