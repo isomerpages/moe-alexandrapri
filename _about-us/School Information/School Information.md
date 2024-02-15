@@ -76,13 +76,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Library Operating Hours</strong>
+<p><strong>School Library Operating Hours</strong> 
 <br>
 <br>Monday to Friday: 8.00 am - 1.30 pm
 <br>(Closed on Saturday, Sunday &amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Dentist</strong>
+<p><strong>School Dentist</strong> 
 <br>
 <br>Monday to Thursdays: 8.00 am - 5.30 pm
 <br>Fridays: 8.00 am - 5.00 pm
@@ -92,13 +92,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Bookshop</strong>
+<p><strong>School Bookshop</strong> 
 <br>
 <br>Ricky Book Centre
 <br>Tel: 8875 9554</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for February 2024 2024</strong>
+<p><strong>ALPS Dental Clinic Schedule for February 2024 </strong>
 <br>
 <br>Opening Date:
 <br>14/02/2024, 26/02/2024 to 28/02/2024
@@ -109,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Uniform</strong>
+<p><strong>School Uniform</strong> 
 <br>
 <br>BIBI &amp; BABA Pte Ltd
 <br>213 Henderson Road #01-12
@@ -120,7 +120,7 @@ variant: tiptap
 <br>Saturday: 9.00 am - 12.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Care Centre</strong>
+<p><strong>Student Care Centre</strong> 
 <br>
 <br>NASCANS@Alexandra Primary School Student Care
 <br>Call Centre Contact: 9183 6037
