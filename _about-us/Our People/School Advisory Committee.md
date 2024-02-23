@@ -15,7 +15,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leaders/SAC_Member_updated.png">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leaders/Sac3.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leaders/SL_new.png">
 </div>
+<p></p>
 <p></p>
