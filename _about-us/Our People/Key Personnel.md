@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD (PE, CCA &amp; Aesthetics)</strong>
+<p><strong>HOD (PE &amp; CCA)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,11 +144,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH (Tech)</strong>
+<p><strong>SH (Aesthetics)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Raj Panirsilvam</p>
+<p>Ms Eunice Koh</p>
 </td>
 </tr>
 <tr>
@@ -158,6 +158,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Geoffrey Tan Hui Juai (陈老师)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH (Science)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jamie Wong Qian Ling</p>
 </td>
 </tr>
 <tr>
@@ -180,11 +189,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH (Science)</strong>
+<p><strong>SH (Tech)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jamie Wong Qian Ling</p>
+<p>Mr Simon Raj Panirsilvam</p>
 </td>
 </tr>
 </tbody>
