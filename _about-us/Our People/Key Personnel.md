@@ -153,20 +153,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH (Student Well-Being)</strong>
+<p><strong>SH (CCE)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Geoffrey Tan Hui Juai (陈老师)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jamie Wong Qian Ling</p>
+<p>Mrs Shirlyn Ling (Pang Shyue Ling)</p>
 </td>
 </tr>
 <tr>
@@ -180,11 +171,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH (CCE)</strong>
+<p><strong>SH (Science)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shirlyn Ling (Pang Shyue Ling)</p>
+<p>Ms Jamie Wong Qian Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH (Student Well-Being)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Geoffrey Tan Hui Juai (陈老师)</p>
 </td>
 </tr>
 <tr>
