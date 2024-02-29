@@ -157,7 +157,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shirlyn Ling (Pang Shyue Ling)</p>
+<p>Mrs Shirlyn Ling</p>
 </td>
 </tr>
 <tr>
@@ -194,6 +194,50 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Simon Raj Panirsilvam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST (CL)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST (CL)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chen Jingjing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST (MA)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Alison Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST (TL)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Pannirselvam nee C Mahalakshmi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

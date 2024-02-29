@@ -64,7 +64,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chiam Thoon Wui, Edward
-<br>Mrs Judy Lim (Chan Pei Ru)</p>
+<br>Mrs Judy Lim-Chan Pei Ru</p>
 </td>
 </tr>
 <tr>
