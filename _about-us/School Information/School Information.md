@@ -98,13 +98,13 @@ variant: tiptap
 <br>Tel: 8875 9554</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for February 2024 </strong>
+<p><strong>ALPS Dental Clinic Schedule for March 2024 </strong>
 <br>
 <br>Opening Date:
-<br>14/02/2024, 26/02/2024 to 28/02/2024
+<br>25/03/2024 (am)
 <br>
 <br>Closure Dates:
-<br>01/02/2024 to 13/02/2024, 15/02/2024 to 22/01/2024 and 29/02/2024</p>
+<br>01/03/2024 to 22/03/2024, 26/03/2024 to 28/03/2024</p>
 </td>
 </tr>
 <tr>
