@@ -54,7 +54,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Amirah Bte Abu Hasan
-<br>Mr Melvin Chin Wei Lei</p>
+<br>Mr Melvin Chin</p>
 </td>
 </tr>
 <tr>
@@ -63,8 +63,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chiam Thoon Wui, Edward
-<br>Mrs Judy Lim-Chan Pei Ru</p>
+<p>Mr Edward Chiam
+<br>Mrs Judy Lim</p>
 </td>
 </tr>
 <tr>
