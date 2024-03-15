@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Tay Chee Beng
+<p>Mr Raymond Tay
 <br>Miss Joanne Tan Wei Shen</p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Anthony Chua
-<br>Ms Jane Wee May Ting</p>
+<br>Ms Jane Wee</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Adriel Chia Wei Xian
+<p>Mr Adriel Chia
 <br>Mrs Serene Quek</p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Bee Khim
-<br>Mrs Pannirselvam nee C Mahalakshmi</p>
+<br>Mrs Pannirselvam</p>
 </td>
 </tr>
 <tr>
