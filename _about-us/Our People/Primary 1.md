@@ -35,7 +35,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Angie Lam
-<br>Mr Sean Lim Zhong Sheng</p>
+<br>Mr Sean Lim</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suguna Manickan
-<br>Mr Geoffrey Tan Hui Juai</p>
+<br>Mr Geoffrey Tan</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dewi Nurazlin Binte Aziz
-<br>Mrs Rebecca ng</p>
+<br>Mrs Rebecca Ng</p>
 <p></p>
 </td>
 </tr>
