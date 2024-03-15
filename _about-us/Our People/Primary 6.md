@@ -22,7 +22,7 @@ variant: tiptap
 <p>6 HARMONY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aw Lee San
+<p>Mrs Aw Lee San
 <br>Mrs Yvonne Seah</p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>6 CREATIVITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cheryl Chua Qihui
+<p>Miss Cheryl Chua
 <br>Miss Kavitha d/o Annadhurai</p>
 </td>
 </tr>

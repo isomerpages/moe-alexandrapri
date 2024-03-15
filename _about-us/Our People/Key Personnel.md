@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Judy Lim-Chan Pei Ru</p>
+<p>Mrs Judy Lim</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng-Tan Jun Hui (陈老师)</p>
+<p>Mrs Ng-Tan Jun Hui</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharon Goh Shiao Yuen</p>
+<p>Mdm Sharon Goh</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jean Lim Yi Jun</p>
+<p>Ms Jean Lim</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Geoffrey Tan Hui Juai (陈老师)</p>
+<p>Mr Geoffrey Tan</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Pannirselvam nee C Mahalakshmi</p>
+<p>Mrs Pannirselvam</p>
 </td>
 </tr>
 <tr>
