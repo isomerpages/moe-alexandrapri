@@ -25,7 +25,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chen Jingjing
-<br>Ms Jean Lim Yi Jun</p>
+<br>Ms Jean Lim</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Keshini Ramasamy
-<br>Miss Charissa Ong Xiao En</p>
+<br>Miss Charissa Ong</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Wendy Sin
-<br>Ms Jamie Wong Qian Ling</p>
+<br>Ms Jamie Wong</p>
 </td>
 </tr>
 <tr>
