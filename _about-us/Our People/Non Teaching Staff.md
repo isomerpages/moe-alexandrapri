@@ -50,7 +50,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leong Si Min Joanne
-<br>
 <br>Miss Noorasyakirah Rahmat</p>
 </td>
 </tr>
@@ -61,9 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim See Fong
-<br>
 <br>Mdm Khatijah Binte Abdul Raup
-<br>
 <br>Ms Natasha Abdullah</p>
 </td>
 </tr>
@@ -101,7 +98,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Noorman Bin Mohamed
-<br>
 <br>Mr Victor Lee</p>
 </td>
 </tr>
@@ -112,13 +108,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Sang Mui Helen
-<br>
 <br>Mr Chua Peng Khoon
-<br>
 <br>Mr Chan Boon Wan
-<br>
 <br>Mr Goh Boon Hin
-<br>
 <br>Mr Loong Sue Loon</p>
 </td>
 </tr>
