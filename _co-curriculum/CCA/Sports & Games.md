@@ -99,9 +99,7 @@ Selected Rugby members will represent the school in Rugby NSG.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nur Hakimah</p>
-<p>Mdm Lin Huiting</p>
-<p>Mrs Alyssa Wee (Seah Ming Xuan)</p>
-<p>Mr Sean Lim Zhong Sheng</p>
+<p>Mr Sean Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday (2 pm – 4 pm)</p>
