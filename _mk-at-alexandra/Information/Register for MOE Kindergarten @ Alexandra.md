@@ -9,6 +9,10 @@ third_nav_title: Information
 <p>To find out more about MK@Alexandra, please click <strong>here</strong> to
 access the MK Open House briefing slides.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Choose_MK_updated.png">
+</div>
+<p></p>
 <p><strong><u>Online Registration Exercise</u></strong>
 </p>
 <p>The online registration for 2025 K1 admissions for both Open Admissions
