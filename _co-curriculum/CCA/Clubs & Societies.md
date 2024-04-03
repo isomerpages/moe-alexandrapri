@@ -3,7 +3,151 @@ title: Clubs & Societies
 permalink: /co-curriculum/cca/clubs-n-societies/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-# **Clubs &amp; Societies**
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="140"><col width="310"><col width="198"><col width="136"><col width="104"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CCA</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Description</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Teachers-in-charge</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Day/Time</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cheerleading</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cheerleading CCA aims to teach students resilience and teamwork by training the cheerleaders to execute high-level stunts and gymnastics in a synchronised manner to an upbeat song. Cheerleading members will take part in international competitions held locally and compete against teams from other countries.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Khoo Yi Hui</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Shirlyn Ling (Pang Shyue Ling)</span></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chinese Culture and Language</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chinese Cultural Language CCA aims to arouse students’ interest in Chinese Culture and nurture a greater appreciation of Chinese Culture Activities include Chinese Calligraphy, Chinese Chess, Paper Cutting, Poetry Appreciation, Tea Appreciation and Cultural Story Telling sessions etc.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Su Wan Ju</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Chen Jingjing</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Kong Hui Min</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Environmental Science</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Environmental Science CCA aims to teach students how to care about the environment and make use of design thinking to generate solutions to environmental issues. They also learn how to do upcycling to reduce waste production. Selected Environment Club members will represent the school in inter-school environmental competitions.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.3800000000000001;text-align: center;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Karen Tay-Lee Ee Wen</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Jamie Wong Qian Ling</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Chai Gek Mui</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">International Chess</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chess Club CCA aims to hone the logical thinking skills of its members by teaching them how to play the game of chess. Selected Chess Club members will represent the school in inter-school chess competitions.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Pannirselvam nee C</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mahalakshmi</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Tay Chee Beng</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Infocomm Technology&nbsp;</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Infocomm Technology CCA is the perfect place to nurture your budding interest in technology! We offer a wide range of fun and engaging activities, from mobile app development and game development to coding with AI. We believe in the potential of each student, and our activities are designed to challenge students' creativity, resilience, and logical thinking. The Infocomm Club CCA promises opportunities for hands-on learning experiences. Join us today and explore the world of information and communication technology!</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Tan Ee Na</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Simon Raj</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Melvin Chin</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr></tbody></table>
+<h1><strong>Clubs &amp; Societies</strong></h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day/Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheerleading</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheerleading CCA aims to teach students resilience and teamwork by training
+the cheerleaders to execute high-level stunts and gymnastics in a synchronised
+manner to an upbeat song. Cheerleading members will take part in international
+competitions held locally and compete against teams from other countries.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Khoo Yi Hui</p>
+<p>Mdm Nur Amirah Bte Abu Hasan</p>
+<p>Miss Kua Li En</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Culture and Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Cultural Language CCA aims to arouse students’ interest in Chinese
+Culture and nurture a greater appreciation of Chinese Culture Activities
+include Chinese Calligraphy, Chinese Chess, Paper Cutting, Poetry Appreciation,
+Tea Appreciation and Cultural Story Telling sessions etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Su Wan Ju</p>
+<p>Miss Chen Jingjing</p>
+<p>Mdm Kong Hui Min</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Environmental Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environmental Science CCA aims to teach students how to care about the
+environment and make use of design thinking to generate solutions to environmental
+issues. They also learn how to do upcycling to reduce waste production.
+Selected Environment Club members will represent the school in inter-school
+environmental competitions.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Karen Tay</p>
+<p>Ms Jamie Wong Qian Ling</p>
+<p>Mdm Chai Gek Mui</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Chess</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chess Club CCA aims to hone the logical thinking skills of its members
+by teaching them how to play the game of chess. Selected Chess Club members
+will represent the school in inter-school chess competitions.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lin Yushi</p>
+<p>Mrs Pannirselvam</p>
+<p>Mr Tay Chee Beng</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology CCA is the perfect place to nurture your budding interest
+in technology! We offer a wide range of fun and engaging activities, from
+mobile app development and game development to coding with AI. We believe
+in the potential of each student, and our activities are designed to challenge
+students' creativity, resilience, and logical thinking. The Infocomm Club
+CCA promises opportunities for hands-on learning experiences. Join us today
+and explore the world of information and communication technology!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ee Na</p>
+<p>Mr Simon Raj</p>
+<p>Mr Melvin Chin</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
