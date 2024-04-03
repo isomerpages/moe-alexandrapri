@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Center Head's Message.md
+      - Information/Register for MOE Kindergarten @ Alexandra.md
       - Information/.keep
       - Information/Our People.md
       - Information/Learning Environment.md
