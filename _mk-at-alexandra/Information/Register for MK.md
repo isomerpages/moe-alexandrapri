@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Information
 ---
 <h4><strong><u>Register for MOE Kindergarten @ Alexandra</u></strong></h4>
-<p>To find out more about MK@Alexandra, please click <strong>here</strong> to
+<p>To find out more about MK@Alexandra, please click <strong><a href="/files/MKOH_2024_parent.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
 access the MK Open House briefing slides.</p>
 <p></p>
 <div class="isomer-image-wrapper">
