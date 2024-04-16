@@ -3,7 +3,147 @@ title: Visual and Performing Arts
 permalink: /co-curriculum/cca/visual-n-performing-arts/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-# **Visual &amp; Performing Arts**
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="132"><col width="284"><col width="232"><col width="136"><col width="104"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CCA</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Description</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Teachers-in-charge</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Day/Time</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Arts &amp; Crafts</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Art &amp; Craft Club CCA aims to develop students' creativity and imagination through the exploration of a range of media such as paint, batik dyes, watercolour, oil pastels, clay etc. Selected Art Club members will participate in Singapore Youth Festival (SYF) Arts Exhibition.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Cheryl Chua Qihui</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Pamela Leong Yoke Kwang</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Tan Xiao Jing</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chinese Drums</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chinese Drums CCA aims to teach students rhythm and teamwork. Chinese Drumming ensemble consists of drums of varied sizes that produce beats that are sure to raise the adrenaline of the spectators.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Geoffrey Tan Hui Juai</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Alison Tay (Heu Ann New)</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Choir</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Choir CCA aims to teach students rhythm and appreciation of music. Choir may perform music from the classical music repertoire or popular music repertoire. Selected Choir members will participate in SYF Choir Competition.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Jeremiah Luke Francisco</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Keshini Ramasamy</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm),</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Wednesday (3 pm - 5 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Drama</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Drama - English CCA aims to teach students to express themselves through acting. Drama Club teaches students about the different elements of theatre by providing them with the opportunity to work both on stage and backstage.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Rebecca Ng</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Marilyn Yee</span></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Guitar Ensemble</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Ensemble Guitar CCA is a fun and relaxed space for all students interested in music and the guitar! Students of any skill level are welcome to join, learning and sharing techniques. Through technical training courses such as classical guitar and ensemble playing, members will discover their inner musicians as they journey to greater heights. The Guitar Ensemble takes its talents on stage both internally and externally, allowing members to showcase their newfound abilities. Come join us today for a magical music experience! Technology while discovering creative ways to communicate their ideas and apply them to school projects. With experiential learning opportunities galore, join us today and explore the world of information and communication technology!</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Lin Yushi</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Wendy Sin Kia Yee</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Modern Dance</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Modern Dance CCA aims to teach students to develop their body control and sense of rhythm by experiencing varied dance movements. Besides dancing for school programmes, selected Dance members will also participate in external competitions like SYF Dance Competition.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Gopinathan (Logeswary)</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Mumtaz Maideen</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday&nbsp;</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(2 pm – 4pm)</span></p></td></tr></tbody></table>
+<h1><strong>Visual &amp; Performing Arts</strong></h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day/Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arts &amp; Crafts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art &amp; Craft Club CCA aims to develop students' creativity and imagination
+through the exploration of a range of media such as paint, batik dyes,
+watercolour, oil pastels, clay etc. Selected Art Club members will participate
+in Singapore Youth Festival (SYF) Arts Exhibition.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pamela Leong</p>
+<p>Miss Cheryl Chua</p>
+<p>Miss Jazreel Ari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drums</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Drums CCA aims to teach students rhythm and teamwork. Chinese
+Drumming ensemble consists of drums of varied sizes that produce beats
+that are sure to raise the adrenaline of the spectators.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Geoffrey Tan</p>
+<p>Mrs Shirlyn Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir CCA aims to teach students rhythm and appreciation of music. Choir
+may perform music from the classical music repertoire or popular music
+repertoire. Selected Choir members will participate in SYF Choir Competition.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremiah Luke Francisco</p>
+<p>Miss Keshini Ramasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm),</p>
+<p>Wednesday (3 pm - 5 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama - English CCA aims to teach students to express themselves through
+acting. Drama Club teaches students about the different elements of theatre
+by providing them with the opportunity to work both on stage and backstage.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rebecca Ng</p>
+<p>Mdm Marilyn Yee</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Ensemble Guitar CCA is a fun and relaxed space for all students interested
+in music and the guitar! Students of any skill level are welcome to join,
+learning and sharing techniques. Through technical training courses such
+as classical guitar and ensemble playing, members will discover their inner
+musicians as they journey to greater heights. The Guitar Ensemble takes
+its talents on stage both internally and externally, allowing members to
+showcase their newfound abilities. Come join us today for a magical music
+experience! Technology while discovering creative ways to communicate their
+ideas and apply them to school projects. With experiential learning opportunities
+galore, join us today and explore the world of information and communication
+technology!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hu Yulan</p>
+<p>Miss Wendy Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance CCA aims to teach students to develop their body control
+and sense of rhythm by experiencing varied dance movements. Besides dancing
+for school programmes, selected Dance members will also participate in
+external competitions like SYF Dance Competition.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Logeswary d/o Ramalingam</p>
+<p>Mdm Mumtaz Maideen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday&nbsp;</p>
+<p>(2 pm – 4pm)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

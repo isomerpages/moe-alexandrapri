@@ -3,7 +3,197 @@ title: Sports & Games
 permalink: /co-curriculum/cca/sports-n-games/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-# **Sports &amp; Games**
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="138"><col width="323"><col width="187"><col width="136"><col width="104"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CCA</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Description</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Teachers-in-charge</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Day/Time</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Badminton</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Badminton CCA aims to teach students sportsmanship, resilience and teamwork through the learning of skills such as drop shot, net play and smashes. Selected Badminton members will represent the school in Badminton National School Games (NSG).</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Ng Peck Yong</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Omar Bivee</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Lam-Ng Wee Li</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;Miss Joy Koh</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">School Team only: Wednesday (2 pm - 4.10 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Basketball</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ALPS Basketball focuses on developing essential skills such as dribbling, shooting, and passing, while also improving the members’ agility and endurance. Members engage in a fast-paced and team-oriented sport that fosters physical fitness, coordination, and discipline. This sport encourages teamwork, communication, and sportsmanship, as members collaborate, strategise, and support one another throughout the game. The CCA provides a platform for members to not only enhance their physical abilities but also learn valuable life lessons that extend beyond the court.</span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">This year, the Junior Basketball Boys progress to Tier 1 of the National School Games after clinching the top of their group in the classification round.&nbsp;</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Adriel Chia Wei Xian</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Aw-Choong Lee San</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Chia Ai Tian</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Shafeer Ahamed H</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">School Team only: Friday (2 pm - 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Rugby</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Rugby CCA aims to teach students sportsmanship, resilience and teamwork through the learning of skills such as tackling, passing and goal kicking. Selected Rugby members will represent the school in Rugby NSG.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Nur Hakimah</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Lin Huiting</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Alyssa Wee (Seah Ming Xuan)</span></p><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Sean Lim Zhong Sheng</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Softball</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Softball CCA aims to teach students sportsmanship, resilience and teamwork through the learning of skills such as throwing and catching, batting and running to base. Selected Softball members will represent the school in Softball NSG.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Suguna Manickam</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Ellene Chew Ee Lin</span></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">School Team only: Wednesday (3.30 pm - 5.30 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Swimming</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Swimming CCA aims to teach students sportsmanship and resilience. Students will be learning different swimming strokes and have the opportunity to represent the school in Swimming NSG. Training will be conducted at an external swimming pool.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Ng Bee Khim</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Miss Kua Li En</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Hu Yulan</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Table Tennis</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Table Tennis CCA aims to teach students sportsmanship, resilience and teamwork through the learning of skills such as service, spin ball and smashes. Selected Table Tennis members will represent the school in Table Tennis NSG.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Navin (Gayathri Mangai)</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Hazel Foo</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Zhou Wen Jia</span></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Track &amp; Field</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Track and Field CCA aims to teach students sportsmanship and resilience. Track and Field consists of running, throwing and jumping events. Depending on the age group, some of them might engage in all three disciplines. Selected Track and Field members will represent the school in Track and Field NSG.</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Charissa Ong Xiao En</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Chang Li Ting</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Faith Ng Siew Yeng</span></p><p style="line-height:1.2;text-align: center;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Tang Keng Soon</span></p><br></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday (2 pm – 4 pm)</span></p></td></tr></tbody></table>
+<h1><strong>Sports &amp; Games</strong></h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day/Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton CCA aims to teach students sportsmanship, resilience and teamwork
+through the learning of skills such as drop shot, net play and smashes.
+Selected Badminton members will represent the school in Badminton National
+School Games (NSG).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Peck Yong</p>
+<p>Mdm Omar Bivee</p>
+<p>Mrs Angie Lam</p>
+<p>Miss Joy Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+<p>
+<br>
+</p>
+<p>School Team only: Wednesday (2 pm - 4.10 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALPS Basketball focuses on developing essential skills such as dribbling,
+shooting, and passing, while also improving the members’ agility and endurance.
+Members engage in a fast-paced and team-oriented sport that fosters physical
+fitness, coordination, and discipline. This sport encourages teamwork,
+communication, and sportsmanship, as members collaborate, strategise, and
+support one another throughout the game. The CCA provides a platform for
+members to not only enhance their physical abilities but also learn valuable
+life lessons that extend beyond the court.</p>
+<p>
+<br>
+</p>
+<p>This year, the Junior Basketball Boys progress to Tier 1 of the National
+School Games after clinching the top of their group in the classification
+round.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adriel Chia Wei Xian</p>
+<p>Mdm Chia Ai Tian</p>
+<p>Ms Poh Yeu Pei</p>
+<p>Mdm Choo Swee Chiang</p>
+<p></p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+<p>
+<br>
+</p>
+<p>School Team only: Friday (2 pm - 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby CCA aims to teach students sportsmanship, resilience and teamwork
+through the learning of skills such as tackling, passing and goal kicking.
+Selected Rugby members will represent the school in Rugby NSG.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Hakimah</p>
+<p>Mr Sean Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Softball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Softball CCA aims to teach students sportsmanship, resilience and teamwork
+through the learning of skills such as throwing and catching, batting and
+running to base. Selected Softball members will represent the school in
+Softball NSG.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suguna Manickam</p>
+<p>Mrs Alyssa Wee</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+<p>
+<br>
+</p>
+<p>School Team only: Wednesday (3.30 pm - 5.30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swimming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swimming CCA aims to teach students sportsmanship and resilience. Students
+will be learning different swimming strokes and have the opportunity to
+represent the school in Swimming NSG. Training will be conducted at an
+external swimming pool.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tang Keng Soon</p>
+<p>Mdm Ng Bee Khim</p>
+<p>Mdm Lin Huiting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table Tennis CCA aims to teach students sportsmanship, resilience and
+teamwork through the learning of skills such as service, spin ball and
+smashes. Selected Table Tennis members will represent the school in Table
+Tennis NSG.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Gayathri Navin</p>
+<p>Mrs Hazel Foo</p>
+<p>Mrs Aw Lee San</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track and Field CCA aims to teach students sportsmanship and resilience.
+Track and Field consists of running, throwing and jumping events. Depending
+on the age group, some of them might engage in all three disciplines. Selected
+Track and Field members will represent the school in Track and Field NSG.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Charissa Ong Xiao En</p>
+<p>Mrs Chang Li Ting</p>
+<p>Mdm Faith Ng Siew Yeng</p>
+<p>Mr Anthony Chua</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (2 pm – 4 pm)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
