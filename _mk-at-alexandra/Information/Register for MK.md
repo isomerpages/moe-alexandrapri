@@ -21,7 +21,7 @@ of the registration outcome via e-mail by<strong> Monday, 15 April 2024</strong>
 If your child is offered a place, you will need to indicate your acceptance
 online via a link in the outcome e-mail by the specified deadline.
 <br>
-<br>Applying after the online registration exercise.<strong><u><br></u></strong>If
+<br><strong><u>Applying after the online registration exercise<br></u></strong>If
 you have missed the online registration exercise for <strong>2025 K1 admissions</strong> or
 are interested in registering your child for <strong>2024 K1 or K2 admissions</strong>,
 please indicate your interest on our <strong><a href="https://form.gov.sg/65bb9226661be4d8c1d9425d" rel="noopener noreferrer nofollow" target="_blank">waitlist</a></strong>.</p>
