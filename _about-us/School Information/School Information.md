@@ -98,13 +98,14 @@ variant: tiptap
 <br>Tel: 8875 9554</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for April 2024 </strong>
+<p><strong>ALPS Dental Clinic Schedule for May 2024 </strong>
 <br>
 <br>Opening Date:
-<br>08/04/2024 to 12/04/2024, 22/04/2024 to 24/04/2024
+<br>06/05/2024, 08 to 10/05/2024, 20/05/2024, 23 to 24/05/2024
 <br>
 <br>Closure Dates:
-<br>01/04/2024 to 05/04/2024, 15/04/2024 to 19/04/2024, 25/04/2024 to 30/04/2024</p>
+<br>02 to 03 /03/2024, 07/05/2024, 13 to 17 /05/2024, 21/05/2024,</p>
+<p>27 to 31/05/2024</p>
 <p></p>
 <p></p>
 </td>
