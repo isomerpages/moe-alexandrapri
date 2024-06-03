@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h1><strong>School Information</strong></h1>
 <h3>School Gate Operating Hours</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -64,7 +69,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Others</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -98,13 +107,13 @@ variant: tiptap
 <br>Tel: 8875 9554</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for May 2024 </strong>
+<p><strong>ALPS Dental Clinic Schedule for June 2024 </strong>
 <br>
 <br>Opening Date:
-<br>06/05/2024, 08 to 10/05/2024, 20/05/2024, 23 to 24/05/2024
+<br>03/06/2024(pm), 04/06/2024 to 06/06/2024
 <br>
 <br>Closure Dates:
-<br>02 to 03 /05/2024, 07/05/2024, 13 to 17/05/2024, 21/05/2024, 27 to 31/05/2024</p>
+<br>07/06/2024 to 28/06/2024</p>
 <p></p>
 <p></p>
 </td>
