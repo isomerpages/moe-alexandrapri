@@ -6,7 +6,11 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>Non-Teaching Staff</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,7 +65,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lim See Fong
 <br>Mdm Khatijah Binte Abdul Raup
-<br>Ms Natasha Abdullah</p>
+<br>Miss Tan Hong Choo Keslin</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Hong Choo Keslin</p>
+<p>Mdm Ann Lee</p>
 </td>
 </tr>
 <tr>
