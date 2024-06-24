@@ -3,9 +3,6 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-# **Privacy Policy**
-
-  
 
 **ALEXANDRA PRIMARY SCHOOL PRIVACY STATEMENT**
 
