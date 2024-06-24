@@ -35,8 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/quick%20guide%20on%20student%20icon%20data%20management.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Guide on Student iCon Data Managem</a>
-<a href="/files/For_Student__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">ent</a>
+<p><a href="/files/For_Student__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Guide on Student iCON Data Management</a>
 </p>
 </td>
 </tr>
