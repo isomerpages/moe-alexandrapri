@@ -24,7 +24,8 @@ the Contents are owned by, licensed to or controlled by Alexandra Primary
 School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click here to review this Web Site Privacy Statement.</p>
+<p>5. <a href="https://www.alexandrapri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
+review this Web Site Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
