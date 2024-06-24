@@ -22,7 +22,6 @@ software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Alexandra Primary
 School.</p>
-<p>&nbsp;</p>
 <p><strong>Privacy Policy</strong>
 </p>
 <p>5. Click here to review this Web Site Privacy Statement.</p>
