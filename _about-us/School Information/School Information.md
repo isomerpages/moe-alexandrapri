@@ -110,8 +110,8 @@ variant: tiptap
 <p><strong>ALPS Dental Clinic Schedule for June 2024 </strong>
 <br>
 <br>Opening Date:
-<br>01/07/ &amp; 03/07/2024(am only), 02/07/2024, 05-07/07/2024</p>
-<p>15/07/2024, 17-19/07/2024 29/07/2024 and 31/07/2024
+<br>01/07/ &amp; 03/07/2024(am only), 02/07/2024, 05-07/07/2024, 15/07/2024,
+17-19/07/2024 29/07/2024 and 31/07/2024
 <br>
 <br>Closure Dates:
 <br>08-12/07/2024, 16/07/2024, 22-26/07/2024 and 30/07/2024</p>
