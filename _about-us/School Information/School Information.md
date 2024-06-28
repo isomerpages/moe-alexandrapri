@@ -107,13 +107,14 @@ variant: tiptap
 <br>Tel: 8875 9554</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for June 2024 </strong>
+<p><strong>ALPS Dental Clinic Schedule for July 2024 </strong>
 <br>
 <br>Opening Date:
-<br>03/06/2024(pm), 04/06/2024 to 06/06/2024
+<br>01/07/ &amp; 03/07/2024(am only), 02/07/2024, 05-07/07/2024, 15/07/2024,
+17-19/07/2024 29/07/2024 and 31/07/2024
 <br>
 <br>Closure Dates:
-<br>07/06/2024 to 28/06/2024</p>
+<br>08-12/07/2024, 16/07/2024, 22-26/07/2024 and 30/07/2024</p>
 <p></p>
 <p></p>
 </td>
