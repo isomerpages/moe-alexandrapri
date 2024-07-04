@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h1><strong>Primary 4</strong></h1>
 <h3>Form Teachers - Primary Four</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -35,7 +39,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Keshini Ramasamy
-<br>Miss Charissa Ong</p>
+<br>Mr Goh Han Serm Hans</p>
 </td>
 </tr>
 <tr>

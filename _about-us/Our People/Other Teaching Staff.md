@@ -6,7 +6,11 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>Other Teaching Staff</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,7 +40,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tey Siew Leng
-<br>Mrs Tiffany Ang</p>
+<br>Mrs Tiffany Ang
+<br>Mr Tan Sit Huat</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +70,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Krystle Kuah
-<br>Miss Surbhi</p>
+<br>Miss Surbhi
+<br>Miss Neo Minqi Rachel
+<br>Mr Randal Lui Wai Lum
+<br>Ms Tan Shuhui</p>
 </td>
 </tr>
 </tbody>

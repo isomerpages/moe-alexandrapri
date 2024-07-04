@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h1><strong>Primary 2</strong></h1>
 <h3>Form Teachers - Primary Two</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,7 +29,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chang Li Ting
-<br>Mr Tan Sit Huat</p>
+<br>Miss Jazreel Ari Yeo</p>
 </td>
 </tr>
 <tr>
@@ -34,8 +38,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Xiao Jing
-<br>Mdm Marilyn Yee</p>
+<p>Mdm Marilyn Yee
+<br>Ms Chua Pauline</p>
 </td>
 </tr>
 <tr>
@@ -74,8 +78,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Tay
-<br>Mdm Foo Siew Yee</p>
+<p>Mdm Foo Siew Yee
+<br>Ms Khoo Yi Hui</p>
+<p>Miss Winnie Ann Roshan</p>
 </td>
 </tr>
 <tr>
@@ -84,8 +89,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Yi Hui
-<br>Mrs Alyssa Wee</p>
+<p>Mrs Alyssa Wee
+<br>Ms Chan Wen Tin</p>
 </td>
 </tr>
 </tbody>
