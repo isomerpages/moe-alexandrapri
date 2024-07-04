@@ -6,7 +6,11 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>Key Personnel</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -185,24 +189,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Geoffrey Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH (Tech)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Simon Raj Panirsilvam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ST (CL)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Raymond Tay</p>
 </td>
 </tr>
 <tr>
