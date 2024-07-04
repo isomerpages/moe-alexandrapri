@@ -79,8 +79,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Foo Siew Yee
-<br>Ms Khoo Yi Hui</p>
-<p>Miss Winnie Ann Roshan</p>
+<br>Ms Khoo Yi Hui
+<br>Miss Winnie Ann Roshan</p>
 </td>
 </tr>
 <tr>
