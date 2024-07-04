@@ -2,48 +2,38 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
-# **Principal's Message**
+![](/images/School%20Leaders/P_banner_photo.png)
 
 
 
 
-**A New Milestone in ALPS’ Journey of Growing the Next Generation**
+ &gt;
 
-<img src="/images/Principal%20Photo.jpg" style="width:180px;height:200px;margin-left:15px;" align = "right">
+**Beyond 10 – A Journey Of Hope**
 
-        
+<img src="/images/Principal%20Photo.jpg" style="width:180px;height:200px;margin-left:15px;" align="right">
 
-2023 marks the tenth year of operation since Alexandra Primary School (ALPS) opened our gates in 2014 to welcome young learners into our campus to begin their formal education. Since then, the school has groomed four cohorts of P6 graduands and celebrated alongside their parents our students’ many achievements and developmental milestones. Though ALPS is a young school, we stand tall in our commitment to focus on the holistic development of our students and anchor them on sound values to signpost what is right in a world that is becoming increasingly complex and ambiguous. We believe it is important to equip our young charges with skills for the future and a moral compass to guide their decision making in life no matter their station in society. We recognize that every child is unique and will support them to discover and develop their strengths and to manage their weaknesses.   
+       
 
-In 2022, ALPS was recognized as a good school by an external team of validators from MOE who studied our processes, programmes and priorities. We achieved well in our finance and safety audits and our Learning for Life Programme (LLP) on Cultural Intelligence was surfaced as a promising practice. Our alumnus, Arianne Teow (Class of 2022), received the Lee Kuan Yew All-Round Excellence (LKY-ARE) Award, a pinnacle award that recognizes students who are not only strong in academic achievements but also in leadership and contribution to the community. This signifies that the school has built on strong foundations and is on a clear trajectory of excellence going forward. Though the transition years have been a difficult time for everyone as we navigate disruptions brought about by the pandemic, our efforts are relentless. Relying on whatever goodwill and trust earned over the first few years of relationship building, we bore witness to significant sacrifices of our staff and strong support from our School Advisory Committee (SAC), community partners and parents, especially our Parent Support Group (PSG). Our students, too, observed and learnt from the adults in their lives and quickly adapted to safety measures and home-based learning that helped them continue learning. What kept us all going is our indomitable spirit and instinct to not only survive but also regenerate after a baptism of fire. Education of our next generation continues to be our top priority and we resolve for Alexandrians to grow up demonstrating our HER         <sup>3</sup>OIC values <sup>1</sup>. ALPS aspires to grow from strength to strength in carrying out our mission to “create a caring, safe and stimulating school environment where each child can grow and glow”.
+Alexandra Primary School (ALPS) celebrated her 10th anniversary in 2023 and launched the **ALPS Heritage Gallery** to commemorate key milestones of the school. It is the same year that we welcome our first cohort of preschoolers to **MK@Alexandra**. We invite you to visit the relevant webpages to get to know our school’s brief history and what our students and staff are engaged in.
 
-Starting from 3 Jan 2023, ALPS will operate MK@Alexandra and welcome our first cohort of 120 Kindergarten students. This marks a significant milestone in the history of ALPS. We are excited to partner with our preschool colleagues to create greater impact in the young children’s development starting from the golden window of learning opportunity at the early ages of 4 and 5.
+We are thankful for the trust and support of our parents whose sons and daughters began their formal education with us. Together, we help build a strong foundation in our students’ **values, literacy and numeracy skills as well as learning dispositions**. The first cohort of P6 students who graduated in 2019 had set a high benchmark in academic excellence and year on year, our students and teachers had done us proud by giving their best to improve the performance at PSLE. But we know learning should and must go beyond preparing for a lifetime of tests. Instead, we aim to reach out to our students in an **age-appropriate** way to get them ready for life’s opportunities and challenges.
 
-We warmly welcome Mdm Choy Yuan Chun, the Centre Head (CH) of MK@Alexandra, and her team of pioneer MK educators (MKE):
+Every one of our students enjoys holistic educational experiences that hone their 21<sup>st</sup> Century Compentencies<sup>1</sup>. Anchored on the school's  HER         <sup>3</sup>OIC values <sup>2</sup>, students learn values, social skills and civic literacy. Besides the core teaching subjects and co-curriculum (CCA, values-in-action projects, cultural exchange programme, student leadership programme, etc), we offer signature programmes to augment our students’ learning. All our P1 and P2 students attend **Speech and Drama** lessons to develop confidence in their communication and imaginative expressions. The **Learning for Life (LLP) programme** aims to give our students competencies to develop cultural intelligence and skills to communicate during cross-cultural exchanges. The **Applied Learning Programme (ALP)** on Science, Technology, Engineering, Mathematics (STEM) equips our students with design thinking, dexterity in the use of resources and mental agility. Under this programme, our students explore Science concepts and Financial Literacy. P3 and P4 students attend Coding lessons and P5 students are given exposure to applications of Artificial Intelligence. In 2024, a new makerspace is set up to encourage our students to connect and inspire each other to create and innovate. This injects new initiative into the existing Project Work students are involved in.&nbsp;
 
-<img src="/images/School%20Leaders/SLs%20and%20MK%20Team.jpg" style="width:400px;height:200px;margin-left:15px;" align = "right">
+We recognize that every child has unique strengths and will support them to realise their potential to be **reflective learners, empathic designers and inspiring leaders**. Our alumnus, Arianne Teow (Class of 2022), received the **Lee Kuan Yew All-Round Excellence (LKY-ARE) Award**, a pinnacle award that recognizes students who are not only strong in academic achievements but also in leadership and contribution to the community. She is an inspiring leader and an example of how we are committed to bring out the best in every child. We are optimistic that going forward, more Alexandrians will win accolades as they pursue their passion in learning with resilience and integrity.
 
-*  Dania Amelina Binte Jumari  
-* Justine Ong Kai Yee
-* Nadirah Binte Maszelan
-* Nur Haziqah Binte Anwar
-* Patricia Tay Ai Tin
-* Tamima Hana
-* Tan Yuan Ching, Rachel
-* Yang Huiqin
-* Yasmin Binte Mohamed Yusoff
-* Zhu Lijun
+As a school, our mission is to “create a caring, safe and stimulating school environment where each child can grow and glow”. Together with our School Advisory Committee, we welcome you to join us in this purposeful journey of impacting our next generation and ensuring our Alexandrians grow and glow!
 
 
-As we usher in 2023, we look forward to a celebratory tenth anniversary for ALPS and the sustained and strong partnership of our stakeholders in helping us and our students to grow and glow!
-
-
-  
-
-Mdm Teo Ching Ling  张庆玲   
+ 
+Mdm Teo Ching Ling&nbsp; 张庆玲   
 Principal    
 Alexandra Primary School
 
 * * *
-**HER<sup>3</sup>OIC values:** Harmony, Empathy, Resilience, Responsibility, Respect, Optimism, Integrity, Creativity.
+ <sup>1</sup>21<sup>st</sup> Century Competencies include Critical, Adaptive and Inventive Thinking; Communication, Collaboration and Information Skills; Civic, Global and Cross-cultural Literacy. <br>
+<sup>2</sup>
+HER<sup>3</sup>OIC values:&nbsp;Harmony, Empathy, Resilience, Responsibility, Respect, Optimism, Integrity, Creativity.
