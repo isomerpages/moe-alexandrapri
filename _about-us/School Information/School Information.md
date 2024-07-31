@@ -109,10 +109,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>ALPS Dental Clinic Schedule for August 2024 </strong>
 <br>
-<br>Opening Date:</p>
-<p>01-02/08/2024
-<br>12/08(am only), 14/08/2024(pm only), 15-16/08/2024</p>
-<p>26-30/08/2024
+<br>Opening Date:
+<br>01-02/08/2024, 12/08/2024(am only), 14/08/2024(pm only), 15-16/08/2024,
+26-30/08/2024</p>
+<p>
 <br>
 <br>Closure Dates:
 <br>05-09/08/2024, 19-23/08/2024</p>
