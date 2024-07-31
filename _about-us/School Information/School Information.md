@@ -112,7 +112,7 @@ variant: tiptap
 <br>Opening Date:
 <br>01-02/08/2024, 12/08/2024(am only), 14/08/2024(pm only), 15-16/08/2024,
 26-30/08/2024</p>
-<p>Closure Dates:
+<p>Closure Date:
 <br>05-09/08/2024, 19-23/08/2024</p>
 <p></p>
 <p></p>
