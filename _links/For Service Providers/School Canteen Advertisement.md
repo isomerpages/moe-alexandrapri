@@ -89,7 +89,8 @@ set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
 Programme (HMSP)” guidelines (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">see link</a>).
 <br>• Able to maintain high standard of food safety and personal hygiene.
 <br>• Healthy and fit to operate the stall.</p>
-<p>Applicants should preferably fulfil the following criteria:</p>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+</p>
 <p>• Successful applicant and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.
 <br>• Possess catering experience or experience operating in a school environment.
