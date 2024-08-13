@@ -53,7 +53,8 @@ third_nav_title: For Service Providers
 </tbody>
 </table>
 <p></p>
-<p>Application Procedure</p>
+<p><strong>Application Procedure</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
@@ -77,7 +78,8 @@ email OR to the School’s General Office.
 <br>• Contact Person: Mr Loh KH (Vice Principal-Admin)</p>
 </li>
 </ol>
-<p>Interest applicants must meet the following criteria:</p>
+<p><strong>Interest applicants must meet the following criteria:</strong>
+</p>
 <p>• Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
 and stall assistant.
 <br>• Able to provide good service and quality food with prices determined
