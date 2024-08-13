@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Service Providers
 ---
-<h2>School Canteen Advertisement</h2>
+<h1>School Canteen Advertisement</h1>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
