@@ -13,12 +13,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,12 +49,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syahmul Aziz Mohd Muralin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Administrative Executive</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Si Min Joanne
-<br>Miss Noorasyakirah Rahmat</p>
+<p>Miss Noorasyakirah Rahmat</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ann Lee</p>
+<p>Mdm Chua Hong Hoon</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +100,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tina</p>
+<p>Miss Tina Araque</p>
 </td>
 </tr>
 <tr>

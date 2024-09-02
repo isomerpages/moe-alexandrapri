@@ -71,7 +71,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Krystle Kuah
 <br>Miss Surbhi
-<br>Miss Neo Minqi Rachel
 <br>Mr Randal Lui Wai Lum
 <br>Ms Tan Shuhui</p>
 </td>
