@@ -39,7 +39,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Keshini Ramasamy
-<br>Mr Goh Han Serm Hans</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
