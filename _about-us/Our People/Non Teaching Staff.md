@@ -53,8 +53,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Si Min Joanne
-<br>Miss Noorasyakirah Rahmat</p>
+<p>Miss Noorasyakirah Rahmat</p>
 </td>
 </tr>
 <tr>
