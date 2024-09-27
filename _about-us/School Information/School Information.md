@@ -31,11 +31,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>(Buses &amp; School Personnel only)
-<br>7.00 am - 7.30 am
-<br>1.00 pm - 2.00 pm</p>
+<br>7.00 a.m. - 6.00 p.m.</p>
+<p>Drop off for arrival:
+<br>7.15 a.m. - 7.30 a.m. (or after the last bus has left, whichever is earlier)</p>
+<p>Drop off for arrival:
+<br>2.00 p.m. - 2.15 p.m. (or after the last bus has left, whichever is earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am - 6.00 pm</p>
+<p>7.00 a.m. - 6.00 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -43,13 +46,13 @@ variant: tiptap
 <p>Gate 2 @ Prince Philip Avenue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am - 7.30 am</p>
+<p>Drop off only</p>
+<p>7.00 a.m. - 7.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 am - 7.30 am
 <br>1.30 pm - 1.45 pm
-<br>3.15 pm - 3.45 pm
-<br>(Friday only)</p>
+<br><em>4.00 p.m. - 4.15 p.m. <br>(</em>*on Mondays only)</p>
 </td>
 </tr>
 <tr>
@@ -62,8 +65,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>7.00 am - 7.30 am
 <br>1.30 pm - 1.45 pm
-<br>3.15 pm - 3.45 pm
-<br>(Friday only)</p>
+<br><em>4.00 p.m. - 4.15 p.m. <br>(</em>*on Mondays only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 4 @ Park Connector</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For MK access only</p>
+<p>7.00 a.m. - 7.00 p.m.</p>
 </td>
 </tr>
 </tbody>
