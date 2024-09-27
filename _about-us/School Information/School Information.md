@@ -50,8 +50,8 @@ variant: tiptap
 <p>7.00 a.m. - 7.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am - 7.30 am
-<br>1.30 pm - 1.45 pm
+<p>7.00 a.m. - 7.30 a.m.
+<br>1.30 p.m .- 1.45 p.m.
 <br><em>4.00 p.m. - 4.15 p.m. <br>(</em>*on Mondays only)</p>
 </td>
 </tr>
@@ -63,8 +63,8 @@ variant: tiptap
 <p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am - 7.30 am
-<br>1.30 pm - 1.45 pm
+<p>7.00 a.m. - 7.30 a.m.
+<br>1.30 p.m. - 1.45 p.m.
 <br><em>4.00 p.m. - 4.15 p.m. <br>(</em>*on Mondays only)</p>
 </td>
 </tr>
