@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Hong Hoon</p>
+<p>Miss Kendrix Koh Pei Ying</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,8 @@ variant: tiptap
 <br>Mr Chua Peng Khoon
 <br>Mr Chan Boon Wan
 <br>Mr Goh Boon Hin
-<br>Mr Loong Sue Loon</p>
+<br>Mr Loong Sue Loon
+<br>Mdm Lum Sook Kew</p>
 </td>
 </tr>
 </tbody>
