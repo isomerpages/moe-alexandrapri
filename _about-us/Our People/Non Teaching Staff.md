@@ -123,8 +123,8 @@ variant: tiptap
 <br>Mr Chua Peng Khoon
 <br>Mr Chan Boon Wan
 <br>Mr Goh Boon Hin
-<br>Mr Loong Sue Loon</p>
-<p>Mdm Lum Sook Kew</p>
+<br>Mr Loong Sue Loon
+<br>Mdm Lum Sook Kew</p>
 </td>
 </tr>
 </tbody>
