@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Chye Leong</p>
+<p>Mr Perry Liew</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syahmul Aziz Mohd Muralin</p>
+<p>Mr Syahmul Aziz Mohd Mursalin</p>
 </td>
 </tr>
 <tr>
