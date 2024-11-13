@@ -124,7 +124,7 @@ variant: tiptap
 <p><strong>ALPS Dental Clinic Schedule for November 2024 </strong>
 <br>
 <br>Opening Date:
-<br>04/11/2024, 05/10/2024 (pm), 06/11/2024(am), 08/11/2024</p>
+<br>04/11/2024, 05/11/2024 (pm), 06/11/2024(am), 08/11/2024</p>
 <p>Closure Date:
 <br>01/11/2024, 07/11/2024, 11-15/11/2024, 18-22/11/2024, 25-29/112024</p>
 <p></p>
