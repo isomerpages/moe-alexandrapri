@@ -121,12 +121,12 @@ variant: tiptap
 <br>Tel: 8875 9554</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for October 2024 </strong>
+<p><strong>ALPS Dental Clinic Schedule for November 2024 </strong>
 <br>
 <br>Opening Date:
-<br>07/10/2024, 10-11/010/2024, 21/20/2024, 23/10/2024(am only), 24/10/2024</p>
+<br>04/11/2024, 05/11/2024 (pm), 06/11/2024(am), 08/11/2024</p>
 <p>Closure Date:
-<br>01-04/10/2024, 14-18/10/2024, 25-31/10/2024,</p>
+<br>01/11/2024, 07/11/2024, 11-15/11/2024, 18-22/11/2024, 25-29/112024</p>
 <p></p>
 <p></p>
 </td>
