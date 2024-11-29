@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Cheerleading.md
       - CCA/Cheerleading.md
       - CCA/.keep
       - CCA/CCA.md
