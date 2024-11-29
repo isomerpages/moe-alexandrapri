@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Club & Societies/.keep
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Clubs & Societies.md
