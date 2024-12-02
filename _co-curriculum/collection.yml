@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Cheerleading.md
       - CCA 2025.md
       - Club and Societies/.keep
       - Sports and Games/.keep
