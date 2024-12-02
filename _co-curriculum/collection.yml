@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Club and Societies/.keep
-      - CCA 2025.md
       - Learning For Life Programme (LLP).md
       - Applied Learning Programme.md
