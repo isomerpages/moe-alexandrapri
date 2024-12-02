@@ -2,15 +2,15 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Uniformed Group/.keep
-      - Visual & Performing Arts/.keep
-      - CCAs/CCA 2025.md
       - CCAs/.keep
+      - CCAs/CCA 2025.md
+      - Club and Societies/.keep
       - Club and Societies/Chinese Culture and Language.md
       - Club and Societies/Cheerleading.md
-      - Club and Societies/.keep
+      - Sports and Games/.keep
       - Sports and Games/Basketball.md
       - Sports and Games/Badminton.md
-      - Sports and Games/.keep
+      - Visual & Performing Arts/.keep
+      - Uniformed Group/.keep
       - Learning For Life Programme (LLP).md
       - Applied Learning Programme.md
