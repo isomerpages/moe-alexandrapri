@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCAs/Arts & Crafts.md
       - CCAs/.keep
       - CCAs/CCA 2025.md
       - Club and Societies/.keep
