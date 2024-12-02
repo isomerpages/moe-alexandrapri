@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA 2025.md
+      - Club and Societies/Cheerleading.md
       - Club and Societies/.keep
       - Sports and Games/.keep
       - Learning For Life Programme (LLP).md
