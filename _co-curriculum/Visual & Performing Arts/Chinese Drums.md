@@ -18,9 +18,6 @@ skills but also cultivate essential teamwork abilities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Drums/Chinese_Drums_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Drums/Chinese_Drums_2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Drums/Chinese_Drums_3.jpg">
