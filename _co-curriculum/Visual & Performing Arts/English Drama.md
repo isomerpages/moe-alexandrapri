@@ -16,11 +16,5 @@ productions and represent the school in the annual SYF Celebrations: <em>The You
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama English/freezeframe.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama English/dramaactivities.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama English/stageperformance.jpg">
-</div>
 <p></p>
