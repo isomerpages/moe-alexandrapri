@@ -17,9 +17,6 @@ for public speaking at assemblies. Members also develop practical skills
 through gardening, and repurposed crafting. These experiences prepare them
 to be proactive, informed environmental stewards.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Club/1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Club/3.jpg">
@@ -27,5 +24,9 @@ to be proactive, informed environmental stewards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Club/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Club/1.jpg">
 </div>
 <p></p>
