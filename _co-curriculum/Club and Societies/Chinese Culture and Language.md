@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Club and Societies
 ---
-<h4>Chinese Culture and Language</h4>
+<h4><strong>Chinese Culture and Language</strong></h4>
 <p>The Chinese Culture and Language CCA strives to ignite students' interest
 in Chinese culture while fostering a deeper appreciation for its enduring
 traditions. Through a diverse range of activities, including Chinese Calligraphy,
