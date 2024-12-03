@@ -11,13 +11,7 @@ and sense of rhythm by experiencing varied dance movements. Besides dancing
 for school programmes, selected Dance members will also participate in
 external events and competitions like SYF Dance Competition.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/2023_group_photo__1_.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Glow_team_at_carnival.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/2023_photo.jpg">
