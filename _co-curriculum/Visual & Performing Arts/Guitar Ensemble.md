@@ -16,13 +16,7 @@ school and at external events, showcasing their growth and abilities. Join
 us today for a magical musical experience and take your passion for the
 guitar to new heights!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Ensemble Guitar/1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Ensemble Guitar/2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Ensemble Guitar/3.jpg">
