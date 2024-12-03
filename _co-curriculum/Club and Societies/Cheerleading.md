@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Club and Societies
 ---
-<h4><strong>CHEERLEADING</strong></h4>
+<h4><strong>Cheerleading</strong></h4>
 <p></p>
 <p>The Cheerleading CCA empowers students to develop resilience, teamwork,
 and precision through training in stunts and gymnastics, performed to upbeat,
