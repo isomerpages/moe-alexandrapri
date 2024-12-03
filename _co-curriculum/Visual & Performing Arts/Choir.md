@@ -17,11 +17,5 @@ It's a place for musical growth, teamwork, and unforgettable experiences.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_SYF_2024.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Orientale_Concentus_2023.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Regular_Choir_Practice.jpg">
-</div>
 <p></p>
