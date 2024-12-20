@@ -3,20 +3,73 @@ title: For Parents
 permalink: /life-at-alps/intro/for-parents/
 description: ""
 third_nav_title: Intro
+variant: tiptap
 ---
-# **For Parents**
-
-[Guidelines for School-Home Partnership](/files/Guidelines%20for%20School-Home%20Partnership.pdf)
-  
-[MC Online](https://www.mconline.sg/LEAD/login/lms_login.aspx)1  
-  
-[Parents Gateway App (How-To) ](/files/PG%20-%20Annex%20A.pdf)
-
-[Changes to the PSLE Scoring and Secondary One Posting from 2021](https://www.moe.gov.sg/microsites/psle/PSLE%20Scoring/psle-scoring.html)   
-  
-**Subject Based Banding (SBB) Information**  
-
-*   [Subject Based Banding (English Language)](/files/MOE_SBB_EL_1%20Mar%202018.pdf)
-*   [Subject Based Banding (Chinese Language)](/files/MOE_SBB_CL_1%20Mar%202018.pdf)
-*   [Subject Based Banding (Malay Language)](/files/MOE_SBB_ML_1%20Mar%202018.pdf)
-*   [Subject Based Banding (Tamil Language)](/files/MOE_SBB_TL_1%20Mar%202018.pdf)
+<h1><strong>For Parents</strong></h1>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Quick Links</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/alps/home" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ALPS%20FAQs%20on%20Student%20iCON%20updated%20March%202023%20.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Student iCON/MIMS</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Kit for Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For_Primary_School_Student__Data_Management_Electronic_Poster_for_Student_iCON.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Management &amp; Housekeeping on Student iCON</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.digitalforlife.gov.sg/Learn/Resources/All-Resources?profile=profile0&amp;topic=all&amp;type=all&amp;page=1" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness - Media Literacy Council</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance (ECG)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission (DSA)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/alexandrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library OPAC</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
