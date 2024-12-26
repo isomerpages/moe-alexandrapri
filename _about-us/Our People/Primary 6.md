@@ -71,8 +71,9 @@ variant: tiptap
 <p>6 CREATIVITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cheryl Chua
-<br>Miss Kavitha d/o Annadhurai</p>
+<p>Mrs Gayathri Navin
+<br>Mrs Shirlyn Ling
+<br>Mdm Su Wan Ju</p>
 </td>
 </tr>
 </tbody>
