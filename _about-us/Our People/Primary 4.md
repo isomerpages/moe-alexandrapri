@@ -28,8 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Jingjing
-<br>Ms Jean Lim</p>
+<p>Mr Hao Xiaoxing
+<br>Miss Joanne Tan</p>
 </td>
 </tr>
 <tr>
@@ -38,9 +38,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Keshini Ramasamy
-<br>
-</p>
+<p>Mr Anthony Chua
+<br>Ms Jane Wee</p>
 </td>
 </tr>
 <tr>
@@ -49,8 +48,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hazel Foo
-<br>Mr Foo Weng Hong</p>
+<p>Mdm Choong Lee San
+<br>Mdm Lu Jingyan</p>
 </td>
 </tr>
 <tr>
@@ -59,8 +58,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wendy Sin
-<br>Ms Jamie Wong</p>
+<p>Mrs Pannirselvam
+<br>Miss Elizabeth Mary Monteiro</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +68,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Ai Tian
-<br>Mrs Ng-Tan Jun Hui</p>
+<p>Mr Panneer Selvam
+<br>Miss Jazreel Ari Yeo</p>
 </td>
 </tr>
 </tbody>
