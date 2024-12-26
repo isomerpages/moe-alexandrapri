@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness - Media Literacy Council</a>
+<p><a href="https://www.digitalforlife.gov.sg/Learn/Resources/All-Resources?profile=profile0&amp;topic=all&amp;type=all&amp;page=1" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness - Media Literacy Council</a>
 </p>
 </td>
 </tr>

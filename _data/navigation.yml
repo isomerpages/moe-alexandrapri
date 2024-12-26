@@ -7,14 +7,12 @@ links:
   - title: Co-curriculum
     collection: co-curriculum
   - title: Life@ALPS
-    url: /life-at-alps/intro/for-students
+    url: /life-at-alps/achievements/2024
     sublinks:
-      - title: Intro
-        url: /life-at-alps/intro/for-students
       - title: Events
-        url: /life-at-alps/events/2021/term-1
+        url: /life-at-alps/events/2024/term-4
       - title: Achievements
-        url: /life-at-alps/achievements/2021
+        url: /life-at-alps/achievements/2024
       - title: e-Yearbook
         url: /life-at-alps/e-yearbook/e-yearbook
   - title: MK@Alexandra
