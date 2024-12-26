@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (P1&amp;P2)</strong>
+<p><strong>Year Head (P1 &amp; P2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (P3&amp;P4)</strong>
+<p><strong>Year Head (P3 &amp; P4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P3&amp;P4)</strong>
+<p><strong>Assistant Year Head (P3 &amp; P4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P5&amp;P6)</strong>
+<p><strong>Assistant Year Head (P5 &amp; P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
