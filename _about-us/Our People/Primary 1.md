@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h1><strong>Primary 1</strong></h1>
-<h3>Form Teachers - Primary One</h3>
+<h1><strong>Primary 2</strong></h1>
+<h3>Form Teachers - Primary Two</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 HARMONY</strong>
+<p><strong>2 HARMONY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 EMPATHY</strong>
+<p><strong>2 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 RESILIENCE</strong>
+<p><strong>2 RESILIENCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,42 +54,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 RESPECT</strong>
+<p><strong>2 RESPECT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Choo Swee Chiang
-<br>
-</p>
+<br>Mdm Abitha Begum Binte Meerashahib</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 OPTIMISM</strong>
+<p><strong>2 OPTIMISM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suguna Manickam
+<p>Miss Wendy Sin
 <br>Mr Geoffrey Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 INTEGRITY</strong>
+<p><strong>2 INTEGRITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ee Na
-<br>Ms Tan Chay Ngee</p>
+<p>Mdm Raghumath Banu d/o Mohd Ali F
+<br>Mdm Sharon Goh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 CREATIVITY</strong>
+<p><strong>2 CREATIVITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dewi Nurazlin Binte Aziz
+<p>Miss Chen Jingjing
 <br>Mrs Rebecca Ng</p>
 <p></p>
 </td>
