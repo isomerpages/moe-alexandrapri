@@ -26,11 +26,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Elizabeth Mary Monteiro
-<br>Ms Diana Ho Bee Hong
-<br>Mrs Ng Hui Hoon
-<br>Mr Bernard Leong
-<br>Mr Perry Chan</p>
+<p>Mdm Vanitha D/O K S Perumal
+<br>Ms Lee Mui Hoong
+<br>Ms Miki Soon
+<br>Mdm R Sithaletchmi
+<br>Mdm Deborah Quek</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +40,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tey Siew Leng
-<br>Mrs Tiffany Ang
-<br>Mr Tan Sit Huat</p>
+<br>Ms Tan Chay Ngee</p>
 </td>
 </tr>
 <tr>
@@ -50,8 +49,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Melissa Sheo
-<br>Mrs Lim Chee Jew</p>
+<p>Mrs Ng Hui Hoon
+<br>Mdm Soh Siew Hoon
+<br>Mrs Melissa Sheo</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ching Yeu Pei</p>
+<p>Ms Ching Yeu Pei
+<br>Mdm Nadiah Binte Mohd Nizam</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +72,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Krystle Kuah
 <br>Miss Surbhi
-<br>Mr Randal Lui Wai Lum
+<br>Mr Randal Lui
 <br>Ms Tan Shuhui</p>
 </td>
 </tr>
