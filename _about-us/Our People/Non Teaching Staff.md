@@ -44,7 +44,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Perry Liew</p>
+<p>Mr Perry Liew
+<br>Mr Gabriel Tan</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +63,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Noorasyakirah Rahmat</p>
+<p>Miss Noorasyakirah Rahma
+<br>Ms Goh Li Li</p>
 </td>
 </tr>
 <tr>

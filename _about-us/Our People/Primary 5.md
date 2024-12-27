@@ -27,8 +27,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Keng Soon
-<br>Ms Priscilla Chiang</p>
+<p>Mdm Theresa Tham
+<br>Mrs Yvonne Seah</p>
 </td>
 </tr>
 <tr>
@@ -37,8 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Koh
-<br>Mdm Zheng Lidan</p>
+<p>Miss Kua Li En
+<br>Mdm Foo Siew Yee</p>
 </td>
 </tr>
 <tr>
@@ -47,8 +47,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Huiting
-<br>Miss Peng Yuanzhen</p>
+<p>Mdm Chai Gek Mui
+<br>Ms Mun Lynn</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +57,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Amirah Bte Abu Hasan
-<br>Mr Melvin Chin</p>
+<p>Ms Chua Pauline
+<br>Mrs Alison Tay
+<br>Mr Ting Huat Seng</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +68,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Chiam
-<br>Mrs Judy Lim</p>
+<p>Miss Ng Peck Yong
+<br>Ms Gayathri d/o Kunaseelan
+<br>Mrs Ng-Tan Jun Hui</p>
 </td>
 </tr>
 <tr>
@@ -77,8 +79,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gayathri Navin
-<br>Mdm Su Wan Ju</p>
+<p>Miss Nur Hakimah
+<br>Mrs Hazel Foo</p>
 </td>
 </tr>
 </tbody>

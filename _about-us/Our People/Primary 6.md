@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h1><strong>Primary 6</strong></h1>
 <h3>Form Teachers - Primary Six</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,8 +26,8 @@ variant: tiptap
 <p>6 HARMONY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Aw Lee San
-<br>Mrs Yvonne Seah</p>
+<p>Mr Tang Keng Soon
+<br>Ms Priscilla Chiang</p>
 </td>
 </tr>
 <tr>
@@ -31,8 +35,8 @@ variant: tiptap
 <p>6 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alison Tay
-<br>Mdm Sharon Goh</p>
+<p>Mdm Zheng Lidan
+<br>Miss Kavitha d/o Annadhurai</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +44,8 @@ variant: tiptap
 <p>6 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chai Gek Mui
-<br>Mrs Shirlyn Ling</p>
+<p>Miss Peng Yuanzhen
+<br>Mr Adriel Chia</p>
 </td>
 </tr>
 <tr>
@@ -49,8 +53,8 @@ variant: tiptap
 <p>6 OPTIMISM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kua Li En
-<br>Mr Ting Huat Seng</p>
+<p>Mdm Nur Amirah Bte Abu Hasan
+<br>Mr Melvin Chin</p>
 </td>
 </tr>
 <tr>
@@ -58,8 +62,8 @@ variant: tiptap
 <p>6 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Peck Yong
-<br>Ms Kwok Hui Min</p>
+<p>Mr Edward Chiam
+<br>Mrs Judy Lim</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +71,9 @@ variant: tiptap
 <p>6 CREATIVITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cheryl Chua
-<br>Miss Kavitha d/o Annadhurai</p>
+<p>Mrs Gayathri Navin
+<br>Mrs Shirlyn Ling
+<br>Mdm Su Wan Ju</p>
 </td>
 </tr>
 </tbody>

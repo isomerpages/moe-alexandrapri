@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<h4>Arts &amp; Crafts</h4>
+<h4><strong>Arts &amp; Crafts</strong></h4>
 <p>Art &amp; Craft Club CCA aims to develop students' creativity and imagination
 through the exploration of a range of media such as digital illustration,
 paint, batik art, watercolour, oil pastels, clay etc. Selected Art Club

@@ -98,7 +98,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jean Lim</p>
+<p>Ms Mun Lynn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head (P1 &amp; P2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kwok Hui Min</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +125,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Joanne Tan Wei Shen</p>
+<p>Miss Joanne Tan</p>
 </td>
 </tr>
 <tr>
@@ -130,29 +139,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (P5 &amp; P6)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kwok Hui Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Assistant Year Head (P5 &amp; P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lin Huiting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH (Aesthetics)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Eunice Koh</p>
 </td>
 </tr>
 <tr>
@@ -175,6 +166,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SH (Math)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hazel Foo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>SH (Science)</strong>
 </p>
 </td>
@@ -189,6 +189,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Geoffrey Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH (Technology)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Angela Kwan</p>
 </td>
 </tr>
 <tr>
