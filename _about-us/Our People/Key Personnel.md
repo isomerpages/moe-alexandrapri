@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH (Student Well-Being)</strong>
+<p><strong>SH (Student Leadership &amp; Well-Being)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

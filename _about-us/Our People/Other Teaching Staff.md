@@ -26,11 +26,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Ng Hui Hoon</p>
 <p>Mdm Vanitha D/O K S Perumal
 <br>Ms Lee Mui Hoong
 <br>Ms Miki Soon
-<br>Mdm R Sithaletchmi
-<br>Mdm Deborah Quek</p>
+<br>Mdm R Sithaletchmi</p>
 </td>
 </tr>
 <tr>
@@ -49,9 +49,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Hui Hoon
-<br>Mdm Soh Siew Hoon
-<br>Mrs Melissa Sheo</p>
+<p>Mrs Melissa Sheo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Physical Education</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Deborah Quek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Art</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Kanksha Sanghvi Ketan</p>
 </td>
 </tr>
 <tr>
