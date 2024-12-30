@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Hui Hoon</p>
-<p>Mdm Vanitha D/O K S Perumal
+<p>Mrs Ng Hui Hoon
+<br>Mdm Vanitha d/o K S Perumal
 <br>Ms Lee Mui Hoong
 <br>Ms Miki Soon
 <br>Mdm R Sithaletchmi</p>
