@@ -69,7 +69,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ng Peck Yong
-<br>Ms Gayathri D/O Kunaseelan
+<br>Ms Gayathri d/o Kunaseelan
 <br>Mrs Ng-Tan Jun Hui</p>
 </td>
 </tr>
