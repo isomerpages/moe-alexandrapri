@@ -28,7 +28,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Theresa Tham
-<br>Mrs Yvonne Seah</p>
+<br>Mr Ting Huat Seng</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Chua Pauline
 <br>Mrs Alison Tay
-<br>Mr Ting Huat Seng</p>
+<br>Ms Angela Kwan</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ng Peck Yong
-<br>Ms Gayathri d/o Kunaseelan
+<br>Ms Gayathri D/O Kunaseelan
 <br>Mrs Ng-Tan Jun Hui</p>
 </td>
 </tr>
