@@ -79,7 +79,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Raghumath Banu d/o Mohd Ali F
-<br>Mdm Sharon Goh</p>
+<br>Mdm Sharon Goh
+<br>Ms Tan Chay Ngee</p>
 </td>
 </tr>
 <tr>
