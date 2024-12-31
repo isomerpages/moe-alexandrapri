@@ -36,7 +36,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zheng Lidan
-<br>Miss Kavitha d/o Annadhurai</p>
+<br>Miss Kavitha d/o Annadhurai
+<br>Miss Kanksha Sanghvi Ketan</p>
 </td>
 </tr>
 <tr>

@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Pannirselvam
-<br>Miss Elizabeth Mary Monteiro</p>
+<br>Miss Jazreel Ari Yeo</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Panneer Selvam
-<br>Miss Jazreel Ari Yeo</p>
+<br>Miss Elizabeth Mary Monteiro</p>
 </td>
 </tr>
 </tbody>
