@@ -3,10 +3,11 @@ title: Parent Support Group
 permalink: /about-us/our-people/parent-support-group/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 # **Parent Support Group**
 
-![PSG](/images/PSG/2023%20psg%20exco%20collage.png)
+![](/images/PSG/2025_PSG_Team.png)
 
         
 
