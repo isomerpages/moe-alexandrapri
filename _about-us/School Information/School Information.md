@@ -124,9 +124,9 @@ variant: tiptap
 <p><strong>ALPS Dental Clinic Schedule for January 2025 </strong>
 <br>
 <br>Opening Date:
-<br>02/01/2025, 06-10/01/2025, 20-24/11/2025</p>
+<br>02/01/2025, 06-10/01/2025, 20-24/01/2025</p>
 <p>Closure Date:
-<br>03/11/2025, 13-17/01/2025, 27-31/01/2025</p>
+<br>03/01/2025, 13-17/01/2025, 27-31/01/2025</p>
 <p></p>
 <p></p>
 </td>
