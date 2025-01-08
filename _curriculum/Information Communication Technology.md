@@ -53,7 +53,7 @@ well-being in cyberspace</p>
 Cyber Wellness skills :</p>
 <p>• Assembly talks</p>
 <p>• FTGP lessons</p>
-<p>• dedicated time highlighting the Cyberwellness messages such as Safer
+<p>• Dedicated time highlighting the Cyberwellness messages such as Safer
 Internet Day, Cyber Wellness Week (set hyperlink to SID and CWW page respectively)</p>
 <p><strong><u>Safer Internet Day (Can be standalone page or combined with CW)</u></strong>
 </p>
