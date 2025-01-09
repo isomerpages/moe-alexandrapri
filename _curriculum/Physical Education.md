@@ -57,6 +57,6 @@ challenges with a positive and resilient mindset. This transformative journey
 empowers our students to thrive as active contributors to their community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/PE/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/PE/Picture3.png">
 </div>
 <p></p>
