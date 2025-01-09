@@ -4,7 +4,7 @@ permalink: /curriculum/english/
 description: ""
 variant: tiptap
 ---
-<h1><strong>English Language Curriculum at ALPS</strong></h1>
+<h4><strong>English Language Curriculum at ALPS</strong></h4>
 <p>At ALPS, our English Language curriculum is designed to develop students
 into empathetic communicators, discerning readers, and creative inquirers.&nbsp;
 We have been progressively implementing the national <strong>Strategies for English Language Learning and Reading (STELLAR) 2.0</strong> programme
