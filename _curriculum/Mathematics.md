@@ -54,3 +54,7 @@ and further enrich their knowledge.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/3.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/4.png">
+</div>
+<p></p>
