@@ -4,7 +4,7 @@ permalink: /curriculum/mathematics/
 description: ""
 variant: tiptap
 ---
-<h4>Mathematics Curriculum</h4>
+<h4><strong>Mathematics Curriculum</strong></h4>
 <p>The ALPS Mathematics curriculum aims to develop our students into reflective
 learners and problem solvers through the use of rich authentic mathematical
 experiences. Our programmes lay the foundation for the learning of mathematics
