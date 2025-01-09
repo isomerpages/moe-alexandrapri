@@ -58,3 +58,46 @@ and further enrich their knowledge.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/4.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/6.png">
+</div>
+<p><strong>Glow Programmes</strong>
+</p>
+<p></p>
+<p><u>E2K Mathematics Programme</u>
+</p>
+<p>An enrichment programme supported by the Gifted Education Branch, the
+E2K Mathematics Programme is offered to selected Primary 4 to 6 students
+who demonstrate interest and ability in Mathematics.</p>
+<p>The programme aims to develop the students’ mathematical reasoning skills
+and deepen their conceptual understanding through an inquiry approach.
+With opportunities to work independently or collaborate with their peers,
+students are engaged in mathematical thinking through puzzles, games and
+mathematical explorations specially designed for this programme as the
+teachers guide them through facilitated class discussions. Such learning
+experience allow students to cultivate their curiosity, enhance their desire
+to learn and gain important 21st century competencies such as critical,
+adaptive and inventive thinking, as well as effective communication skills.</p>
+<p><u>Math competitions</u>
+</p>
+<p>To provide an avenue of exposure to further develop our students’ mathematical
+potential, Primary 4 to 6 students are also invited to participate in annual
+National Mathematics competitions.</p>
+<p><strong>Grow Programmes</strong>
+</p>
+<p><u>Learning Support Programme for Mathematics (LSM) and Level-Me-Up Programmes</u>
+</p>
+<p>To support students who need additional help in learning Mathematical
+concepts and skills, the department conducts before- and after-school programmes
+for students at different levels. We engage different stakeholders in these
+programmes and carry out focused small-group teaching to help build the
+students’ confidence and strengthen their subject mastery.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/7.png">
+</div>
+<p></p>
