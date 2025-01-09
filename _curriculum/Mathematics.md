@@ -50,3 +50,7 @@ learning experiences such as presentations, hands-on activities and games.
 The experiences allow them to have opportunities to present their views
 and further enrich their knowledge.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/3.png">
+</div>
+<p></p>
