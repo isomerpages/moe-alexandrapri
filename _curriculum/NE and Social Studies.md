@@ -4,7 +4,6 @@ permalink: /curriculum/ne-and-social-studies/
 variant: tiptap
 description: ""
 ---
-<h1><strong>NE and Social Studies</strong></h1>
 <p><strong>Social Studies<br></strong>The Social Studies&nbsp;curriculum
 spans the primary and secondary levels, and helps students to grow in knowledge,
 develop skills and learn values through examining issues that are of concern
