@@ -55,7 +55,7 @@ Cyber Wellness skills :</p>
 <p>• FTGP lessons</p>
 <p>• Dedicated time highlighting the Cyberwellness messages such as Safer
 Internet Day, Cyber Wellness Week (set hyperlink to SID and CWW page respectively)</p>
-<p><strong><u>Safer Internet Day (Can be standalone page or combined with CW)</u></strong>
+<p><strong><u>Safer Internet Day </u></strong>
 </p>
 <p>Safer Internet Day is an annual global initiative which aims to promote
 safer and more responsible use of online technology and mobile devices
@@ -68,7 +68,7 @@ up with discussions with their Form teachers during FTGP time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture1.png">
 </div>
-<p><strong><u>Cyber Wellness Week @ ALPS (Standalone page)</u></strong>
+<p><strong><u>Cyber Wellness Week @ ALPS </u></strong>
 </p>
 <p>Cyber Wellness Week @ ALPS aimed to foster Cyber Wellness and encourage
 safe and discerning technology use among our students. The week's activities
