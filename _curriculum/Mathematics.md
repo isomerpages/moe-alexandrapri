@@ -38,3 +38,7 @@ within their budget in our mock-up ALPS Department Store.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/1.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/2.png">
+</div>
+<p></p>
