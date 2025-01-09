@@ -41,4 +41,12 @@ within their budget in our mock-up ALPS Department Store.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/2.png">
 </div>
+<p><u>Math and Science Week</u>
+</p>
+<p></p>
+<p>To foster the joy of learning, the Math and Science Week is organised
+annually. During the three-day carnival, students are engaged in diverse
+learning experiences such as presentations, hands-on activities and games.
+The experiences allow them to have opportunities to present their views
+and further enrich their knowledge.</p>
 <p></p>
