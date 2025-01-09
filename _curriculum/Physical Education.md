@@ -4,7 +4,8 @@ permalink: /curriculum/physical-education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>ALPS Botanic Gardens Hike</strong></h4>
+<p><strong>ALPS Botanic Gardens Hike</strong>
+</p>
 <p>The ALPS Botanic Gardens Hike aims to promote camaraderie between our
 P1 and P2 students and school staff. As they explore the scenic paths of
 the Botanic Gardens, the hike encourages students to develop resilience
