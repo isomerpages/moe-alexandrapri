@@ -4,7 +4,7 @@ permalink: /curriculum/information-communication-technology/
 description: ""
 variant: tiptap
 ---
-<h1><strong>ICT Programme at Alexandra Primary School (ALPS)</strong></h1>
+<h4><strong>ICT Programme at Alexandra Primary School (ALPS)</strong></h4>
 <p><strong>Our Vision</strong>
 </p>
 <p>In today's globalised world, Infocommunication Technology (ICT) is integral
@@ -80,8 +80,8 @@ to nurture positive digital habits of our students as they navigate cyberspace.&
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture2.jpg">
 </div>
-<p><strong>Resources </strong>(include these links under Resources for Parents’
-page)</p>
+<p><strong>Resources </strong>
+</p>
 <p>Learn more about how you can keep your child safe online through these
 resources:</p>
 <ul data-tight="true" class="tight">
