@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1PKGas75K-i9ZHm0ZhJ3eRdcVv4JfdTeU/view" rel="noopener noreferrer nofollow" target="_blank">Zoom (Students' Guide)</a>
+<p><a href="/files/Student_Guide_V2_Vetted.pdf" rel="noopener nofollow" target="_blank">Teams (Students' Guide)</a>
 </p>
 </td>
 </tr>
