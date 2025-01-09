@@ -2,105 +2,136 @@
 title: English
 permalink: /curriculum/english/
 description: ""
+variant: tiptap
 ---
-# **English**
-
-### Overview of ALPS English Curriculum
-
-**The English Language Department’s Articulation of the ALPS** 
-
-**Vision, Mission and Values**
-
-![](/images/EL1.png)
-
+<h4><strong>English Language Curriculum at ALPS</strong></h4>
+<p>At ALPS, our English Language curriculum is designed to develop students
+into empathetic communicators, discerning readers, and creative inquirers.&nbsp;
+We have been progressively implementing the national <strong>Strategies for English Language Learning and Reading (STELLAR) 2.0</strong> programme
+since 2020, starting with Primary 1. This phased approach now covers all
+levels from Primary 1 to 6. STELLAR's vision is to cultivate a love for
+reading and a strong foundation in the English Language. By employing engaging,
+age-appropriate strategies and instructional materials, we aim to develop
+students' language proficiency and promote a lifelong positive attitude
+towards reading and writing.</p>
+<p>In alignment with the 2020 English Language Syllabus, our curriculum focuses
+on developing both effective and affective language use among students,
+with an emphasis on <strong>Purpose, Audience, Context, and Culture</strong>.
+The syllabus emphasises 21st century competencies, fostering values such
+as empathy and cultural sensitivity. Our teaching approaches incorporate <strong>metacognition</strong>, <strong>multiliteracies</strong>,
+and <strong>inquiry through dialogue</strong>. To enhance critical thinking,
+teachers employ questioning techniques based on Bloom’s Taxonomy, encouraging
+students to engage deeply with the content and apply their thinking to
+real-world contexts.</p>
+<p><strong>Literature Is For Everyone (LIFE) Programme</strong>
+</p>
+<p>The LIFE Programme, targeted at Primary 1 and 2 students, introduces them
+to quality literature to develop language skills and empathy. Through guided
+interactions with stories, students learn language models, experience the
+world through characters, and appreciate the elements of compelling narratives.
+This programme not only enhances language proficiency but also builds metacognitive
+skills by encouraging students to reflect on the characters' experiences
+and apply these insights to their own lives.</p>
+<p><strong>ALPS Oracy Programme</strong>
+</p>
+<p>At ALPS, our Oracy Programme is dedicated to enhancing students' speaking
+and listening skills, enabling them to articulate their thoughts confidently
+and effectively. We employ school-based thinking frames, sentence starters,
+and discourse markers to support students in structuring and expressing
+their ideas clearly.</p>
+<p>To further enrich our Oracy Programme, we integrate various digital platforms
+and tools:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moo-O (Primary 1 and 2): An interactive
+storytelling application that transforms students into story characters,
+promoting reading fluency and speaking skills through engaging activities.
 <br>
 <br>
-
-*   **Articulation of the ALPS Vision**     
-Language is needed to shape thoughts, express emotions and even define the world view of individuals. To be a Reflective Learner, language is needed to encode what one is thinking and reflecting on. To be an Empathic Designer, understanding the language is required to understand others. To be an Inspiring Leader, a good grasp of the language is needed to communicate ideas. 
-				
-	Therefore, the aim of the English Language Department is to develop our students to be Competent Users of the English Language so that they can be Effective and Confident Communicators. 
-
-<br>
-
-*   **Articulation of the ALPS Mission**      
-The department sets its mission to create an engaging curriculum that will stimulate students’ appreciation of the English Language (EL) so that they can acquire necessary language skills to be competent and confident users of the language to support life-long learning. 
-
-	An engaging curriculum means one that will allow students to cherish and value the learning of EL. In order for students to cherish their learning, they will need to enjoy it. And for them to value the learning, they need to find meaning in their learning. With that as the mission, the department developed the ALPS EL Curriculum: LAMP.
-
- <br>
-
-*   **Embracing of the ALPS Philosophy**      
-The ALPS EL Curriculum is built based on the ALPS Philosophy.
-
-![](/images/EL2.png)
-
-The ALPS EL curriculum uses LAMP as a metaphor to signify the importance of having an effective grasp of the English language. Language lights up the way for students to acquire and create knowledge, and at the same time connect and communicate with others.
-
-<br>
-
-*   **Programmes to Promote LEARNING**     
-ALPS adopts the Strategies for English Language Learning and Reading (STELLAR), a national pedagogic framework, in the teaching of EL. The Modified Language Experience Approach (MLEA) is one aspect of the STELLAR pedagogy. 
-
-<br>  
-
-*   **Modified Language Experience Approach (MLEA)**      
-ALPS provides students with shared experiences that are linked to the Big Book that they have read together in class. The shared experience (see examples below) provides the context and content for students to think, discuss and write, using the target language structures and vocabulary that they have been exposed to in their reading of the Big Book.
-
-<img src="/images/EL3.jpg" style="width:240px;height:180px;margin-left:15px;" align = "right">
-
-**Primary 1: The Giant’s Ice Cream**
-
-After reading how much the giant in the book that they have read enjoyed ice cream, the Primary 1 students get to enjoy their own yummy ice cream after adding sprinkles and chocolate fudge.
-
-<br>
-
-<img src="/images/EL4.jpg" style="width:240px;height:180px;margin-left:15px;" align = "right">
-
-**Primary 2: Bubble Trouble**  
-
-Students read the book, Bubble Trouble, and found out their bubbles could be trouble. They each were then given a bottle of bubble liquid to test it out on their own. They discovered that bubbles were more fun than trouble!
-
-<br>
-
-*   **Programmes to promote APPRECIATION of the language**  
-In the teaching of EL, it is important to inculcate in our students an enjoyment and appreciation of how language conveys information and emotions, and enable the visualisation of the scenes created by words.
-
-<br>
-
-*   **Reading Programme**   
-Students Drop Everything And Read (D.E.A.R) between 7 a.m. and 7.30 a.m. and have about ten minutes of silent reading before the start of the EL lesson per day. This provides opportunity for students to engage in reading and develop a love for reading. 
-
-<br>
-
-*   **Theatre Experience**  
-Theatre experience provides P1 to P3 students with the opportunity to appreciate the language in action and have a deeper understanding of story plots through the depiction of the actors.
-
-<img src="/images/EL3.png" 
-     style="width:60%">
-_Primary 2 students watched The Ant and the Grasshopper presented by iTheatre._
-
-*   **Literature Is For Everyone (LIFE) Programme**  
-LIFE aims to allow students to learn from good literature. Through a guided approach, students pick up language models from the books, build experiences vicariously through the characters in the stories, appreciate the elements of good stories and develop meta-cognition skills to encourage empathy.
-
-![](/images/EL4.png)
-
-*   **Programmes to promote MASTERY**
-
-<img src="/images/EL5.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
-The ALPS EL curriculum aims to develop our students’ proficiency in the 4 language skills, Reading, Writing, Speaking and Listening, and the 2 language components, Grammar and Vocabulary. Mastery of the language lays the foundation for our students to gain access to learning of the other subjects such as, Mathematics, Science and to be more encompassing, learning about the world. One way to help students attain mastery is through reviews and assessment. Data collected from assessment will help inform teachers on how to further support students’ on their literacy acquisition journey.
-
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Student Learning Space (SLS)
+Speech Evaluation Tool (Primary 3 to 6): A feature within SLS that provides
+feedback on students' reading aloud, highlighting areas such as pronunciation,
+fluency, and accuracy.
 <br>
 <br>
-
-*   **PERFORM: Use the Language in Authentic Settings**  
-
-Opportunities are built into the EL curriculum to enable students to see the value of their learning of the  language.
-
-<img src="/images/EL6.png" style="width:200px;height:300px;margin-left:15px;" align = "right">
-
-In P1 and P2, the focus is for them to understand that they are able to acquire knowledge when they have good grasp of the EL. They are taken to places of interests for example, the Singapore Zoological Garden and the Jurong Bird Park respectively to learn about animals and birds through the written information at these two places. 
-
-In P3 and P4, the focus is for them to create and communicate knowledge through the use of EL. Students are taken on learning journeys for example the Tiong Bahru Heritage Tour and the Sungei Buloh Nature Reserve walk. Students have to put together a presentation of what they have learnt and share it with others.
-
-In P5 and P6, the focus is for them to experience EL as the lingua franca to communicate with others in different cultural context from theirs.
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ALPS-Developed Oral Coach (Primary 5 and
+6): An AI-powered tool designed by the school to offer immediate feedback
+on students' oral responses, helping them improve the depth and quality
+of their conversations.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>ALPS Writing Programme (Primary 3 to 6)</strong>
+</p>
+<p>At ALPS, our Writing Programme is designed to nurture creative thinking
+and effective writing skills among our students through engaging and structured
+activities that progressively build their competencies. Students are introduced
+to Making Thinking Visible routines such as See-Think-Wonder to encourage
+brainstorming and critical thinking. Students are also introduced to the
+concept of <strong>Show, Not Tell</strong>, where they learn to convey emotions
+and actions vividly through detailed descriptions.</p>
+<p>To make storytelling both fun and meaningful, ALPS has developed the <strong>ALPS StoryBuilder</strong>—a
+structured system designed to teach storytelling in a progressive manner.
+This system, introduced to Primary 5 and 6 students, helps them build confidence
+in their narrative writing. Additionally, we have created <strong>Creative Adaptive and Inventive Thinking (CAIT)</strong> and <strong>Communication, Collaboration, and Information (CCI)</strong> activities.
+These are integrated with the use of mentor texts, providing structured
+yet flexible opportunities for students to experiment with story elements,
+refine their writing, and develop their unique voices. By engaging in these
+activities, students not only enhance their storytelling skills but also
+find joy and purpose in expressing their ideas creatively.</p>
+<p><strong>Literacy Support Programmes</strong>
+</p>
+<p>To support students with diverse learning needs, we offer specialised
+programmes, such as the Learning Support Programme (LSP) for Primary 1
+and 2, and the Reading Remediation Programme (RRP) and School Dyslexic
+Remediation (SDR) for Primary 3 and 4. These programmes, conducted by trained
+teachers, are designed to provide targeted intervention, ensuring that
+all students have a strong foundation in reading and comprehension.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>High-Ability Learners Programme for English Language (HAL-EL) at ALPS</strong>
+</p>
+<p>At ALPS, our High Ability Learners Programme (HALP) for English Language
+is designed to cater to students with an aptitude and passion for the language.
+The programme aims to extend students’ learning beyond the standard curriculum,
+challenging them to think critically, express creatively, and develop a
+deeper appreciation for language and literature. Through differentiated
+instruction, specialised workshops, and participation in national-level
+competitions, we provide a platform for our high-ability learners to excel
+and grow into confident communicators and reflective thinkers.</p>
+<p><strong>DIfferentiated Learning (Within Curriculum)</strong>
+</p>
+<p>The Explorations and Inquiry (E&amp;I) activities are developed and curated
+by the Ministry of Education’s Gifted Education Branch, with resources
+designed to stretch high-ability learners (HALs). At ALPS, we adapt these
+activities where relevant and introduce them during English Language curriculum
+time for classes with identified HAL students. These activities complement
+the STELLAR 2.0 English Language curriculum by deepening students' engagement
+with language through inquiry-based learning. Each STELLAR unit incorporates
+E&amp;I tasks tailored to its specific focus, challenging students to explore
+concepts more thoroughly. For example, one unit may involve investigating
+how technological advancements influence language, while another may focus
+on the power of persuasive writing or storytelling. By participating in
+these varied activities during curriculum time, HAL students refine their
+critical thinking, creativity, and analytical skills, enriching their overall
+learning experience.</p>
+<p><strong>Reading Circles Programme (After-school Enrichment Programme)</strong>
+</p>
+<p>As part of our HAL-EL offerings, the Reading Circles Programme nurtures
+critical thinking, empathy, and a love for literature among our Primary
+4 to 6 students. Participants engage in thought-provoking literary discussions
+on carefully selected texts: <em>Frindle</em> by Andrew Clements for Primary
+4, <em>The Mudskipper</em> by Ovidia Yu for Primary 5, and <em>Number the Stars</em> by
+Lois Lowry for Primary 6. These guided sessions encourage students to draw
+connections between literature and real-world experiences, fostering deeper
+comprehension and analytical skills.</p>
+<p><strong>Wits &amp; Words Programme (Competition)</strong>
+</p>
+<p>Aligned with the Ministry of Education’s Gifted Education Branch initiatives,
+ALPS also participates in the Wits &amp; Words Inter-school Debate Championship.
+Towards the end of each academic year, identified Primary 5 students with
+strong verbal abilities undergo a series of SLS lessons focused on debating
+skills. From this group, five students will be selected to represent the
+school in Division 2 of the competition. This programme not only enhances
+their oral communication and persuasive skills but also builds confidence
+in public speaking and critical thinking.</p>
+<p></p>
