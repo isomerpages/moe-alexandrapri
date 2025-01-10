@@ -143,7 +143,8 @@ variant: tiptap
 <br>
 <br>Business Hours:
 <br>Monday to Friday: 9.00 am - 6.00 pm
-<br>Saturday: 9.00 am - 1.00 pm Sunday/Public Holiday: Closed</p>
+<br>Saturday: 9.00 am - 1.00 pm (Last measurement 12.30pm) Sunday/Public Holiday:
+Closed</p>
 <p>2025 Lunar New Year holidays – BB Henderson will be closed from 26 Jan
 2025 – 2 Feb 2025. Re-open on 3 Feb 2025.</p>
 </td>
