@@ -119,6 +119,8 @@ variant: tiptap
 <br>
 <br>Ricky Book Centre
 <br>Tel: 8875 9554</p>
+<p>Monday to Friday: 9.00 am - 3.00 pm
+<br>(Closed on Saturday, Sunday, Eve of/&amp;Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ALPS Dental Clinic Schedule for January 2025 </strong>
@@ -140,8 +142,12 @@ variant: tiptap
 <br>Singapore 159553
 <br>
 <br>Business Hours:
-<br>Monday to Friday: 9.00 am - 1.00 pm
-<br>Saturday: 9.00 am - 12.30 pm</p>
+<br>Monday to Friday: 9.00 am - 6.00 pm
+<br>Saturday: 9.00 am - 1.00 pm</p>
+<p>Sunday/Public Holiday: Closed</p>
+<p>2025 Lunar New Year holidays – BB Henderson will be closed from 26 Jan
+2025 – 2 Feb 2025.</p>
+<p>Re-open on 3 Feb 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Care Centre</strong> 
