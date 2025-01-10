@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ALPS%20FAQs%20on%20Student%20iCON%20updated%20March%202023%20.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Student iCON/MIMS</a>
+<p><a href="/files/FAQs_on_Student_iCON___MIMS___Onboarding.pdf" rel="noopener nofollow" target="_blank">MOE Student iCON/MIMS</a>
 </p>
 </td>
 </tr>
