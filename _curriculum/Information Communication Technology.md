@@ -54,7 +54,7 @@ Cyber Wellness skills :</p>
 <p>• Assembly talks</p>
 <p>• FTGP lessons</p>
 <p>• Dedicated time highlighting the Cyberwellness messages such as Safer
-Internet Day, Cyber Wellness Week (set hyperlink to SID and CWW page respectively)</p>
+Internet Day, Cyber Wellness Week</p>
 <p><strong><u>Safer Internet Day</u></strong>
 </p>
 <p>Safer Internet Day is an annual global initiative which aims to promote
