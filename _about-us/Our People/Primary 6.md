@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h1><strong>Primary 6</strong></h1>
 <h3>Form Teachers - Primary Six</h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
