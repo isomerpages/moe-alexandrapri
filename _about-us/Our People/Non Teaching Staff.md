@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h1><strong>Non-Teaching Staff</strong></h1>
+<h3><strong>Non-Teaching Staff</strong></h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
