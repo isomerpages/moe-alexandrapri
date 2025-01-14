@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h1><strong>Key Personnel</strong></h1>
+<h3><strong>Key Personnel</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
