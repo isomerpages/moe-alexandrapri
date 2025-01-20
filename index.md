@@ -15,5 +15,5 @@ sections:
         - title: Parents Gateway Official Mobile App
           description: Read more
           url: /life-at-alps/intro/for-parents
-      background: /images/Banner Photos/School_banner_final_2.gif
+      background: /images/Banner Photos/school banner 10th yr final.jpg
 ---
