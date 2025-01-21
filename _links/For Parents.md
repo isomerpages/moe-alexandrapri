@@ -71,9 +71,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">Schoolbag </a>
-</p>
-<p>Schoolbag is MOE’s signature repository of school stories that are useful
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">Schoolbag</a>
+<br>Schoolbag is MOE’s signature repository of school stories that are useful
 and relevant to parents with school-going children. Click to find out more.</p>
 </td>
 </tr>
