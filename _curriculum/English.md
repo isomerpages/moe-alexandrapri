@@ -165,6 +165,22 @@ critical thinking, creativity, and analytical skills, enriching their overall
 learning experience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/English/Pic_6_Class_Reading.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Department/English/Pic_6_Class_Reading.jpg">
 </div>
+<p><strong>Reading Circles Programme (After-school Enrichment Programme)</strong>
+</p>
+<p>Reading Circles for Advanced Readers is a programme designed by MOE Gifted
+Education Branch (GEB) as an enrichment provision for High-Ability Learners.
+The programme aims to provide students an opportunity to engage in critical
+thinking and reflection as they read, discuss and respond to the selected
+book. Students gain new understanding and perspectives as they construct
+meaning with other readers.</p>
+<p>Participants engage in thought-provoking literary discussions on carefully
+selected texts: <em>Frindle</em> by Andrew Clements for Primary 4, <em>The Mudskipper</em> by
+Ovidia Yu for Primary 5, and <em>Number the Stars</em> by Lois Lowry for
+Primary 6. At ALPS, we have customised the lessons to incorporate opportunities
+for students to connect literature to real-world experiences, including
+societal issues and significant world events such as pandemics or conflicts.
+This approach fosters deeper comprehension, critical thinking, and analytical
+skills.</p>
 <p></p>
