@@ -47,7 +47,7 @@ meaningful activities to foster a sense of pride and belonging to our country.</
 </p>
 <p>Cohort learning journeys support students’ learning in Social Studies
 by deepening their understanding of the heritage and culture of Singapore
-beyond the classroom. Primary 4 to 6 students will be visiting the respective
+beyond the classroom. Primary 3 to 6 students will be visiting the respective
 sites listed in the table below for museum-based learning as part of their
 Social Studies lessons.</p>
 <table style="minWidth: 50px">
