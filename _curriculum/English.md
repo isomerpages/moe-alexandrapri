@@ -72,3 +72,99 @@ can exchange it for a <strong>Reading Badge</strong>, celebrating their
 progress and encouraging continued enthusiasm for reading. This programme
 also supports the development of important values such as responsibility
 and resilience through shared learning experiences.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Department/English/pic_4.png">
+</div>
+<p><strong>ALPS Oracy Programme</strong>
+</p>
+<p>At ALPS, our Oracy Programme is dedicated to enhancing students' speaking
+and listening skills, enabling them to articulate their thoughts confidently
+and effectively. We employ school-based thinking frames, sentence starters,
+and discourse markers to support students in structuring and expressing
+their ideas clearly.</p>
+<p>To further enrich our Oracy Programme, we integrate various digital platforms
+and tools:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moo-O (Primary 1 and 2): An interactive
+storytelling application that transforms students into story characters,
+promoting reading fluency and speaking skills through engaging activities.
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Student Learning Space (SLS)
+Speech Evaluation Tool (Primary 3 to 6): A feature within SLS that provides
+feedback on students' reading aloud, highlighting areas such as pronunciation,
+fluency, and accuracy.
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ALPS-Developed Oral Coach (Primary 5 and
+6): An AI-powered tool designed by the school to offer immediate feedback
+on students' oral responses, helping them improve the depth and quality
+of their conversations.</p>
+<p></p>
+<p><strong>HIGHLIGHTS FOR PRIMARY 3 to 6</strong>
+</p>
+<p><strong>ALPS Writing Programme (Primary 3 to 6)</strong>
+</p>
+<p>At ALPS, our Writing Programme is designed to nurture creative thinking
+and effective writing skills among our students through engaging and structured
+activities that progressively build their competencies. Students are introduced
+to Making Thinking Visible routines such as See-Think-Wonder to encourage
+brainstorming and critical thinking. Students are also introduced to the
+concept of <strong>Show, Not Tell</strong>, where they learn to convey emotions
+and actions vividly through detailed descriptions.</p>
+<p>To make storytelling both fun and meaningful, ALPS has developed the <strong>ALPS StoryBuilder</strong>—a
+structured system designed to teach storytelling in a progressive manner.
+This system, introduced to Primary 5 and 6 students, helps them build confidence
+in their narrative writing. Additionally, we have created <strong>Creative Adaptive and Inventive Thinking (CAIT)</strong> and <strong>Communication, Collaboration, and Information (CCI)</strong> activities.
+These are integrated with the use of mentor texts, providing structured
+yet flexible opportunities for students to experiment with story elements,
+refine their writing, and develop their unique voices. By engaging in these
+activities, students not only enhance their storytelling skills but also
+find joy and purpose in expressing their ideas creatively.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/English/3.png">
+</div>
+<p><strong>Literacy Support Programmes</strong>
+</p>
+<p>To support students with diverse learning needs, we offer specialised
+programmes, such as the Learning Support Programme (LSP) for Primary 1
+and 2, and the Reading Remediation Programme (RRP) and School Dyslexic
+Remediation (SDR) for Primary 3 and 4. These programmes, conducted by trained
+teachers, are designed to provide targeted intervention, ensuring that
+all students have a strong foundation in reading and comprehension.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Department/English/Pic_5.jpg">
+</div>
+<p><strong>High-Ability Learners Programme for English Language (HAL-EL) at ALPS</strong>
+</p>
+<p>At ALPS, our High Ability Learners Programme (HALP) for English Language
+is designed to cater to students with an aptitude and passion for the language.
+The programme aims to extend students’ learning beyond the standard curriculum,
+challenging them to think critically, express creatively, and develop a
+deeper appreciation for language and literature. Through differentiated
+instruction, specialised workshops, and participation in national-level
+competitions, we provide a platform for our high-ability learners to excel
+and grow into confident communicators and reflective thinkers.</p>
+<p><strong>DIfferentiated Learning (Within Curriculum)</strong>
+</p>
+<p>The Explorations and Inquiry (E&amp;I) activities are developed and curated
+by the Ministry of Education’s Gifted Education Branch, with resources
+designed to stretch high-ability learners (HALs). At ALPS, we adapt these
+activities where relevant and introduce them during English Language curriculum
+time for classes with identified HAL students. These activities complement
+the STELLAR 2.0 English Language curriculum by deepening students' engagement
+with language through inquiry-based learning. Each STELLAR unit incorporates
+E&amp;I tasks tailored to its specific focus, challenging students to explore
+concepts more thoroughly. For example, one unit may involve investigating
+how technological advancements influence language, while another may focus
+on the power of persuasive writing or storytelling. By participating in
+these varied activities during curriculum time, HAL students refine their
+critical thinking, creativity, and analytical skills, enriching their overall
+learning experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/English/Pic_6_Class_Reading.jpg">
+</div>
+<p></p>
