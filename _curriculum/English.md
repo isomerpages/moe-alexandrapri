@@ -184,3 +184,21 @@ societal issues and significant world events such as pandemics or conflicts.
 This approach fosters deeper comprehension, critical thinking, and analytical
 skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/English/Pic_7.png">
+</div>
+<p><strong>Wits &amp; Words Debate Competition</strong>
+</p>
+<p>Tapping on the Ministry of Education’s Gifted Education Branch initiative,
+ALPS participates in the Wits &amp; Words Inter-school Debate Championship.
+Towards the end of each academic year, identified Primary 5 students with
+strong verbal abilities undergo a series of SLS lessons focused on debating
+skills. From this group, five students will be selected to represent the
+school in Division 2 of the competition. This programme not only enhances
+their oral communication and persuasive skills but also builds confidence
+in public speaking and critical thinking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/English/Pic_8.jpg">
+</div>
+<p></p>
