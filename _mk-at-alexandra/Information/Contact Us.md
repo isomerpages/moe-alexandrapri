@@ -6,7 +6,7 @@ third_nav_title: Information
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/2023%20booth.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MK/2023%20booth.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
