@@ -5,8 +5,12 @@ description: ""
 third_nav_title: Information
 variant: tiptap
 ---
-<h1><strong>Our People</strong></h1>
-<table>
+<h3><strong>Our People</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -15,6 +19,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Choy Yuan Chun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Deputy Centre Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Yi Huey Alicia</p>
 </td>
 </tr>
 <tr>
@@ -28,18 +41,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Level Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Huizhu Jas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dania Amelina Binte Jumari</p>
-<p>Ms Nur Haziqah Binte Anwar</p>
-<p>Ms Patricia Tay Ai Tin</p>
-<p>Ms Tamima Hana</p>
-<p>Ms Tan Yuan Ching, Rachel</p>
-<p>Ms Lim Rui Shyuan, Ruth</p>
-<p>Ms Nur Qistina Izzati Binte Jumadi</p>
-<p>Ms Nur Syahidah Binte Mohamed Kairudin</p>
+<p>Ms Dania Amelina Binte Jumari
+<br>Ms Nur Haziqah Binte Anwar
+<br>Ms Patricia Tay Ai Tin
+<br>Ms Tamima Hana
+<br>Ms Tan Yuan Ching, Rachel
+<br>Ms Lim Rui Shyuan, Ruth
+<br>Ms Nur Qistina Izzati Binte Jumadi
+<br>Ms Nur Syahidah Binte Mohamed Kairudin</p>
 </td>
 </tr>
 <tr>
@@ -48,15 +70,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadirah Binte Maszelan</p>
-<p>Mdm Yasmin Binte Mohamed Yusoff</p>
-<p>Ms Justine Ong Kai Yee</p>
-<p>Ms Yang Huiqin</p>
-<p>Ms Wang Haiyan</p>
-<p>Mdm Liow Geok Mui, Teresa</p>
-<p>Mdm Zhao Xi</p>
-<p>Mdm Wang Cong</p>
-<p>&nbsp;</p>
+<p>Ms Nadirah Binte Maszelan
+<br>Mdm Yasmin Binte Mohamed Yusoff
+<br>Ms Justine Ong Kai Yee
+<br>Ms Yang Huiqin
+<br>Ms Wang Haiyan
+<br>Mdm Liow Geok Mui, Teresa
+<br>Mdm Zhao Xi
+<br>Mdm Wang Cong
+<br>Mdm Liu Cuixian</p>
+<p></p>
 </td>
 </tr>
 </tbody>

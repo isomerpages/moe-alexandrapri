@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Center Head's Message.md
+      - Register for MK.md
       - Information/.keep
       - Information/Our People.md
       - Information/Learning Environment.md
       - Information/Contact Us.md
-      - Information/Register for MK.md
