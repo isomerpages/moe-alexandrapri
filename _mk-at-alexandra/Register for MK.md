@@ -14,7 +14,7 @@ visit<a href="https://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" targ
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/2025_Open_House_Poster_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/2025_Open_House_Poster_.png">
 </div>
 <p><strong><u>Online Registration Exercise</u></strong>
 </p>
@@ -36,4 +36,8 @@ will be placed on the waitlist.
 <br>
 <br>The MK will inform you if there is a vacancy for your child. Should you
 have further queries, please <a href="https://www.alexandrapri.moe.edu.sg/mk-at-Alexandra/Information/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Pic_for_Registration.png">
+</div>
 <p></p>
