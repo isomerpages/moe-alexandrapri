@@ -38,6 +38,6 @@ will be placed on the waitlist.
 have further queries, please <a href="https://www.alexandrapri.moe.edu.sg/mk-at-Alexandra/Information/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Pic_for_Registration.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/Pic_for_Registration.png">
 </div>
 <p></p>
