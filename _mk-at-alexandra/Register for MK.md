@@ -11,10 +11,10 @@ tour our expansive MK premises and see the MK difference for yourself.</p>
 <p>Please click <a href="https://go.gov.sg/mkoh2025" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 sign up for the Open House. To learn more about MOE Kindergarten, please
 visit<a href="https://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>.</p>
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/2025_Open_House_Poster_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/2025_Open_House_Poster_.png">
 </div>
 <p><strong><u>Online Registration Exercise</u></strong>
 </p>
