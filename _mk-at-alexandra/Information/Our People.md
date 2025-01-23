@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Information
 variant: tiptap
 ---
-<h1><strong>Our People</strong></h1>
+<h3><strong>Our People</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
