@@ -2,6 +2,7 @@ collections:
   mk-at-alexandra:
     output: true
     order:
+      - Register for MK.md
       - Center Head's Message.md
       - Information/.keep
       - Information/Our People.md
