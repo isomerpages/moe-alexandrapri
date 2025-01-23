@@ -78,7 +78,7 @@ variant: tiptap
 <p>Mdm Liow Geok Mui, Teresa</p>
 <p>Mdm Zhao Xi</p>
 <p>Mdm Wang Cong</p>
-<p>&nbsp;Mdm Liu Cuixian</p>
+<p>Mdm Liu Cuixian</p>
 </td>
 </tr>
 </tbody>
