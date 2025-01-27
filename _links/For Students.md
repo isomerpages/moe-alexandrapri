@@ -63,6 +63,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6792fd4722b4893677acf7eb" rel="noopener nofollow" target="_blank">Request for the reset of Password and Unlocking of Account for MIMS, SLS, iCON email</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
