@@ -22,7 +22,7 @@ collaborative play, or just explore the timbres of the instruments available
 there.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Music/Picture1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/Music/Picture1.png">
 </div>
 <p><strong>Music Activities during International Friendship Week.</strong>
 </p>
@@ -32,7 +32,7 @@ They can learn more about the musical traditions, as well as have a hands-on
 session on the instruments.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Music/Picture2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/Music/Picture2.png">
 </div>
 <p><strong>Key Music Programmes:</strong>
 </p>
