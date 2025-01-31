@@ -123,12 +123,12 @@ variant: tiptap
 <br>(Closed on Saturday, Sunday, Eve of/&amp;Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for January 2025 </strong>
+<p><strong>ALPS Dental Clinic Schedule for February 2025 </strong>
 <br>
 <br>Opening Date:
-<br>02/01/2025, 06-10/01/2025, 20-24/01/2025</p>
+<br>03-06/02/2025, 07/02/2025 (a.m. only), 17-21/02/2025</p>
 <p>Closure Date:
-<br>03/01/2025, 13-17/01/2025, 27-31/01/2025</p>
+<br>10-14/02/2025, 24-28/02/2025</p>
 <p></p>
 <p></p>
 </td>
