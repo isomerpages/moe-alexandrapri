@@ -1,6 +1,6 @@
 ---
-title: Curriculum Learning Environment
-permalink: /mk-at-alexandra/information/curriculum-learning-environment/
+title: Curriculum and Learning Environment
+permalink: /mk-at-alexandra/information/curriculum-and-learning-environment/
 description: ""
 third_nav_title: Information
 variant: tiptap
