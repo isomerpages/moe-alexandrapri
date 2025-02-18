@@ -66,7 +66,7 @@ protect themselves as well as those around them. This will be followed
 up with discussions with their Form teachers during FTGP time.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture1.png">
 </div>
 <p><strong><u>Cyber Wellness Week @ ALPS</u></strong>
 </p>
