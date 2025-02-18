@@ -28,7 +28,7 @@ online via a link in the outcome e-mail by the specified deadline.</p>
 <p><strong><u><br>Applying after the Online Registration Exercise<br></u></strong>If
 you have missed the online registration exercise for <strong>2026 K1 admissions</strong> or
 are interested in registering your child for <strong>2025 K1 or K2 admissions</strong>,
-please indicate your interest on our <strong><a href="https://form.gov.sg/65bb9226661be4d8c1d9425d" rel="noopener noreferrer nofollow" target="_blank">waitlist</a></strong>.</p>
+please indicate your interest on our <strong><a href="https://form.gov.sg/67b2f29cccd95a62c155be3c" rel="noopener noreferrer nofollow" target="_blank">waitlist</a></strong>.</p>
 <p>Places will be first allocated to applications received during the online
 registration exercise. Applications submitted after the registration period
 are subject to available vacancies. If there are no vacancies, your application
