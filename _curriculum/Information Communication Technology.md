@@ -66,7 +66,7 @@ protect themselves as well as those around them. This will be followed
 up with discussions with their Form teachers during FTGP time.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture1.png">
 </div>
 <p><strong><u>Cyber Wellness Week @ ALPS</u></strong>
 </p>
@@ -78,7 +78,7 @@ CCE lessons, commemoration of Safer Internet Day and Total Defence Day
 to nurture positive digital habits of our students as they navigate cyberspace.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/ICT/Picture2.jpg">
 </div>
 <p><strong>Resources</strong>
 </p>
