@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h3><strong>(I) Sexuality Education Programme</strong></h3>
+<h4><strong>(I) Sexuality Education Programme</strong></h4>
 <p>&nbsp;<strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
