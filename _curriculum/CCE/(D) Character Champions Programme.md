@@ -3,37 +3,38 @@ title: (D) Character Champions Programme
 permalink: /curriculum/character-n-citizenship-education/d-character-champions-programme/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-# **(D) Character Champions Programme**
-
-On a termly basis, students who have been exemplary in displaying the HER3OIC values are awarded as Character Champions. They receive a badge and a certificate to recognise their achievement.
-
-![](/images/Picture4.png)
-
-<center>Badges given to Character Champions</center>
-
-### 2019 Character Champions
-
-<img src="/images/Picture5.png" 
-     style="width:50%">
-<center>Respect Champions</center>
-	
-<img src="/images/Picture13.png" 
-     style="width:50%">
-<center>Empathy Champions</center>
-
-<img src="/images/Picture7.png" 
-     style="width:50%">
-<center>Optimism Champions</center>
-
-<img src="/images/Picture8.png" 
-     style="width:50%">
-<center>Responsibility Champions</center>
-
-<img src="/images/Picture9.png" 
-     style="width:50%">
-<center>Harmony Champions</center>
-
-<img src="/images/Picture%2010.png" 
-     style="width:50%">
-<center>Resilience Champions</center>
+<h4><strong>(D) Character Champions Programme</strong></h4>
+<p>On a termly basis, students who have been exemplary in displaying the
+HER3OIC values are awarded as Character Champions. They receive a badge
+and a certificate to recognise their achievement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+</div>
+<p>Badges given to Character Champions</p>
+<h4>2019 Character Champions</h4>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Picture5.png">
+</div>
+<p>Respect Champions</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Picture13.png">
+</div>
+<p>Empathy Champions</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Picture7.png">
+</div>
+<p>Optimism&nbsp;Champions</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Picture8.png">
+</div>
+<p>Responsibility Champions</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Picture9.png">
+</div>
+<p>Harmony Champions</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Picture%2010.png">
+</div>
+<p>Resilience Champions</p>
