@@ -4,7 +4,7 @@ permalink: /curriculum/art/
 description: ""
 variant: tiptap
 ---
-<h4>Programmes / Activities for Art</h4>
+<h4><strong>Programmes / Activities for Art</strong></h4>
 <p>Art Programmes @ ALPS feature school-wide art programmes held beyond classrooms.</p>
 <ul data-tight="true" class="tight">
 <li>
