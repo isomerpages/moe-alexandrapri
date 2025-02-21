@@ -4,7 +4,7 @@ permalink: /curriculum/music/
 description: ""
 variant: tiptap
 ---
-<h4>Programmes / Activities for Music Programme @ ALPS</h4>
+<h4><strong>Programmes / Activities for Music Programme @ ALPS</strong></h4>
 <p></p>
 <p><strong>Recess Busking</strong>
 </p>
