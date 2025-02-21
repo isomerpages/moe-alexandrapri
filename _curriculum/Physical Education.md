@@ -36,7 +36,7 @@ sports.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/PE/Picture2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/PE/Picture2.png">
 </div>
 <p><strong>P5 Resilience Camp</strong>
 </p>
