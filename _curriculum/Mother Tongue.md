@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue/
 description: ""
 variant: tiptap
 ---
-<h4>Overview of Mother Tongue Curriculum&nbsp;</h4>
+<h4><strong>Overview of Mother Tongue Curriculum</strong>&nbsp;</h4>
 <ul>
 <li>
 <p>Objective&nbsp;&nbsp;
