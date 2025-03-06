@@ -127,10 +127,10 @@ variant: tiptap
 <br>
 <br>Opening Date:
 <br>03-07/03/2025</p>
-<p>Closure Date:</p>
-<p>10-14/03/2025, 17-21/03/2025,
-<br>24-28/03/2025<em> </em>
-</p>
+<p></p>
+<p>Closure Date:
+<br>10-14/03/2025, 17-21/03/2025,
+<br>24-28/03/2025</p>
 </td>
 </tr>
 <tr>
