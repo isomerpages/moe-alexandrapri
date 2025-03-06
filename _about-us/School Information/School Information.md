@@ -126,7 +126,7 @@ variant: tiptap
 <p><strong>ALPS Dental Clinic Schedule for March 2025 </strong>
 <br>
 <br>Opening Date:
-<br>03/03/2025 - 07/03/2025</p>
+<br>03-07/03/2025</p>
 <p>Closure Date:
 <br>10-14/03/2025, 17-21/03/2025 24-28/03/2025</p>
 <p></p>
