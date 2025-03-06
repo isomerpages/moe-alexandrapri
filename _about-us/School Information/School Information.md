@@ -123,14 +123,14 @@ variant: tiptap
 <br>(Closed on Saturday, Sunday, Eve of/&amp;Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for February 2025 </strong>
+<p><strong>ALPS Dental Clinic Schedule for March 2025 </strong>
 <br>
 <br>Opening Date:
-<br>03-06/02/2025, 07/02/2025 (a.m. only), 17-21/02/2025</p>
+<br>03-07/03/2025</p>
+<p></p>
 <p>Closure Date:
-<br>10-14/02/2025, 24-28/02/2025</p>
-<p></p>
-<p></p>
+<br>10-14/03/2025, 17-21/03/2025,
+<br>24-28/03/2025</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <br>Call Centre Contact: 9183 6037
 <br>Email: alxscc@nascans.com
 <br>Call Centre Operating Hours
-<br>School Term: Monday to Friday 10 a.m. to 7 p. m.
+<br>School Term: Monday to Friday 10 a.m. to 7 p.m.
 <br>School Holiday: Monday to Friday 7.30 a.m. to 7 p.m.</p>
 </td>
 </tr>
