@@ -154,8 +154,8 @@ variant: tiptap
 <br>Call Centre Contact: 9183 6037
 <br>Email: alxscc@nascans.com
 <br>Call Centre Operating Hours
-<br>School Term: Monday to Friday 10 a.m. to 7 p. m.
-<br>School Holiday: Monday to Friday 7.30 a.m. to 7 p.m.</p>
+<br>School Term: Monday to Friday 10 a.m. to 7p.m.
+<br>School Holiday: Monday to Friday 7.30a.m. to 7p.m.</p>
 </td>
 </tr>
 <tr>
