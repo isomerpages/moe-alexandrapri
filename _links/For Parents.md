@@ -4,7 +4,7 @@ permalink: /links/for-parents/
 description: ""
 variant: tiptap
 ---
-<h1><strong>For Parents</strong></h1>
+<h3><strong>For Parents</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -78,14 +78,7 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Calendar of Event</p>
-<div class="iframe-wrapper">
-<iframe style="border:solid 1px #777" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=cHJpbWFyeXNjaG9vbGFsZXhhbmRyYUBnbWFpbC5jb20&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043"></iframe>
-</div>
-<p><a href="/files/2025_ALPS_Term_2_CoE__For_Parents__21Feb25.pdf" rel="noopener nofollow" target="_blank">2025 ALPS Term2 CoE For Parents_21Feb25</a>
-</p>
-<p><a href="/files/Abbreviation___Glossary_for_CoE.pdf" rel="noopener nofollow" target="_blank">Abbreviation Glossary for CoE</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
