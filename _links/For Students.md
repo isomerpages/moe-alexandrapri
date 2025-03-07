@@ -4,7 +4,7 @@ permalink: /links/for-students/
 description: ""
 variant: tiptap
 ---
-<h1><strong>For Students</strong></h1>
+<h3><strong>For Students</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
