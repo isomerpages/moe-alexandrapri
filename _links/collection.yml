@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Calendar of Event.md
       - For Teachers.md
       - For Parents.md
       - For Students.md
