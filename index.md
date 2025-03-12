@@ -12,5 +12,5 @@ sections:
       key_highlights:
         - title: Calendar of Event
           description: Read more
-          url: https://alexandrapri.moe.edu.sg/calendar-of-event/
+          url: /links/calendar-of-event/
 ---
