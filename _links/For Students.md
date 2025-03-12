@@ -29,7 +29,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/google%20takeout%20guide%20for%20student%20icon.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Takeout Guide for Student iCon</a>
+<p><a href="/files/Posters_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Self-Service Password Reset Guide</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/google%20takeout%20guide%20for%20student%20icon.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Takeout Guide for Student iCON</a>
 </p>
 </td>
 </tr>
