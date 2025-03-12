@@ -4,7 +4,7 @@ permalink: /links/for-parents/
 description: ""
 variant: tiptap
 ---
-<h1><strong>For Parents</strong></h1>
+<h3><strong>For Parents</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -74,6 +74,11 @@ and relevant to parents with school-going children. Click to find out more.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolibrary.moe.edu.sg/alexandrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library OPAC</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
