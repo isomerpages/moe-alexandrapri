@@ -9,5 +9,5 @@ description: ""
 </div>
 <p><a href="/files/2025_ALPS_Term_2_CoE__For_Parents__21Feb25.pdf" rel="noopener nofollow" target="_blank">2025 ALPS Term 2 CoE For Parents_21Feb25</a>
 </p>
-<p><a href="/files/Abbreviation___Glossary_for_CoE.pdf" rel="noopener nofollow" target="_blank">Abbreviation Glossary for CoEfile</a>
+<p><a href="/files/Abbreviation___Glossary_for_CoE.pdf" rel="noopener nofollow" target="_blank">Abbreviation Glossary for CoE</a>
 </p>
