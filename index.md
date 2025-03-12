@@ -9,4 +9,8 @@ sections:
   - hero:
       url: /contact-us/
       background: /images/Banner Photos/school banner 10th yr final.jpg
+      key_highlights:
+        - title: Calendar of Event
+          description: Read more
+          url: ""
 ---
