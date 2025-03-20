@@ -118,6 +118,45 @@ unity.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/8.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/8.jpg">
+</div>
+<p><strong>Learning Journey to Hong Wen School for Chinese Culture Appreciation</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/9.jpg">
+</div>
+<p><strong>Commemoration of Racial Harmony Day</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/10.jpg">
+</div>
+<p><strong>Mother Tongue Languages and Cultural Appreciation Activities @ ALPS</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/11.jpg">
+</div>
+<p><strong>Olimpik Desa</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/12.jpg">
+</div>
+<p><strong>Tamil Speech and Drama Programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/13.jpg">
+</div>
+<p><strong>Conversational Chinese and Malay Programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/14_Conversational_Chinese_and_Malay_Programme.jpg">
+</div>
+<p><strong>Hosting of China Suzhou School Teachers and Students</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/15.jpg">
 </div>
 <p></p>
