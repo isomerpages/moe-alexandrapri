@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Mother Tongue Languages Curriculum&nbsp;</strong>&nbsp;</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/Picture1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/Picture1.jpg">
 </div>
 <p><strong>The Primary MTL Curriculum Framework</strong>
 </p>
