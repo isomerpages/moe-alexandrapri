@@ -73,3 +73,7 @@ society in Singapore.</p>
 <p><strong>Lunar New Year Celebration</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/1.jpg">
+</div>
+<p></p>
