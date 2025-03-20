@@ -72,8 +72,52 @@ and tradition and better appreciate the multi-racial and multi-cultural
 society in Singapore.</p>
 <p><strong>Lunar New Year Celebration</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/1.jpg">
+</div>
+<p><strong>Hari Raya Puasa Celebration</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/3.jpg">
+</div>
+<p><strong>Mid-Autumn Festival Celebration</strong>
+</p>
+<p>On 12 September 2024, students from MOE Kindergarten (MK) and Primary
+1 to 4 levels, together with their family members, gathered in Alexandra
+Primary School to celebrate the Mid-Autumn Festival. The main objective
+of this major event is to provide opportunities for students to understand
+the origins and customs of the Mid-Autumn Festival and recognise its cultural
+significance to the Chinese community.</p>
+<p>The department also wishes to promote the importance of parent-child relationship
+and enable students from different ethnic backgrounds to understand the
+core values of the Mid-Autumn Festival that revolve around harmony and
+unity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/4.jpg">
+</div>
+<p><strong>Deepavali Celebration</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/5.jpg">
+</div>
+<p><strong><u>Language and Cultural Learning</u></strong>
+</p>
+<p><strong>Mother Tongue Languages Fortnight Assembly Programmes for CL, ML &amp; TL</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/6.jpg">
+</div>
+<p><strong>Mother-Tongue Fortnight Learning Journeys &amp; Theatre Experiences</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/7.jpg">
+</div>
+<p><strong>Learning Journey to Kampong Glam, Kampong Buangkok and Geylang Serai</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/8.jpg">
 </div>
 <p></p>
