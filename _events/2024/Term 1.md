@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
-<h2>Term 1</h2>
+<h4>Term 1</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Term 1/Slide1.jpg">
