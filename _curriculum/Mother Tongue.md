@@ -4,92 +4,159 @@ permalink: /curriculum/mother-tongue/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Overview of Mother Tongue Curriculum</strong>&nbsp;</h4>
-<ul>
+<h4><strong>Mother Tongue Languages Curriculum&nbsp;</strong>&nbsp;</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/Picture1.jpg">
+</div>
+<p><strong>The Primary MTL Curriculum Framework</strong>
+</p>
+<p>In Alexandra Primary School, the Mother Tongue Languages (MTL) Department
+aims to nurture self-directed and lifelong learners who experience the
+joy of learning and become confident users of their respective Mother Tongue
+Languages. Grounded in the 2024 Primary MTL Curriculum Framework, our approach
+is designed to support students in developing language competence, cultural
+appreciation and values, and 21st-century competencies (21CC).</p>
+<p>To achieve this, beyond the MOE MTL syllabus and Character and Citizenship
+Education curriculum, the MTL Department develops engaging and differentiated
+programmes that ignite joy in learning and help students attain proficiency
+in the four key language skills: Listening, Speaking, Reading, and Writing.
+Our curriculum is guided by the <strong>S.T.R.I.V.E.</strong> principles
+to ensure that learning is meaningful, progressive, and relevant to students'
+needs.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Objective&nbsp;&nbsp;
-<br>The Mother-Tongue Language Department aims to nurture self-directed and
-life-long learners who can&nbsp;communicate effectively in their respective
-Mother-Tongue Languages, in written and spoken forms,&nbsp;and carry on
-the good practices of their culture and customs. &nbsp; To achieve this,
-besides the MOE MTL&nbsp;syllabus and Character and Citizenship Education
-curriculum, the MT Language Department&nbsp;develops fun, exciting and
-engaging programmes to prepare students in attaining proficiency in the
-4&nbsp;language skills, namely Listening, Speaking, Reading and Writing,
-and achieving a deeper&nbsp;appreciation of our diverse cultures. The MTL
-teachers seek to create a caring, safe and stimulating&nbsp;learning environment
-for students to think critically, communicate confidently and make connection
-of&nbsp;the cultures associated with MT Languages.</p>
+<p><strong>Strengthening development of skills and 21CC</strong>: Students
+are provided with opportunities to apply their language skills in authentic
+contexts, enhancing their ability to communicate effectively while developing
+global and cross-cultural literacy.</p>
 </li>
 <li>
-<p>Programmes</p>
+<p><strong>Tailoring content</strong>: Recognizing that students have different
+starting points, we adopt differentiated instructional strategies to meet
+diverse learning needs and build confidence in language use.</p>
+</li>
+<li>
+<p><strong>Reinforcing learning</strong>: Language structures and vocabulary
+are systematically revisited through various platforms and activities,
+ensuring sustained mastery and application beyond the classroom.</p>
+</li>
+<li>
+<p><strong>Igniting joy in learning</strong>: Through interactive lessons,
+technology-enhanced experiences, and cultural immersion activities, students
+develop intrinsic motivation to explore and use their MTL.</p>
+</li>
+<li>
+<p><strong>Valuing students’ voice</strong>: Pedagogical approaches encourage
+active participation, allowing students to express themselves meaningfully
+and creatively in their Mother-Tongue Languages.</p>
+</li>
+<li>
+<p><strong>Empowering students</strong>: Formative assessments provide timely
+feedback, fostering student ownership of their learning journey and deepening
+their appreciation of their language and heritage.</p>
 </li>
 </ul>
-<p>(i)&nbsp; &nbsp; Conversational Chinese and Malay Programme</p>
-<p>The Conversational Chinese and Malay Programme was introduced to the Primary
-3 students in&nbsp;2016. The purpose of this programme is to provide students
-with exposure to the Conversational MT&nbsp;languages. Learning another
-MT language for conversational purposes will help to nurture interaction&nbsp;among
-the&nbsp;ethnic communities and friendships between students, across races
-and religions.</p>
-<p>(ii)&nbsp;&nbsp; &nbsp;&nbsp;Mother-Tongue Games Day</p>
-<p>The MTL Department provides authentic opportunities for students to use
-their MT languages.&nbsp;</p>
-<p>The MTL teachers aim to arouse the students’ interest in learning their
-MT languages by&nbsp;planning fun and meaningful activities to help them
-reinforce the learning of their MT&nbsp;language beyond the&nbsp;classrooms.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/MTL1.jpg">
-</div>
-<p>(iii)&nbsp; &nbsp; &nbsp;&nbsp;Mother-Tongue Fortnight Programme</p>
-<p>The MTL Department aims to ignite passion in the students to learn and
-appreciate their respective&nbsp;MT languages and culture by providing
-opportunities for them to be exposed to traditional art&nbsp;forms.</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MTL2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MTL3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/MTL4.jpg">
-</div>
-<p>(iv)&nbsp; &nbsp;&nbsp;&nbsp; Culture Appreciation&nbsp;Programme</p>
-<p>The CL Department strives to enhance the lower primary students' interest
-in Chinese Language and Culture through attendance at cultural performance
-at public performing arts venues.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</p>
-<p>For the Primary 3 students, the MTL Department accepts invitation from
-Hong Wen School to participate in the school’s Chinese Cultural Appreciation
-Programme. This programme allows the students to be exposed to the various
-Chinese art forms such as Chinese Painting, Chinese Calligraphy, Chinese
-Paper-cutting and Chinese Knots.&nbsp;</p>
-<p>The post-programme activity conducted in class allows the students to
-be reflective and better appreciate the MT languages and culture.</p>
-<p>(v) &nbsp; &nbsp; &nbsp; Culture Festival Celebrations</p>
+<p>Our MTL teachers are committed to creating a caring, safe, and stimulating
+learning environment, where students think critically, communicate confidently,
+and connect with their cultural roots. Through this holistic approach,
+we aspire to cultivate proficient, culturally rooted, and future-ready
+MTL learners.</p>
+<p><strong><u>Appreciating our Roots and Celebrating Diversity Celebration of Traditional Festivals</u></strong>
+</p>
 <p>To help students value Singapore’s socio-cultural diversity, and promote
 social cohesion and harmony, the MTL Department organises interesting and
-meaningful activities to celebrate Chinese New Year, Hari Raya Puasa, Mid-Autumn
-Festival and Deepavali. These activities allow students to have a better
-understanding of the other ethnic races’ culture and tradition and better
-appreciate the multi-racial and multi-cultural society in Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL5.jpg">
-</div>
-<p><em>Chinese New Year Celebration - Prosperity Toss (Yu Sheng)</em>
+meaningful activities to celebrate Chinese New Year, Hari Raya Puasa, Racial
+Harmony Day, Mid-Autumn Festival and Deepavali. These activities allow
+students to have a better understanding of the other ethnic races’ culture
+and tradition and better appreciate the multi-racial and multi-cultural
+society in Singapore.</p>
+<p><strong>Lunar New Year Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/1.jpg">
 </div>
-<p><em>Chinese New Year Celebration - Student's Performance</em>
+<p><strong>Hari Raya Puasa Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL7.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/3.jpg">
 </div>
-<p><em>Deepavali Celebration</em>
+<p><strong>Mid-Autumn Festival Celebration</strong>
+</p>
+<p>On 12 September 2024, students from MOE Kindergarten (MK) and Primary
+1 to 4 levels, together with their family members, gathered in Alexandra
+Primary School to celebrate the Mid-Autumn Festival. The main objective
+of this major event is to provide opportunities for students to understand
+the origins and customs of the Mid-Autumn Festival and recognise its cultural
+significance to the Chinese community.</p>
+<p>The department also wishes to promote the importance of parent-child relationship
+and enable students from different ethnic backgrounds to understand the
+core values of the Mid-Autumn Festival that revolve around harmony and
+unity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/4.jpg">
+</div>
+<p><strong>Deepavali Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL8.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/5.jpg">
 </div>
-<p><em>Hari Raya Celebration</em>
+<p><strong><u>Language and Cultural Learning</u></strong>
 </p>
+<p><strong>Mother Tongue Languages Fortnight Assembly Programmes for CL, ML &amp; TL</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/6.jpg">
+</div>
+<p><strong>Mother-Tongue Fortnight Learning Journeys &amp; Theatre Experiences</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/7.jpg">
+</div>
+<p><strong>Learning Journey to Kampong Glam, Kampong Buangkok and Geylang Serai</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/8.jpg">
+</div>
+<p><strong>Learning Journey to Hong Wen School for Chinese Culture Appreciation</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/9.jpg">
+</div>
+<p><strong>Commemoration of Racial Harmony Day</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/10.jpg">
+</div>
+<p><strong>Mother Tongue Languages and Cultural Appreciation Activities @ ALPS</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/11.jpg">
+</div>
+<p><strong>Olimpik Desa</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/12.jpg">
+</div>
+<p><strong>Tamil Speech and Drama Programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/13.jpg">
+</div>
+<p><strong>Conversational Chinese and Malay Programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/14_Conversational_Chinese_and_Malay_Programme.jpg">
+</div>
+<p><strong>Hosting of China Suzhou School Teachers and Students</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/15.jpg">
+</div>
+<p></p>
