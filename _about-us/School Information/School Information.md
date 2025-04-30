@@ -126,8 +126,10 @@ variant: tiptap
 <p><strong>ALPS Dental Clinic Schedule for May 2025 </strong>
 <br>
 <br>Opening Date:
-<br>14-16/05/2025, 27-29/05/2025, 30/05/2025 (8.00-12.00pm only)</p>
-<p></p>
+<br>14-16/05/2025, 27-29/05/2025,</p>
+<p>30/05/2025(8.00-12.00pm only)
+<br>
+</p>
 <p>Closure Date:
 <br>01-08/05/2025, 13/05/2025,
 <br>19-23/05/2025, 26/05/2025</p>
