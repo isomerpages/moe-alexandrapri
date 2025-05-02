@@ -127,7 +127,7 @@ variant: tiptap
 <br>
 <br>Opening Date:
 <br>14-16/05/2025, 27-29/05/2025,
-<br>30/05/2025(am only)
+<br>30/05/2025(8.00-12.00pm only)
 <br>
 </p>
 <p>Closure Date:
