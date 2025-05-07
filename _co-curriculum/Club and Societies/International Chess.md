@@ -19,3 +19,15 @@ valuable both on and off the board.</p>
 sportsmanship, and decision-making. Join us in mastering this timeless
 game that combines art, science, and sport.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Chess/International_Chess_photo_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Chess/International_Chess_photo_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Chess/International_Chess_photo_3.jpg">
+</div>
+<p></p>
