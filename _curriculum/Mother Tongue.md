@@ -159,4 +159,8 @@ unity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Mother Tongue/15.jpg">
 </div>
-<p></p>
+<p>Recommended Reading List for Chinese Language</p>
+<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Apr_2025.pdf" rel="noopener nofollow" target="_blank">Physical Book Recommendation</a>
+</p>
+<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Apr_2025.pdf" rel="noopener nofollow" target="_blank">eBook Recommendation</a>
+</p>
