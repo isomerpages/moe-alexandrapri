@@ -11,9 +11,9 @@ description: ""
 </p>
 <p><strong><u>Please note the updates to Term 3 CoE:</u></strong>
 </p>
-<p>P3 : P3 SwimSafer 2.0 (3H) Session 6/8 has been re-scheduled to 15 September,
-Monday from 11.00am to 12.30pm</p>
-<p>P4 : The 'End Time' for P4 Science E2K sessions on every Thursday have
-been changed from 3.30pm to 4.00pm.</p>
+<p><em>P3 : P3 SwimSafer 2.0 (3H) Session 6/8 has been re-scheduled to 15 September, Monday from 11.00am to 12.30pm</em>
+</p>
+<p><em>P4 : The 'End Time' for P4 Science E2K sessions on every Thursday have been changed from 3.30pm to 4.00pm.</em>
+</p>
 <p><a href="/files/Abbreviation___Glossary_for_CoE.pdf" rel="noopener nofollow" target="_blank">Abbreviation Glossary for CoE</a>
 </p>
