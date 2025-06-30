@@ -120,7 +120,7 @@ variant: tiptap
 <br>Pacific Bookstores Pte Ltd
 <br>Tel:&nbsp; 9435 5952
 <br>Staff In Attendance : Ms Lee</p>
-<p>Monday to Friday: 9.00 am - 3.00 pm
+<p>Monday to Friday: 8.00 am - 3.00 pm
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
