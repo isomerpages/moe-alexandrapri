@@ -117,11 +117,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>School Bookshop</strong> 
 <br>
-<br>Pacific Bookstores Pte Ltd</p>
-<p>Tel:&nbsp; 9435 5952</p>
-<p>Staff In Attendance : Ms Lee</p>
-<p>Monday to Friday: 8.00 am - 3.00 pm</p>
-<p>(Closed on Saturday, Sunday, Eve of/&amp;Public Holidays)</p>
+<br>Pacific Bookstores Pte Ltd
+<br>Tel:&nbsp; 9435 5952
+<br>Staff In Attendance : Ms Lee</p>
+<p>Monday to Friday: 9.00 am - 3.00 pm
+<br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ALPS Dental Clinic Schedule for July 2025 </strong>
