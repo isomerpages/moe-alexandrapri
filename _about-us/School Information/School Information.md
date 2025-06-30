@@ -123,17 +123,16 @@ variant: tiptap
 <br>(Closed on Saturday, Sunday, Eve of/&amp;Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for June 2025 </strong>
+<p><strong>ALPS Dental Clinic Schedule for July 2025 </strong>
 <br>
 <br>Opening Date:
-<br>10/06/2025 (4.00-5.30pm only), 11/06/2025, 12/06/2025 (4.00-5.30pm only),23/06/2025(8.00-12.00pm
-only), 24/06/2025, 25/06/2025 (8.00-12.00pm only), 26/06/2025, 27/06/2025
-(8.00-11.30am only)
+<br>08-09/07/2025, 10/07/2025 (8.00 - 13.00pm only, 11/07/2025, 21-25/07/2025
 <br>
 </p>
 <p>Closure Date:
-<br>02-06/06/2025, 10 and 11/06/2025 (closed am)
-<br>16-20/06/2025</p>
+<br>01-04/07/2025, 07/07/2025, 14-18/07/2025, 28-31/07/2025
+<br>
+</p>
 </td>
 </tr>
 <tr>
