@@ -126,7 +126,7 @@ variant: tiptap
 <p><strong>ALPS Dental Clinic Schedule for July 2025 </strong>
 <br>
 <br>Opening Date:
-<br>08-09/07/2025, 10/07/2025 (8.00 - 13.00pm only, 11/07/2025, 21-25/07/2025
+<br>08-09/07/2025, 10/07/2025 (8.00 - 13.00pm only), 11/07/2025, 21-25/07/2025
 <br>
 </p>
 <p>Closure Date:
