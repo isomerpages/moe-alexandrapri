@@ -69,8 +69,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jocelyn Teo
-<br>Mdm He Chen Karen</p>
-<p>Miss Elizabeth Mary Monteiro</p>
+<br>Mdm He Chen Karen
+<br>Miss Elizabeth Mary Monteiro</p>
 </td>
 </tr>
 </tbody>
