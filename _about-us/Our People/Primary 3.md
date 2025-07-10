@@ -69,7 +69,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Karen Tay
-<br>Mdm Chong Shi Yan</p>
+<br>Miss Jazreel Yeo</p>
 </td>
 </tr>
 </tbody>
