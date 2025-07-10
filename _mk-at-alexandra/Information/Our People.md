@@ -54,9 +54,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dania Amelina Binte Jumari
-<br>Ms Nur Haziqah Binte Anwar
-<br>Ms Patricia Tay Ai Tin
+<p>Ms Nur Haziqah Binte Anwar
 <br>Ms Tamima Hana
 <br>Ms Tan Yuan Ching, Rachel
 <br>Ms Lim Rui Shyuan, Ruth
