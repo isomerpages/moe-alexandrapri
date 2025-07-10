@@ -80,7 +80,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suguna Manickam
-<br>Ms Mercado Avie Zharisse Teves</p>
+<br>Ms Avie Mercado</p>
 </td>
 </tr>
 <tr>
