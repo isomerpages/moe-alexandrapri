@@ -48,8 +48,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Choong Lee San
-<br>Mdm Lu Jingyan</p>
+<p>Ms Mun Lynn
+<br>Mdm Hu Yulan</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Pannirselvam
-<br>Miss Jazreel Ari Yeo</p>
+<br>Mdm Sharon Lim</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Panneer Selvam
+<p>Mdm Jocelyn Teo
+<br>Mdm He Chen Karen
 <br>Miss Elizabeth Mary Monteiro</p>
 </td>
 </tr>
