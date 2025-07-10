@@ -30,7 +30,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nabisa Beevi d/o Ali Hussein Shahul
-<br>Ms Kwok Hui Min</p>
+<br>Miss Wendy Sin</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suguna Manickam
-<br>Mdm Hu Yulan</p>
+<br>Ms Mercado Avie Zharisse Teves</p>
 </td>
 </tr>
 <tr>
