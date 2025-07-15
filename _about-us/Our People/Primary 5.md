@@ -67,9 +67,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Choong Lee San
-<br>Miss Dong Jingjing
-<br>Mrs Ng-Tan Jun Hui</p>
+<p>Mrs Aw Lee San
+<br>Miss Dong Jingjing</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Hakimah
+<p>Mdm Nur Hakimah
 <br>Mrs Hazel Foo</p>
 </td>
 </tr>
