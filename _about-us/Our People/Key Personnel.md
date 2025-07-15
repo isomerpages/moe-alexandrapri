@@ -49,15 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD (Mother Tongue Languages)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng-Tan Jun Hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>HOD (ICT)</strong>
 </p>
 </td>
@@ -139,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P5 &amp; P6)</strong>
+<p><strong>Year Head (P5 &amp; P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
