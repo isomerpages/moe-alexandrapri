@@ -28,10 +28,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ng Hui Hoon
-<br>Mdm Vanitha d/o K S Perumal
 <br>Ms Lee Mui Hoong
 <br>Ms Miki Soon
-<br>Mdm R Sithaletchmi</p>
+<br>Ms Diana Ho</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +40,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tey Siew Leng
-<br>Ms Tan Chay Ngee</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Melissa Sheo
-<br>Mdm Soh Siew Hoon</p>
+<br>Mdm Soh Siew Hoon
+<br>Ms Pauline Chua</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Deborah Quek</p>
+<p>Mdm Rossenah Binte Kamis</p>
 </td>
 </tr>
 <tr>
@@ -90,8 +91,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Krystle Kuah
 <br>Miss Surbhi
-<br>Mr Randal Lui
-<br>Ms Tan Shuhui</p>
+<br>Mr Randal Lui</p>
 </td>
 </tr>
 </tbody>
