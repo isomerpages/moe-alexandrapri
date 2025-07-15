@@ -72,8 +72,7 @@ variant: tiptap
 <p>6 CREATIVITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gayathri Navin
-<br>Mrs Shirlyn Ling
+<p>Mrs Shirlyn Ling
 <br>Mdm Su Wan Ju</p>
 </td>
 </tr>
