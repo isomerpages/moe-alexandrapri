@@ -124,14 +124,15 @@ variant: tiptap
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for July 2025 </strong>
+<p><strong>ALPS Dental Clinic Schedule for August 2025 </strong>
 <br>
 <br>Opening Date:
-<br>08-09/07/2025, 10/07/2025 (8.00 - 13.00pm only), 11/07/2025, 21-25/07/2025
+<br>05-07/08/2025, 08/08/2025 (8.00-12.00pm only), 18-20/08/2025, 21-22/08/2025
+(8.00-12.00pm only)
 <br>
 </p>
 <p>Closure Date:
-<br>01-04/07/2025, 07/07/2025, 14-18/07/2025, 28-31/07/2025
+<br>04/08/2025, 11-15/08/2025, 25-29/08/2025
 <br>
 </p>
 </td>
