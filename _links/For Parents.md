@@ -78,7 +78,7 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Insurance Claims</a>
+<p><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
 </p>
 </td>
 </tr>
