@@ -20,3 +20,8 @@ third_nav_title: "2025"
 <iframe height="704" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQiKQEfbbrOBwtDGB2UVybTfeB2POKfKJLhVnVAVJd2in7GnwK5c12p1YUlcHx8zrC95kaltxIcJHT/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
+<h4><strong>EL P2 Theatre Experience</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="704" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRNbPv3HbXGvhg_T1w9oYFVa8iYoKrnyzE8TCmWONxHS40rBRkLYbuXVCrsrCRXyxJr6eLxcJgTg4bx/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
