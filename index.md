@@ -12,5 +12,5 @@ sections:
       key_highlights:
         - title: Calendar of Events
           description: Read more
-          url: /links/calendar-of-event/
+          url: /links/calendar-of-events/
 ---
