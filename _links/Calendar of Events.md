@@ -1,6 +1,6 @@
 ---
-title: Calendar of Event
-permalink: /links/calendar-of-event/
+title: Calendar of Events
+permalink: /links/calendar-of-events/
 variant: tiptap
 description: ""
 ---

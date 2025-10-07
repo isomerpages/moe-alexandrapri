@@ -124,14 +124,14 @@ variant: tiptap
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for September 2025 </strong>
+<p><strong>ALPS Dental Clinic Schedule for October 2025 </strong>
 <br>
 <br>Opening Date:
-<br>01-04/09/2025, 15-19/09/2025, 29-30/09/2025
+<br>13-17/10/2025, 27-31/10/2025
 <br>
 </p>
 <p>Closure Date:
-<br>05-12/09/2025, 22-26/09/2025
+<br>03-10/10/2025, 20-24/10/2025
 <br>
 </p>
 </td>
