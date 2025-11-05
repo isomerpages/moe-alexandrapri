@@ -127,12 +127,12 @@ variant: tiptap
 <p><strong>ALPS Dental Clinic Schedule for October 2025 </strong>
 <br>
 <br>Opening Date:
-<br>13-14/10/2025, 16-17/10/2025
-<br>27-31/10/2025</p>
+<br>10-14/11/2025, 24&amp;27/11/2025(8.00-3.30pm only), 25-26/11/2025</p>
 <p></p>
 <p>Closure Date:
-<br>03-10/10/2025, 15/10/2025
-<br>20-24/10/2025</p>
+<br>03-07/11/2025, 17-21/11/2025
+<br>
+</p>
 </td>
 </tr>
 <tr>
