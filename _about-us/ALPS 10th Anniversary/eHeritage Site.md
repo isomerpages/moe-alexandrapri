@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: ALPS 10th Anniversary
 ---
-<h3>Alexandra Primary School's 10th Anniversary</h3>
+<h2><strong>Alexandra Primary School's 10th Anniversary</strong></h2>
 <p>Please check out our <a href="https://sites.google.com/moe.edu.sg/alps10-year-heritage/home" rel="noopener noreferrer nofollow" target="_blank">10 Year Anniversary eHeritage Website</a> to
 see our school's story. You'll find photos, stories, and important moments
 from the last decade.</p>
