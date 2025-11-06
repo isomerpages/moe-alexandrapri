@@ -46,3 +46,27 @@ Staircase connecting Level 1 to Level 4, the mural unfolds a tapestry of
 the school life. It weaves a story of diversity and unity, portraying the
 wide spectrum of experiences lived by ALPS students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/Picture1.jpg">
+</div>
+<p></p>
+<p>As this mural unfolds, it celebrates not only the school but also the
+nurturing environment where students from both ALPS and MOE Kindergarten
+@ Alexandra <strong>Grow and Glow </strong>in the warmth of learning, friendship,
+and discovery. The mural stands as a tribute to the past, seeks to illuminate
+the present, and heralds the future of ALPS, embodying a decade of excellence
+and a promise of more to come.</p>
+<h4>Planting for the Future</h4>
+<p>In celebrating the 10th anniversary, we also held a special tree planting
+ceremony. Our School Advisory Committee <strong>(SAC) chairman Mr Benny Lee</strong>,
+along with our partners from <strong>Edible Garden City, Lam Soon Singapore Pte Ltd, and My Saviour’s Church</strong>,
+graced the event by planting ten palm trees on our school grounds. This
+act symbolises our commitment to growth, sustainability, and the nurturing
+of future generations. The palm trees will stand as a living tribute to
+our school's enduring legacy and our dedication to creating a greener,
+more sustainable environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/Picture2.jpg">
+</div>
+<p></p>
