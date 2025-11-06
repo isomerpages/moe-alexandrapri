@@ -9,12 +9,12 @@ third_nav_title: ALPS 10th Anniversary
 <p>Please check out our <a href="https://sites.google.com/moe.edu.sg/alps10-year-heritage/home" rel="noopener noreferrer nofollow" target="_blank">10 Year Anniversary eHeritage Website</a> to
 see our school's story. You'll find photos, stories, and important moments
 from the last decade.</p>
-<p>Celebrating a Decade of Excellence</p>
-<p>2023 marks the 10th anniversary of our school, a milestone that invites
-us to reﬂect on a decade of growth, achievements, and cherished memories.
-Starting in 2014 with just one level of Primary 1 students, we have grown
-and glowed into a vibrant school community dedicated to nurturing young
-minds and fostering a love for learning.</p>
+<h4>Celebrating a Decade of Excellence</h4>
+<p><strong>2023 marks the 10th anniversary of our school, a milestone that invites us to reﬂect </strong>on
+a decade of growth, achievements, and cherished memories. Starting in 2014
+with just one level of Primary 1 students, we have grown and glowed into
+a vibrant school community dedicated to nurturing young minds and fostering
+a love for learning.</p>
 <h4>A Journey of Growth and Achievement</h4>
 <p>Over the past ten years, our school has made remarkable strides in academic
 excellence, core curricular activities, and community engagement. Our students
@@ -45,3 +45,4 @@ the heart and soul of ALPS.</p>
 Staircase connecting Level 1 to Level 4, the mural unfolds a tapestry of
 the school life. It weaves a story of diversity and unity, portraying the
 wide spectrum of experiences lived by ALPS students.</p>
+<p></p>
