@@ -46,10 +46,10 @@ Staircase connecting Level 1 to Level 4, the mural unfolds a tapestry of
 the school life. It weaves a story of diversity and unity, portraying the
 wide spectrum of experiences lived by ALPS students.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/Picture1.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/alps mural.jpg">
+</div>
 <p>As this mural unfolds, it celebrates not only the school but also the
 nurturing environment where students from both ALPS and MOE Kindergarten
 @ Alexandra <strong>Grow and Glow </strong>in the warmth of learning, friendship,
