@@ -103,3 +103,26 @@ launched to recognise school staff who have served ALPS for 10 years.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/Picture4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/10.png">
+</div>
+<h4>Looking Ahead</h4>
+<p>As we celebrate this milestone, we also look forward to the future with
+optimism and excitement. We are committed to continuing our tradition of
+excellence and innovation in education and prepare our students for the
+challenges of the 21st century.</p>
+<p>We extend our heartfelt gratitude to everyone who has been a part of our
+journey --our students, parents, teachers, staff, alumni, and community
+partners. Your unwavering support and dedication have shaped our school
+into the thriving community it is today. With the strong foundation built
+over the past ten years, we are poised to embark on the next decade with
+greater passion and purpose, reaching new heights together</p>
+<p>Here's to the next ten years of success, growth, and making a difference!</p>
+<p>&nbsp;</p>
+<p>Please check out our&nbsp;<a href="https://sites.google.com/moe.edu.sg/alps10-year-heritage/home" rel="noopener noreferrer nofollow" target="_blank">10 Year Anniversary eHeritage Website</a>&nbsp;to
+see our school’s story. You’ll find photos, stories, and important moments
+from the last decade.</p>
