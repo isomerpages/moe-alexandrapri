@@ -123,6 +123,4 @@ over the past ten years, we are poised to embark on the next decade with
 greater passion and purpose, reaching new heights together</p>
 <p>Here's to the next ten years of success, growth, and making a difference!</p>
 <p>&nbsp;</p>
-<p>Please check out our&nbsp;<a href="https://sites.google.com/moe.edu.sg/alps10-year-heritage/home" rel="noopener noreferrer nofollow" target="_blank">10 Year Anniversary eHeritage Website</a>&nbsp;to
-see our school’s story. You’ll find photos, stories, and important moments
-from the last decade.</p>
+<p></p>
