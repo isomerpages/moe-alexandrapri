@@ -67,6 +67,6 @@ our school's enduring legacy and our dedication to creating a greener,
 more sustainable environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10th Year Anniversary/Picture_2.jpg">
 </div>
 <p></p>
