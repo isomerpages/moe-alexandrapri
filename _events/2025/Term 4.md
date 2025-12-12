@@ -19,6 +19,6 @@ third_nav_title: "2025"
 </div>
 <h4><strong>P1 Learning Journey – Singapore Zoo</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs67IEgBVGri9Wsyuu7mOxAFNMuqJ4u10o73vFTTSSgDxuTS38ujvnoKfHXg3Mnn2koHrB3MHi0doD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs67IEgBVGri9Wsyuu7mOxAFNMuqJ4u10o73vFTTSSgDxuTS38ujvnoKfHXg3Mnn2koHrB3MHi0doD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
