@@ -22,4 +22,8 @@ third_nav_title: "2025"
 <div class="iframe-wrapper">
 <iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJ1ttnPIfF9BRaaL-xUP5a4hm6-jKk3PfOKzk8aS_e7z71F_wbRr4V9xoCXlj7t9qXb13xnR7FugMi/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<h4><strong>P4 Learning Journey to Kreta Ayer Heritage Gallery</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvFx7O_tLkrILcntMlkBH1yV_S18e_zCzSCObTrlnBvkFyoUycPBCKzf0za6fQAmcvWgAsyPEL81Ht/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p></p>
