@@ -54,12 +54,6 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/FAQs_on_Student_iCON___MIMS___Onboarding.pdf" rel="noopener nofollow" target="_blank">MOE Student iCON/MIMS</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Kit for Parents</a>
 </p>
 </td>
