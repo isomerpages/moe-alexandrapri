@@ -36,7 +36,8 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Annex_B___MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">Guide On How To Change Password and Set Security Questions</a>
+</p>
 </td>
 </tr>
 <tr>
