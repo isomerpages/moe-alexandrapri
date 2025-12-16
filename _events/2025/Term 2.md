@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<h4><strong>Overseas Immersion Programme – China and Brunei</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3mCT2u6z3pC_guz0YTE6PJJagjgLG1rfBBJ3hQ0b6wBh0tX-NrhUWvQ0CYod3PyWrUyb4Xb6HC8CD/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>ECG Seminar</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSv2iYjZPb_EU2CeQSDAeh3yF6J0EuTB_ud6Nu-4Ik6Vg9KFTROYfU4aKWe4TMIHEkMKrkwCjpZ0JOe/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
