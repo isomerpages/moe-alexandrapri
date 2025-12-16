@@ -5,11 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<h4><strong>Appreciation Day</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVJipKpKSZsTBFZ4gn5tC_Sfbu8qTZTfiMCZ9RG51gU6g8a_8lGt5O084TxVG6TndudM3hpwHn7WBb/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>ALPS Sports Meet</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQNRroLN0JzsbylGusqNTHhFvuPQ1bAZZ8dB17ErQZI7PZSGEJcGHZLb2AkUPYdJBB5yUahtPLI1SQ/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
 <h4><strong>ALPS Celebrates! International Friendship Day</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="704" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrXOxrj6OBcVSFtjmh431syF7qQMLGV9S6bkqlvKyj2Um7zc4csyDn0Wkxcs96EVN168wuAiIZi_ER/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
