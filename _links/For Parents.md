@@ -24,6 +24,24 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/8jsTdqvJOxc" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Video</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1_Onboarding.pdf" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Workflow</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Annex_B___MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">Guide On How To Change Password and Set Security Questions</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (PG)</a>
 </p>
 </td>
@@ -31,12 +49,6 @@ and relevant to parents with school-going children. Click to find out more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/moe.edu.sg/alps/home" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/FAQs_on_Student_iCON___MIMS___Onboarding.pdf" rel="noopener nofollow" target="_blank">MOE Student iCON/MIMS</a>
 </p>
 </td>
 </tr>
