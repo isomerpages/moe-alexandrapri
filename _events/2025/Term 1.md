@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<h4><strong>P5 ALPS Resilience Camp</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVE5pD170JcIqaVCgSBLYKeftVnYVMKzEPGYGxkEr6sb7_vJk6MpHOghCDyW9ZHsq-Uwj3x41FEJvT/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>CNY Celebration</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="570" width="790" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnmk3c8BaVMtnvV-jIJ3pxJ0lL2ePhZFpFWuAWZuzbzEZ1--Tnmq3JvsGFzt2oylFpaESUM1ZI4zfO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
