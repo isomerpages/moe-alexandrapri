@@ -28,8 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Yee Peng
-<br>Mr Foo Weng Hong</p>
+<p>Mr Adriel Chia
+<br>Ms Mercado Avie Zharisse Teves</p>
 </td>
 </tr>
 <tr>
@@ -38,8 +38,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Yao Tian
+<p>Mr Anthony Chua
 <br>Ms Jamie Wong</p>
+<p>Ms Tan Chay Ngee</p>
 </td>
 </tr>
 <tr>
