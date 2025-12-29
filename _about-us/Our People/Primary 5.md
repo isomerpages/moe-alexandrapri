@@ -27,8 +27,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ting Huat Seng
-<br>Mr Tan Sit Huat</p>
+<p>Mdm Joni Lim
+<br>Mdm Zheng Lidan</p>
 </td>
 </tr>
 <tr>
@@ -37,8 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kua Li En
-<br>Mdm Foo Siew Yee</p>
+<p>Mr Tang Keng Soon
+<br>Mdm Wong Sylvia</p>
 </td>
 </tr>
 <tr>
@@ -47,8 +47,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chai Gek Mui
-<br>Mdm Chong Shi Yan</p>
+<p>Mr Edward Chiam
+<br>Ms Mun Lynn</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +57,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alison Tay
-<br>Ms Angela Kwan</p>
+<p>Mrs Shirlyn Ling
+<br>Ms Jane Wee</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +67,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Aw Lee San
-<br>Miss Dong Jingjing</p>
+<p>Mdm Jocelyn Teo
+<br>Miss Kavitha d/o Annadhurai</p>
 </td>
 </tr>
 <tr>
@@ -77,8 +77,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hakimah
-<br>Mrs Hazel Foo</p>
+<p>Miss Joy Koh
+<br>Mr Geoffrey Tan</p>
 </td>
 </tr>
 </tbody>
