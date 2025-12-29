@@ -59,8 +59,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Poh Yeu Pei
-<br>Kwok Hui Min</p>
+<p>Ms Poh Yeu Pei
+<br>Ms Kwok Hui Min
+<br>Miss Ng Choi Mei</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +70,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Esther Seet
-<br>Lin Yushi</p>
+<p>Miss Esther Seet
+<br>Miss Lin Yushi</p>
 </td>
 </tr>
 <tr>
@@ -79,8 +80,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jazreel Ari Yeo
-<br>Hao Xiaoxing</p>
+<p>Miss Jazreel Ari Yeo
+<br>Mr Hao Xiaoxing
+<br>Ms Deborah Quek</p>
 </td>
 </tr>
 <tr>
@@ -89,8 +91,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Abitha Begum Binte Meerashahib
-<br>Rebecca Ng</p>
+<p>Mdm Abitha Begum Binte Meerashahib
+<br>Mrs Rebecca Ng</p>
 </td>
 </tr>
 </tbody>
