@@ -24,7 +24,7 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/8jsTdqvJOxc" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Video</a>
+<p><a href="https://youtu.be/8jsTdqvJOxc" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Video </a>
 </p>
 </td>
 </tr>
@@ -96,7 +96,20 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>P1 - Onboarding</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/8jsTdqvJOxc" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Video</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1_Onboarding.pdf" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Workflow</a>
+</p>
 </td>
 </tr>
 </tbody>
