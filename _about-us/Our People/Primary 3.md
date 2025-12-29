@@ -39,8 +39,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Anthony Chua
-<br>Ms Jamie Wong</p>
-<p>Ms Tan Chay Ngee</p>
+<br>Ms Jamie Wong
+<br>Ms Tan Chay Ngee</p>
 </td>
 </tr>
 <tr>
@@ -49,8 +49,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cheryl Chua Qihui
-<br>Ms Lee Mui Hoong</p>
+<p>Mdm Su Wan Ju
+<br>Mrs Yvonne Seah</p>
 </td>
 </tr>
 <tr>
@@ -59,8 +59,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Keshini Ramasamy
-<br>Mdm Chia Ai Tian</p>
+<p>Mdm Nazmunnisah d/o Abdul Nazmunnisah Nazir
+<br>Mr Jacob Yeo</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +69,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Tay
-<br>Miss Jazreel Yeo</p>
+<p>Mrs Pannirselvam nee C Mahalakshmi
+<br>Ms Diana Ho
+<br>Mdm Tey Siew Leng</p>
 </td>
 </tr>
 </tbody>
