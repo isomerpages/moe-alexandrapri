@@ -4,18 +4,13 @@ permalink: /about-us/vision-mission-values/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Vision, Mission, Values</strong></h1>
 <h3><strong>VISION</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vision Mission/Vision.png">
 </div>
-<p></p>
 <h3><strong>MISSION</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vision Mission/Mission.png">
-</div>
 <p></p>
 <h3><strong>OUR HER<sup>3</sup>OIC VALUES</strong></h3>
 <p></p>
