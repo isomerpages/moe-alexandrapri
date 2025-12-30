@@ -45,8 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Perry Liew
-<br>Mr Gabriel Tan</p>
+<p>Mr Perry Liew</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +84,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Anjali D/O S Krishna Murty</p>
+<p>Ms Daisy Choo</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +125,6 @@ variant: tiptap
 <br>Mr Chua Peng Khoon
 <br>Mr Chan Boon Wan
 <br>Mr Goh Boon Hin
-<br>Mr Loong Sue Loon
 <br>Mdm Lum Sook Kew</p>
 </td>
 </tr>
