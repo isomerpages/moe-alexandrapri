@@ -37,32 +37,26 @@ variant: tiptap
 <p>Prince Charles Crescent</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Arrival</u></strong>
-</p>
-<p>Drive in and drop-off from</p>
-<p>7.15 am to 7.30 am,</p>
-<p>(or after the last school bus has left, whichever is earlier)</p>
-<p>&nbsp;</p>
-<p><strong><u>Dismissal</u></strong>
-</p>
-<p>Drive in and pick-up from</p>
-<p>2.00 pm to 2.15 pm,</p>
-<p>(or after the last school bus has left, whichever is earlier)</p>
+<p><strong><u>Arrival</u></strong> 
+<br>Walk in from 7.15 am to 7.30 am (or after the last school bus has left,
+whichever is earlier)</p>
+<p></p>
+<p><strong><u>Dismissal</u></strong> 
+<br>Drive in and pick-up from 2.00pm to 2.15pm, (or after the last school
+bus ha left, whichever is earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Arrival</u></strong>
-</p>
-<p>Walk in from</p>
-<p>7.00 am to 7.30 am</p>
-<p>&nbsp;</p>
+<p><strong><u>Arrival</u></strong> 
+<br>Walk in from 7.00 am to 7.30 am</p>
+<p></p>
+<p></p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
-<p><strong><u>Dismissal</u></strong>
-</p>
-<p>1.30 pm – 1.45 pm</p>
-<p>*4.00 pm – 4.15 pm (CCA on Monday)</p>
+<p></p>
+<p><strong><u>Dismissal</u></strong> 
+<br>1.30 pm - 1.45 pm *4.00 pm – 4.15 pm (CCA on Monday)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,24 +77,20 @@ delivery/emergency services</p>
 <p>Prince Philip Avenue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Arrival</u></strong>
-</p>
-<p>Drive in and drop-off from</p>
-<p>7.00 am to 7.30 am</p>
+<p><strong><u>Arrival</u></strong> 
+<br>Drive in and drop-off from 7.00 am to 7.30</p>
+<p></p>
 <p>&nbsp;</p>
 <p>No drive in after 7.30 am</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Arrival</u></strong>
-</p>
-<p>Walk in from</p>
-<p>7.00 am to 7.30 am</p>
-<p>&nbsp;</p>
-<p><strong><u>Dismissal</u></strong>
-</p>
-<p>1.30 pm to 1.45 pm</p>
-<p>*4.00 pm – 4.15 pm (CCA on Monday)</p>
+<p><strong><u>Arrival</u></strong> 
+<br>Walk in from 7.00 am to 7.30</p>
+<p></p>
+<p></p>
+<p><strong><u>Dismissal</u></strong> 
+<br>1.30 pm - 1.45 pm *4.00 pm – 4.15 pm (CCA on Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No entry</p>
@@ -116,18 +106,28 @@ delivery/emergency services</p>
 <p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Arrival</u></strong>
-</p>
-<p>Walk in from</p>
-<p>7.00 am to 7.30 am</p>
-<p>&nbsp;</p>
-<p><strong><u>Dismissal</u></strong>
-</p>
-<p>1.30 pm to 1.45 pm</p>
-<p>*4.00 pm – 4.15 pm (CCA on Monday)</p>
+<p><strong><u>Arrival</u></strong> 
+<br>Walk in from 7.00 am to 7.30 am</p>
+<p></p>
+<p><strong><u>Dismissal</u></strong> 
+<br>1.30 pm to 1.45 pm *4.00 pm – 4.15 pm (CCA on Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No entry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
