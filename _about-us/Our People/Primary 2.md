@@ -28,8 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Joy Koh
-<br>Miss Lin Yushi</p>
+<p>Mdm Nabisa Beevi d/o Ali Hussein Shahul
+<br>Miss Wendy Sin</p>
 </td>
 </tr>
 <tr>
@@ -38,8 +38,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sean Lim
-<br>Ms Florence Teo</p>
+<p>Mrs Chang Li Ting
+<br>Mdm Lim Lee Choon</p>
 </td>
 </tr>
 <tr>
@@ -48,8 +48,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremiah Luke Francisco
-<br>Ms Poh Yeu Pei</p>
+<p>Ms Dewi Nurazlin Binte Aziz
+<br>Ms Miki Soon
+<br>Mdm Tan Ee Na</p>
 </td>
 </tr>
 <tr>
@@ -58,8 +59,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Choo Swee Chiang
-<br>Mdm Abitha Begum Binte Meerashahib</p>
+<p>Mdm Omar Bivee
+<br>Miss Dong Jingjing</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +69,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Deborah Quek
-<br>Mr Geoffrey Tan</p>
+<p>Mdm Marilyn Yee
+<br>Miss Peng Yuanzhen</p>
 </td>
 </tr>
 <tr>
@@ -78,9 +79,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raghumath Banu d/o Mohd Ali F
-<br>Mdm Sharon Goh
-<br>Ms Tan Chay Ngee</p>
+<p>Mdm Hu Yulan
+<br>Mdm Sharon Lim</p>
 </td>
 </tr>
 <tr>
@@ -89,8 +89,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Jingjing
-<br>Mrs Rebecca Ng</p>
+<p>Mrs Alyssa Raelynn Wee
+<br>Mdm Mumtaz Maideen
+<br>Mdm Soh Siew Hoon</p>
 <p></p>
 </td>
 </tr>

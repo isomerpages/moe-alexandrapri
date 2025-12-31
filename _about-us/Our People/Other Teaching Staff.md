@@ -23,25 +23,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng Hui Hoon
-<br>Ms Lee Mui Hoong
-<br>Ms Miki Soon
-<br>Ms Diana Ho</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Languages</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tey Siew Leng
-<br>
-</p>
+<p>Mr Tan Sit Huat</p>
 </td>
 </tr>
 <tr>
@@ -51,17 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Melissa Sheo
-<br>Mdm Soh Siew Hoon
-<br>Ms Pauline Chua</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Physical Education</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rossenah Binte Kamis</p>
+<br>Mr Brandon Ng</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +46,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kanksha Sanghvi Ketan</p>
+<p>Ms Junie Ang</p>
 </td>
 </tr>
 <tr>
@@ -79,8 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ching Yeu Pei
-<br>Mdm Nadiah Binte Mohd Nizam</p>
+<p>Ms Ching Yeu Pei</p>
 </td>
 </tr>
 <tr>

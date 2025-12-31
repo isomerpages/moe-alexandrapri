@@ -26,8 +26,8 @@ variant: tiptap
 <p>6 HARMONY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Keng Soon
-<br>Ms Priscilla Chiang</p>
+<p>Miss Chen Jingjing
+<br>Mr Ting Huat Seng</p>
 </td>
 </tr>
 <tr>
@@ -35,9 +35,8 @@ variant: tiptap
 <p>6 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Lidan
-<br>Miss Kavitha d/o Annadhurai
-<br>Miss Kanksha Sanghvi Ketan</p>
+<p>Miss Kua Li En
+<br>Mdm Foo Siew Yee</p>
 </td>
 </tr>
 <tr>
@@ -45,8 +44,8 @@ variant: tiptap
 <p>6 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Peng Yuanzhen
-<br>Mr Adriel Chia</p>
+<p>Mdm Chai Gek Mui
+<br>Ms Priscilla Chiang</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +53,8 @@ variant: tiptap
 <p>6 OPTIMISM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Amirah Bte Abu Hasan
-<br>Mr Melvin Chin</p>
+<p>Mrs Alison Tay
+<br>Ms Angela Kwan</p>
 </td>
 </tr>
 <tr>
@@ -63,8 +62,8 @@ variant: tiptap
 <p>6 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Chiam
-<br>Mrs Judy Lim</p>
+<p>Mdm Choong Lee San
+<br>Mr Sean Lim Zhong Sheng</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +71,8 @@ variant: tiptap
 <p>6 CREATIVITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shirlyn Ling
-<br>Mdm Su Wan Ju</p>
+<p>Mrs Hazel Foo
+<br>Miss Nur Hakima</p>
 </td>
 </tr>
 </tbody>

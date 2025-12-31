@@ -49,6 +49,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD (Mother Tongue)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jacob Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD (ICT)</strong>
 </p>
 </td>
@@ -62,7 +71,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Weng Hong</p>
+<p>Mr Foo Weng Hong
+<br>Mr Iskandar Bin Zainalludin</p>
 </td>
 </tr>
 <tr>

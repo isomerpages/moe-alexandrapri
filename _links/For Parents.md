@@ -24,18 +24,6 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/8jsTdqvJOxc" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Video</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P1_Onboarding.pdf" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Workflow</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Annex_B___MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">Guide On How To Change Password and Set Security Questions</a>
 </p>
 </td>
@@ -96,7 +84,44 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>P1 - Onboarding</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/8jsTdqvJOxc" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Video</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1_Onboarding.pdf" rel="noopener nofollow" target="_blank">MIMS/SLS Onboarding Workflow</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/playlist?list=PLQxzGTcC-xNWS-stWZi8xjMMLnInByBRa" rel="noopener nofollow" target="_blank">Basic Operations of Computing Devices</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/mesP2j7Tb1U" rel="noopener nofollow" target="_blank">SLS Login and Password</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/playlist?list=PLQxzGTcC-xNWxLBsEQpPHlTv9mfD-er3N" rel="noopener nofollow" target="_blank">Basic Operations of Applications</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SLS_Onboarding__P1___Guide_for_Parents_.pdf" rel="noopener nofollow" target="_blank">SLS Onboarding (P1) [Guide for Parents]</a>
+</p>
 </td>
 </tr>
 </tbody>
