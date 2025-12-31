@@ -219,7 +219,7 @@ delivery/emergency services</p>
 <br>
 <br>YMCA SCC @Alexandra Primary School
 <br>Call Centre Contact: 9837 5086
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">alxscc@nascans.com </a>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">alxscc@ymca.edu.sg</a>
 <br>SCC Operating Hours
 <br>School Term: Monday to Friday 1.30 p.m. - 7 p.m.
 <br>School Holiday: Monday to Friday 7.30 a.m. - 7 p.m. (Full Day)</p>
