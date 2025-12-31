@@ -18,6 +18,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Entry/Exit Points</strong>
 </p>
 </td>
@@ -42,18 +56,14 @@ variant: tiptap
 whichever is earlier)</p>
 <p></p>
 <p><strong><u>Dismissal</u></strong> 
-<br>Drive in and pick-up from 2.00pm to 2.15pm, (or after the last school
-bus ha left, whichever is earlier)</p>
+<br>Drive in and pick-up from 2.00 pm to 2.15 pm, (or after the last school
+bus has left, whichever is earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Arrival</u></strong> 
 <br>Walk in from 7.00 am to 7.30 am</p>
 <p></p>
 <p></p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p></p>
 <p><strong><u>Dismissal</u></strong> 
 <br>1.30 pm - 1.45 pm *4.00 pm – 4.15 pm (CCA on Monday)</p>
@@ -61,12 +71,13 @@ bus ha left, whichever is earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open: 7.00 am to 5.00 pm</p>
-<p>&nbsp;</p>
+<p></p>
 <p>No drive in and no parking in the school except for authorised person/goods
 delivery/emergency services</p>
-<p>&nbsp;</p>
 <p><strong>School closes at 5.00 pm</strong>
 </p>
+<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -174,13 +185,14 @@ delivery/emergency services</p>
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for October 2025 </strong>
+<p><strong>ALPS Dental Clinic Schedule for Dec 2025 </strong>
 <br>
 <br>Opening Date:
-<br>10-14/11/2025, 24&amp;27/11/2025(8.00-3.30pm only), 25-26/11/2025</p>
+<br>08-10/12/2025, 11/12/2025 (8.00-11.30am, 12/12/2025 (8.00-12.00pm), 24/12/2025
+(8.00-12.00pm)</p>
 <p></p>
 <p>Closure Date:
-<br>03-07/11/2025, 17-21/11/2025
+<br>01-05/12/2025, 15-19/12/2025, 22-23/12/2025, 25-26/12/2025, 28-31/12/2025
 <br>
 </p>
 </td>
