@@ -52,8 +52,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Arrival</u></strong> 
-<br>Walk in from 7.15 am to 7.30 am (or after the last school bus has left,
-whichever is earlier)</p>
+<br>Drive in and drop off from 7.15 am to 7.30 am (or after the last school
+bus has left, whichever is earlier)</p>
 <p></p>
 <p><strong><u>Dismissal</u></strong> 
 <br>Drive in and pick-up from 2.00 pm to 2.15 pm, (or after the last school
