@@ -102,7 +102,7 @@ delivery/emergency services</p>
 <p></p>
 <p></p>
 <p><strong>Dismissal</strong> 
-<br>1.30 pm to 1.45 pm
+<br>1.30 pm - 1.45 pm
 <br>*4.00 pm – 4.15 pm (CCA on Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +123,7 @@ delivery/emergency services</p>
 <br>Walk in from 7.00 am to 7.30 am</p>
 <p></p>
 <p><strong>Dismissal</strong> 
-<br>1.30 pm to 1.45 pm
+<br>1.30 pm - 1.45 pm
 <br>*4.00 pm – 4.15 pm (CCA on Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
