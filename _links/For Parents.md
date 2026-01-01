@@ -108,19 +108,13 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/mesP2j7Tb1U" rel="noopener nofollow" target="_blank">SLS Login and Password</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/playlist?list=PLQxzGTcC-xNWxLBsEQpPHlTv9mfD-er3N" rel="noopener nofollow" target="_blank">Basic Operations of Applications</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SLS_Onboarding__P1___Guide_for_Parents_.pdf" rel="noopener nofollow" target="_blank">SLS Onboarding (P1) [Guide for Parents]</a>
+<p><a href="/files/Annex_D___SLS_Instruction.pdf" rel="noopener nofollow" target="_blank">SLS Onboarding (P1) [Guide For Parents]</a>
 </p>
 </td>
 </tr>
