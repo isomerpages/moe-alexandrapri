@@ -191,7 +191,7 @@ delivery/emergency services</p>
 <p><strong>ALPS Dental Clinic Schedule for Jan 2026 </strong>
 <br>
 <br>Opening Date:
-<br>05-09/01/2026, 19-24/12/2026</p>
+<br>05-09/01/2026, 19-23/01/2026</p>
 <p></p>
 <p>Closure Date:
 <br>02/01/2026, 12-16/01/2026, 26-30/01/2026
