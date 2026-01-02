@@ -188,14 +188,13 @@ delivery/emergency services</p>
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for Dec 2025 </strong>
+<p><strong>ALPS Dental Clinic Schedule for Jan 2026 </strong>
 <br>
 <br>Opening Date:
-<br>08-10/12/2025, 11/12/2025 (8.00-11.30am, 12/12/2025 (8.00-12.00pm), 24/12/2025
-(8.00-12.00pm)</p>
+<br>05-09/01/2026, 19-24/12/2026</p>
 <p></p>
 <p>Closure Date:
-<br>01-05/12/2025, 15-19/12/2025, 22-23/12/2025, 25-26/12/2025, 28-31/12/2025
+<br>02/01/2026, 12-16/01/2026, 26-30/01/2026
 <br>
 </p>
 </td>
