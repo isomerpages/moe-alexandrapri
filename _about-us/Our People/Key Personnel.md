@@ -221,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ST (TL/Learning Needs)</strong>
+<p><strong>ST (TL / Learning Needs)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
