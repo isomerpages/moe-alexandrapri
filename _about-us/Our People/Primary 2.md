@@ -49,7 +49,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dewi Nurazlin Binte Aziz
-<br>Ms Miki Soon
 <br>Mdm Tan Ee Na</p>
 </td>
 </tr>
