@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h3><strong>Parent Support Group</strong></h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025_PSG_Team.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_EXCO_collage_2026.jpg">
 </div>
 <p>At ALPS, we believe that ‘Every parent is a valuable partner in nurturing
 the child to ‘G.L.O.W’ and we see the home-school partnership as an integral
