@@ -90,7 +90,7 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Growing Years (GY) programme</strong> need to complete
 a <strong>Parent</strong>  <strong>Opt-out form</strong> attached in the <strong>Parents Gateway</strong>.
-The completed Parent Opt-out form is to be submitted by <strong>21/01/2025</strong>.</p>
+The completed Parent Opt-out form is to be submitted by <strong>21/01/2026</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at Alexandra
 Primary School: 62485400 or email <a rel="noopener noreferrer nofollow" target="_blank">suguna_manickam@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s sexuality education
