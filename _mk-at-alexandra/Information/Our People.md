@@ -58,8 +58,10 @@ variant: tiptap
 <br>Ms Tamima Hana
 <br>Ms Tan Yuan Ching, Rachel
 <br>Ms Lim Rui Shyuan, Ruth
-<br>Ms Nur Qistina Izzati Binte Jumadi
-<br>Ms Nur Syahidah Binte Mohamed Kairudin</p>
+<br>Ms Yasmin Eleena Binte Zulkifli
+<br>Mrs Guo Yee Fung
+<br>Ms Kendra Tan Xin Yi
+<br>Mdm Ng Kiak Peng</p>
 </td>
 </tr>
 <tr>
@@ -76,8 +78,9 @@ variant: tiptap
 <br>Mdm Liow Geok Mui, Teresa
 <br>Mdm Zhao Xi
 <br>Mdm Wang Cong
-<br>Mdm Liu Cuixian</p>
-<p></p>
+<br>Mdm Liu Cuixian
+<br>Miss Teow Kai Xin
+<br>Miss Harene D/O Balasubramaniam</p>
 </td>
 </tr>
 </tbody>
