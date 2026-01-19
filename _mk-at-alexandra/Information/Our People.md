@@ -72,9 +72,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nadirah Binte Maszelan
 <br>Mdm Yasmin Binte Mohamed Yusoff
-<br>Ms Justine Ong Kai Yee
-<br>Ms Yang Huiqin
-<br>Ms Wang Haiyan
+<br>Miss Justine Ong Kai Yee
+<br>Mdm Yang Huiqin
+<br>Mdm Wang Haiyan
 <br>Mdm Liow Geok Mui, Teresa
 <br>Mdm Zhao Xi
 <br>Mdm Wang Cong
