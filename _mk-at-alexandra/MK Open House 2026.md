@@ -7,9 +7,11 @@ description: ""
 <p>MOE Kindergarten (MK) aims to provide quality and affordable Kindergarten
 1 (K1) and Kindergarten 2 (K2) education to all eligible Singapore Citizens
 (SC) and Permanent Residents (PR). We offer a 4-hour programme for both
-K1 and K2 levels.</p>
-<p>If you are interested in registering your child for:</p>
-<p>● 2026 K2 admission
+K1 and K2 levels.
+<br>
+<br>If you are interested in registering your child for:
+<br>
+<br>● 2026 K2 admission
 <br>● 2026 K1 admission (born between 2 January 2021 and 1 January 2022, both
 dates inclusive).</p>
 <p>Please indicate your interest by submitting your child’s details to our
