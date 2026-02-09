@@ -2,8 +2,8 @@ collections:
   mk-at-alexandra:
     output: true
     order:
-      - MK Open House 2026.md
       - Center Head's Message.md
+      - MK Open House 2026.md
       - MK Registration.md
       - Information/.keep
       - Information/Our People.md
