@@ -25,7 +25,7 @@ activities:</p>
 <p>A briefing by the Centre Leaders, who will share insights into the school’s
 curriculum.</p>
 </li>
-</ul>
+<li>
 <p>Centre tour
 <br>
 <br>Parents who wish to attend are kindly requested to register by clicking
@@ -34,6 +34,8 @@ on the link provided below.
 <br>[Insert GovEntry registration link - Syakira to provide link by 9 Feb]
 <br>
 <br>Registration closes on: 27 Feb 2026, 11.59pm</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
