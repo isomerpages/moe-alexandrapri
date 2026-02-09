@@ -36,5 +36,8 @@ on the link provided below.
 <br>
 <br>Registration closes on: 27 Feb 2026, 11.59pm</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Alexandra_Open_House_2026_Poster.png">
+</div>
 <p></p>
 <p></p>
