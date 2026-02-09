@@ -36,7 +36,8 @@ on the link provided below.
 <br>
 <br>Registration closes on: 27 Feb 2026, 11.59pm</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2i.jpg">
 </div>
 <p></p>
