@@ -26,7 +26,7 @@ activities:</p>
 curriculum.</p>
 </li>
 <li>
-<p>Centre tour
+<p>Centre Tour
 <br>
 <br>Parents who wish to attend are kindly requested to register by clicking
 on the link provided below.
