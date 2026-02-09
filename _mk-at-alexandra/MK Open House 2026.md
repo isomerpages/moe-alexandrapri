@@ -26,16 +26,15 @@ activities:</p>
 curriculum.</p>
 </li>
 <li>
-<p>Centre Tour
-<br>
-<br>Parents who wish to attend are kindly requested to register by clicking
+<p>Centre tour</p>
+</li>
+</ul>
+<p>Parents who wish to attend are kindly requested to register by clicking
 on the link provided below.
 <br>
 <br>[Insert GovEntry registration link - Syakira to provide link by 9 Feb]
 <br>
 <br>Registration closes on: 27 Feb 2026, 11.59pm</p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
