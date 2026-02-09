@@ -4,28 +4,21 @@ permalink: /mk-open-house-2026/
 variant: tiptap
 description: ""
 ---
-<p>MOE Kindergarten (MK) aims to provide quality and affordable Kindergarten
-1 (K1) and Kindergarten 2 (K2) education to all eligible Singapore Citizens
-(SC) and Permanent Residents (PR). We offer a 4-hour programme for both
-K1 and K2 levels.
-<br>
-<br>If you are interested in registering your child for:
-<br>
-<br>● 2026 K2 admission
-<br>● 2026 K1 admission (born between 2 January 2021 and 1 January 2022, both
-dates inclusive).</p>
-<p>Please indicate your interest by submitting your child’s details to our
-waitlist. Click here to access the waitlist form.</p>
-<p>Please note that:</p>
-<p>● All applications are subject to available vacancies.
-<br>● If there are no immediate vacancies, your application will remain on
-our waitlist, and you will be notified when a place becomes available.</p>
-<p>The kindergarten will contact you should a vacancy arise for your child.</p>
-<p>For more information or assistance, please contact us at 6248 5400 or
-email us at <a href="mailto:mk_alexandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_alexandra@moe.edu.sg</a>.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
-</div>
-<p></p>
+<p><strong>MK Open House 2026</strong>
+<br>We are pleased to invite parents to attend our upcoming Open House. This
+event provides an opportunity to learn more about our school environment
+and the MK programme.</p>
+<p>Date: 7 March 2026, Saturday</p>
+<p>Time: 9am - 11.30am</p>
+<p>During the Open House, parents and children may look forward to the following
+activities:</p>
+<p>● Craftwork / Hands-on activities sessions</p>
+<p>● Storytelling sessions conducted by our teachers</p>
+<p>● A briefing by the Centre Leaders, who will share insights into the school’s
+curriculum.</p>
+<p>● Centre tour</p>
+<p>Parents who wish to attend are kindly requested to register by clicking
+on the link provided below.</p>
+<p>[Insert GovEntry registration link - Syakira to provide link by 9 Feb]</p>
+<p>Registration closes on: 27 Feb 2026, 11.59pm</p>
 <p></p>
