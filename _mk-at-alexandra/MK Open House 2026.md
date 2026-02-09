@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p><strong>MK Open House 2026</strong>
-<br>We are pleased to invite parents to attend our upcoming Open House. This
-event provides an opportunity to learn more about our school environment
-and the MK programme.</p>
+<br>We are pleased to invite parents to attend our upcoming
+<br>Open House. This event provides an opportunity to learn more about our
+school environment and the MK programme.</p>
 <p>Date: 7 March 2026, Saturday</p>
 <p>Time: 9am - 11.30am</p>
 <p>During the Open House, parents and children may look forward to the following
