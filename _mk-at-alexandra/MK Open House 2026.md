@@ -10,6 +10,7 @@ description: ""
 K1 and K2 levels.
 <br>
 <br>If you are interested in registering your child for:
+<br>
 <br>● 2026 K2 admission
 <br>● 2026 K1 admission (born between 2 January 2021 and 1 January 2022, both
 dates inclusive).</p>
