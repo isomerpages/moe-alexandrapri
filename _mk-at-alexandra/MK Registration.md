@@ -11,7 +11,7 @@ for both K1 and K2 levels.</p>
 <p>If you are interested in registering your child for:</p>
 <ul>
 <li>
-<p><strong>2025 K1 or K2 admission</strong>, or</p>
+<p><strong>2026 K2 admission</strong>, or</p>
 </li>
 <li>
 <p><strong>2026 K1 admission </strong>(born between 2 January 2021 and 1

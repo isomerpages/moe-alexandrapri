@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Center Head's Message.md
+      - MK Open House 2026.md
       - MK Registration.md
       - Information/.keep
       - Information/Our People.md
