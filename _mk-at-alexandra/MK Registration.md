@@ -4,6 +4,8 @@ permalink: /mk-at-alexandra/mk-registration/
 variant: tiptap
 description: ""
 ---
+<p>*Click <a href="https://alexandrapri.moe.edu.sg/mk-open-house-2026/" rel="noopener nofollow" target="_blank">here</a> to
+find out more about our upcoming Open House event!</p>
 <p><strong>MOE Kindergarten (MK)</strong> aims to provide quality and affordable
 Kindergarten 1 (K1) and Kindergarten 2 (K2) education to all eligible Singapore
 Citizens (SC) and Permanent Residents (PR). We offer a 4-hour programme
