@@ -22,6 +22,6 @@ discussions to reflect on their experiences, sharing their thoughts and
 feelings with classmates about what they had learnt and how the day's events
 deepened their understanding of Total Defence.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTg-wCZOfFDNHihuVWrPL4UoBLbtx-8bBqDkicRjfvGuUrgBXSTyL9xn21DMTag0kSV9UyBdNxnxDol/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQK0B9DlfzN-oLGFeVJsEMh6rYJ4D1Y3MZOmbYx7oV0xVPhIILtE3WqowV2zjBhKXlJfR_z-_kDP_l/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
