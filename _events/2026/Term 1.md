@@ -21,8 +21,5 @@ effectively. Following the activities, students participated in guided
 discussions to reflect on their experiences, sharing their thoughts and
 feelings with classmates about what they had learnt and how the day's events
 deepened their understanding of Total Defence.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTg-wCZOfFDNHihuVWrPL4UoBLbtx-8bBqDkicRjfvGuUrgBXSTyL9xn21DMTag0kSV9UyBdNxnxDol/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><a href="https://docs.google.com/presentation/d/e/2PACX-1vTg-wCZOfFDNHihuVWrPL4UoBLbtx-8bBqDkicRjfvGuUrgBXSTyL9xn21DMTag0kSV9UyBdNxnxDol/pub?start=true&amp;loop=true&amp;delayms=5000" rel="noopener noreferrer nofollow" target="_blank">/pub?start=true&amp;loop=true&amp;delayms=5000</a>
 </p>
