@@ -136,7 +136,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vREZxdkI3VdpR7wQq8lN0kDHpWGEHqjJBi-xNvjIVP4xbD9ZxgUFf4xYwjiMAzDnxFeudGvN_HUfje1/pubhtml" rel="noopener noreferrer nofollow" target="_blank">AVA Request Form</a>
+<p><a href="https://forms.gle/VEXhYLSeS5K24nBH9" rel="noopener noreferrer nofollow" target="_blank">AVA Request Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
