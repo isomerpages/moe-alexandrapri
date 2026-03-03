@@ -13,3 +13,5 @@ through the members’ networks, to achieve positive student learning outcomes,
 in line with the national educational goals and objectives.</p>
 <p><strong>Chairperson</strong>
 </p>
+
+ <div style="text-align: left;"><img width="100" src="/images/ Mr\_Benny\_Lee.png"></div>
