@@ -33,7 +33,7 @@ strategic leadership to the SAC in supporting the school’s growth and developm
 <br>Mr Khor Tse Eng (Member),
 <br>Ms Sulina Tsai (Member),
 <br>Mr Richard Lim (Member),
-<br>Ms Georgette Tan ( – Vice Chairperson),
+<br>Ms Georgette Tan (Vice Chairperson),
 <br>Mr Muhammad Khalil Bin Abu Bakar – SAC (Member),
 <br>Mdm Teo Ching Ling (– Secretary),
 <br>Mr Sarabjit Singh – SAC (Member),
