@@ -31,7 +31,7 @@ strategic leadership to the SAC in supporting the school’s growth and developm
 <br>Mr Huang Liangwei (Member),
 <br>Ms Achary Gopalan Shiyamala (Staff-in-attendance),
 <br>Mr Khor Tse Eng (Member),
-<br>Ms Sulina Tsai – SAC (Member),
+<br>Ms Sulina Tsai (Member),
 <br>Mr Richard Lim (– SAC Member),
 <br>Ms Georgette Tan ( – Vice Chairperson),
 <br>Mr Muhammad Khalil Bin Abu Bakar – SAC (Member),
