@@ -35,8 +35,8 @@ strategic leadership to the SAC in supporting the school’s growth and developm
 <br>Mr Richard Lim (Member),
 <br>Ms Georgette Tan (Vice Chairperson),
 <br>Mr Muhammad Khalil Bin Abu Bakar (Member),
-<br>Mdm Teo Ching Ling (– Secretary),
-<br>Mr Sarabjit Singh – SAC (Member),
+<br>Mdm Teo Ching Ling (Secretary),
+<br>Mr Sarabjit Singh (Member),
 <br>Mr Howard Pak (– SAC Member),
 <br>Mdm Raps Azrinah (– Staff-in-attendance)
 <br>Mr Benny Lee (, Chairperson) of the SAC and Mr Lee Seng Chong (SAC mMember)
