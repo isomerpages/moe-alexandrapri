@@ -11,7 +11,7 @@ on the strategic directions for the school within MOE’s policy framework,
 and garners support for the school from stakeholders and the community
 through the members’ networks, to achieve positive student learning outcomes,
 in line with the national educational goals and objectives.</p>
-<p><strong>                                                  Chairperson</strong>
+<p><strong>Chairperson</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
