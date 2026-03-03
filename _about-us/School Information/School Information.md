@@ -74,7 +74,7 @@ bus has left, whichever is earlier)</p>
 <p>Open: 7.00 am to 5.00 pm</p>
 <p></p>
 <p>No drive in and no parking in the school except for authorised person/goods
-delivery/emergency services</p>
+delivery/emergency services.</p>
 <p><strong>School closes at 5.00 pm</strong>
 </p>
 <p>&nbsp;</p>
