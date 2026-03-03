@@ -37,7 +37,7 @@ strategic leadership to the SAC in supporting the school’s growth and developm
 <br>Mr Muhammad Khalil Bin Abu Bakar (Member),
 <br>Mdm Teo Ching Ling (Secretary),
 <br>Mr Sarabjit Singh (Member),
-<br>Mr Howard Pak (– SAC Member),
+<br>Mr Howard Pak (Member),
 <br>Mdm Raps Azrinah (– Staff-in-attendance)
 <br>Mr Benny Lee (, Chairperson) of the SAC and Mr Lee Seng Chong (SAC mMember)
 were not present at the time the
