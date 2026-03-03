@@ -26,4 +26,22 @@ strategic leadership to the SAC in supporting the school’s growth and developm
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Members_2026.jpg">
 </div>
+<p>From left to right:
+<br>Mr Loh Kah Hong ( – Staff-in-attendance),
+<br>Mr Huang Liangwei (– SAC Member),
+<br>Ms Achary Gopalan Shiyamala ( – SStaff-in-attendance),
+<br>Mr Khor Tse Eng – SAC (Member),
+<br>Ms Sulina Tsai – SAC (Member),
+<br>Mr Richard Lim (– SAC Member),
+<br>Ms Georgette Tan ( – Vice Chairperson),
+<br>Mr Muhammad Khalil Bin Abu Bakar – SAC (Member),
+<br>Mdm Teo Ching Ling (– Secretary),
+<br>Mr Sarabjit Singh – SAC (Member),
+<br>Mr Howard Pak (– SAC Member),
+<br>Mdm Raps Azrinah (– Staff-in-attendance)
+<br>Mr Benny Lee (, Chairperson) of the SAC and Mr Lee Seng Chong (SAC mMember)
+were not present at the time the
+<br>photograph was taken.</p>
+<p></p>
+<p></p>
 <p></p>
