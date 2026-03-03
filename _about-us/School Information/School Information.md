@@ -245,8 +245,7 @@ call one of the following BUDDY clinics for assistance.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>*May be subjected to change without prior notice due to unforeseen circumstances. Regards,</strong>
+<p><strong>*May be subjected to change without prior notice due to unforeseen circumstances. Regards,</strong>
 </p>
 <p><strong>Mdm Tee (Dental Therapist)</strong>
 </p>
