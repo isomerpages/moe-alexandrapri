@@ -40,5 +40,4 @@ strategic leadership to the SAC in supporting the school’s growth and developm
 <br>Mr Howard Pak (Member),
 <br>Mdm Raps Azrinah (Staff-in-attendance)
 <br>Mr Benny Lee (Chairperson) and Mr Lee Seng Chong (Member) were not present
-at the time the
-<br>photograph was taken.</p>
+at the time the photograph was taken.</p>
