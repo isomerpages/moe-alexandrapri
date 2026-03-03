@@ -14,9 +14,6 @@ in line with the national educational goals and objectives.</p>
 <p><strong>Chairperson</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Mr_Benny_Lee.png">
-</div>
 <p>Mr Benny Lee
 <br>Chairperson, School Advisory Committee</p>
 <p></p>
