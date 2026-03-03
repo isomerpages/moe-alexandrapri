@@ -24,7 +24,7 @@ in line with the national educational goals and objectives.</p>
 strategic leadership to the SAC in supporting the school’s growth and development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" align="left" src="/images/SAC_Members_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Members_2026.jpg" class="left-align-image">
 </div>
 <p><strong>From left to right: </strong>
 <br>Mr Loh Kah Hong (Staff-in-attendance),
