@@ -204,8 +204,51 @@ delivery/emergency services</p>
 <p>31/03/2026 (8am-5.30pm)</p>
 <p></p>
 <p>Closure Date:
-<br>09-13/03/2026, 20/03/2026, 23-27/03/2026
-<br>
+<br>09-13/03/2026, 20/03/2026, 23-27/03/2026</p>
+<p></p>
+<p>If you require any URGENT dental treatment and the clinic is closed, please
+call one of the following BUDDY clinics for assistance.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Buddy Clinic&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Gan Eng Seng Pri School</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>8764 7603</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>River Valley Pri School</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>8909 5948</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>*May be subjected to change without prior notice due to unforeseen circumstances. Regards,</strong>
+</p>
+<p><strong>Mdm Tee (Dental Therapist)</strong>
 </p>
 </td>
 </tr>
