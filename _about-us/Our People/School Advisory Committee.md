@@ -26,8 +26,8 @@ strategic leadership to the SAC in supporting the school’s growth and developm
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Members_2026.jpg">
 </div>
-<p>From left to right:
-<br>Mr Loh Kah Hong ( – Staff-in-attendance),
+<p><strong>From left to right: </strong>
+<br>Mr Loh Kah Hong (Staff-in-attendance),
 <br>Mr Huang Liangwei (– SAC Member),
 <br>Ms Achary Gopalan Shiyamala ( – SStaff-in-attendance),
 <br>Mr Khor Tse Eng – SAC (Member),
