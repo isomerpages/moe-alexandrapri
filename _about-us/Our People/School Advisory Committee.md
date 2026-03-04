@@ -15,15 +15,12 @@ in line with the national educational goals and objectives.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" align="left" src="/images/Mr_Benny_Lee.png">
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Mr Benny Lee
+	<figure>
+<img style="width: 25%;" height="auto" width="100%" alt="" align="center" src="/images/Mr_Benny_Lee.png">
+		<br>Mr Benny Lee
 <br>Chairperson, School Advisory Committee
+	</figure>
+</div>
 <p>Mr Benny Lee has served as Chairman of the School Advisory Committee since
 2021. He is the Chief Executive Officer of Tanoto Foundation and provides
 strategic leadership to the SAC in supporting the school’s growth and development.</p>
