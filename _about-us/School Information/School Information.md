@@ -74,7 +74,7 @@ bus has left, whichever is earlier)</p>
 <p>Open: 7.00 am to 5.00 pm</p>
 <p></p>
 <p>No drive in and no parking in the school except for authorised person/goods
-delivery/emergency services</p>
+delivery/emergency services.</p>
 <p><strong>School closes at 5.00 pm</strong>
 </p>
 <p>&nbsp;</p>
@@ -188,14 +188,66 @@ delivery/emergency services</p>
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for Jan 2026 </strong>
+<p><strong>ALPS Dental Clinic Schedule for March 2026 </strong>
 <br>
 <br>Opening Date:
-<br>05-09/01/2026, 19-23/01/2026</p>
+<br>02/03/2026 (8am-5pm)</p>
+<p>03/03/2026 (8am-5.30pm)</p>
+<p>04/03/2026 (8am-5pm)</p>
+<p>05/03/2026 (8am-5.30pm)</p>
+<p>06/03/2026 (8am-5pm)</p>
+<p>16/03/2026 (8am-5pm)</p>
+<p>17/03/2026 (8am-5.30pm)</p>
+<p>18/03/2026 (8am-12pm)</p>
+<p>19/03/2026 (8am-12pm)</p>
+<p>30/03/2026 (8am-5pm)</p>
+<p>31/03/2026 (8am-5.30pm)</p>
 <p></p>
 <p>Closure Date:
-<br>02/01/2026, 12-16/01/2026, 26-30/01/2026
-<br>
+<br>09-13/03/2026, 20/03/2026, 23-27/03/2026</p>
+<p></p>
+<p>If you require any URGENT dental treatment and the clinic is closed, please
+call one of the following BUDDY clinics for assistance.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Buddy Clinic&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Gan Eng Seng Pri School</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>8764 7603</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>River Valley Pri School</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>8909 5948</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*May be subjected to change without prior notice due to unforeseen circumstances. Regards,</strong>
+</p>
+<p><strong>Mdm Tee (Dental Therapist)</strong>
 </p>
 </td>
 </tr>
