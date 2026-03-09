@@ -24,7 +24,7 @@ the registration period.</p>
 </p>
 <p>Should you have any questions, please visit <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten</a> for more information.</p>
 <p>We look forward to welcoming your child to MOE Kindergarten!</p>
-<p>Yours faithfully,</p>
-<p>MK@Alexandra</p>
+<p>Yours faithfully,
+<br>MK@Alexandra</p>
 <p></p>
 <p></p>
