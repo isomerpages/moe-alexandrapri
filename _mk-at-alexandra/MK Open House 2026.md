@@ -26,5 +26,6 @@ the registration period.</p>
 <p>We look forward to welcoming your child to MOE Kindergarten!</p>
 <p>Yours faithfully,
 <br>MK@Alexandra</p>
-<p></p>
+<p><a href="/files/2026_MK_Open_House__for_parents_.pdf" rel="noopener nofollow" target="_blank">2026 MK Open House (for parents)</a>
+</p>
 <p></p>
