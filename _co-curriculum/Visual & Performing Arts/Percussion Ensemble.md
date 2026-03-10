@@ -6,13 +6,20 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 <h4><strong>Percussion Ensemble</strong></h4>
-<p>The Chinese Drums Co-Curricular Activity (CCA) offers students a vibrant
-and dynamic musical experience. Students learn the art of traditional Chinese
-drumming, developing a keen sense of rhythm and timing. This ensemble features
-an array of drums and percussion instruments in different sizes, each contributing
-its unique voice to create powerful, heart-pounding performances. Through
-regular practice and collaboration, students not only hone their musical
-skills but also cultivate essential teamwork abilities.</p>
+<p>ALPS percussion ensemble has evolved from a Chinese drums CCA (Co-Curricular
+Activity) to represent an exciting transformation that broadens both musical
+horizons and cultural appreciation.</p>
+<p>The transformation enables our students to build on their proficiency
+in Chinese drumming techniques and develop versatility, with the introduction
+of Western orchestral percussion instruments such as timpani, snare drums,
+and mallet instruments like marimba and vibraphone. This expansion also
+allows students to explore different musical genres, from classical compositions
+to contemporary pieces and world music.</p>
+<p>This evolution of the CCA broadens the performance opportunities for the
+students, as percussion ensembles can participate in school concerts, competitions,
+and community events that might not typically feature traditional Chinese
+drumming groups. The ensemble becomes a bridge between cultural traditions
+whilst embracing musical innovation and creativity.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Drums/Chinese_Drums_1.jpg">
