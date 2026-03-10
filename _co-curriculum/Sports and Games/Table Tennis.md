@@ -11,7 +11,15 @@ teamwork through the learning of skills such as service, spin ball and
 smashes. The fast-paced game improves concentration and focus, life-long
 skills that students can transfer to build character. Selected Table Tennis
 members will represent the school in Table Tennis NSG.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20260119_152416.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20260119_153657.jpg">
+</div>
+<p>
+<br>
+</p>
