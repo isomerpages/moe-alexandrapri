@@ -29,4 +29,7 @@ the passion and teamwork of our cheerleaders.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_16_at_10_47_53_PM__1_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_16_at_10_47_54_PM.jpg">
+</div>
 <p></p>
