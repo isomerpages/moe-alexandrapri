@@ -19,3 +19,7 @@ School Games (NSG).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0850.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAXW1800.jpg">
+</div>
+<p></p>
