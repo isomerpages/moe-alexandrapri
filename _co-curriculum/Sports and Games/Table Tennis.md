@@ -12,12 +12,6 @@ smashes. The fast-paced game improves concentration and focus, life-long
 skills that students can transfer to build character. Selected Table Tennis
 members will represent the school in Table Tennis NSG.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table Tennis/2.jpg">
-</div>
 <p></p>
 <p></p>
