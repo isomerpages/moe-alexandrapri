@@ -24,15 +24,12 @@ the passion and teamwork of our cheerleaders.</p>
 <a href="/files/Cheerleading_1.pdf" rel="noopener nofollow" target="_blank">Article Page 1,</a><a href="/files/Cheerleading_2.pdf" rel="noopener nofollow" target="_blank">Article Page 2, </a>
 <a href="/files/Cheerleading_3.pdf" rel="noopener nofollow" target="_blank">Article Page 3</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cheerleading/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_16_at_10_47_53_PM__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cheerleading/2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cheerleading/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_16_at_10_47_54_PM.jpg">
 </div>
 <p></p>
