@@ -88,7 +88,6 @@ It's a place for musical growth, teamwork, and unforgettable experiences.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_SYF_2024.jpg">
 </div>
