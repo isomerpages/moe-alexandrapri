@@ -16,19 +16,7 @@ The school team members will represent ALPS in Rugby NSG. Rugby NSG senior
 team consists of Primary 6 students only while the junior team can be formed
 by Primary 4 and Primary 5 students.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rugby/1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rugby/4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rugby/3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rugby/2.jpg">
-</div>
 <p></p>
