@@ -25,7 +25,13 @@ and bring their ideas to life in a supportive and dynamic environment.</p>
 <p>Join us and discover the endless possibilities in the world of Information
 and Communication Technology!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/InfoComm_Technology_Robotics_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/InfoComm_technology_Robotics_3.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
