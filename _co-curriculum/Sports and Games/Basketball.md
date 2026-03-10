@@ -16,3 +16,7 @@ itself, ALPS Basketball offers a space for members to grow not only in
 their athletic abilities but also in valuable life lessons that carry beyond
 the court.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_25_at_10_18_19_AM.jpg">
+</div>
+<p></p>
