@@ -33,5 +33,8 @@ and Communication Technology!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/InfoComm_technology_Robotics_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics.jpg">
+</div>
 <p></p>
 <p></p>
