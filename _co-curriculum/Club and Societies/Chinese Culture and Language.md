@@ -13,15 +13,6 @@ Ink Painting, Chinese Chess,Animal Chess, Paper Cutting, Clay Art and Tea
 Appreciation, we provide students with hands-on experiences that enrich
 their understanding and appreciation of these cultural arts.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Calligraphy.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ink_rubbing_on_red_couplet_paper.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tea_appreciation.jpg">
-</div>
 <p></p>
