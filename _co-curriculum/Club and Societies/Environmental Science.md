@@ -17,7 +17,13 @@ for public speaking at assemblies. Members also develop practical skills
 through gardening, and repurposed crafting. These experiences prepare them
 to be proactive, informed environmental stewards.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_16_38_09__1_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_15_19_15__2_.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
