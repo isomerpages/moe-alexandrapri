@@ -27,7 +27,11 @@ every student can achieve their aquatic potential.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/877325d0_3cbb_4bd9_92c8_ff2da269e4ac.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6561.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6561i.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture.jpg">
 </div>
 <p></p>
