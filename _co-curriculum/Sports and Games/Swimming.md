@@ -22,16 +22,3 @@ whilst developing school pride and sporting excellence.</p>
 goal-setting, and develop mental toughness that benefits them both in and
 out of the pool. The Swimming CCA provides a supportive environment where
 every student can achieve their aquatic potential.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Swimming/1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Swimming/2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Swimming/3.jpg">
-</div>
-<p></p>
