@@ -12,14 +12,14 @@ Selected Badminton members will represent the school in Badminton National
 School Games (NSG).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0413.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0850.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAXW1800.jpg">
 </div>
 <p></p>
