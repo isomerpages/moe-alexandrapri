@@ -23,4 +23,3 @@ third_nav_title: "2026"
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjX-4npzcEoX66gmrkh3B2JzyO7RAZf5xZdcksgxiE3GzmbG_AEWgMrHLjr11BC5UwXn1t6GnFrEOd/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
-<p></p>
