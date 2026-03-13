@@ -13,27 +13,26 @@ through the members’ networks, to achieve positive student learning outcomes,
 in line with the national educational goals and objectives.</p>
 <p><strong>Chairperson</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-	
-<img style="width: 25%;" height="auto" width="100%" alt="" align="left" src="/images/Mr_Benny_Lee.png">
-		</div>
+<img style="width: 35%;" height="auto" width="100%" alt="" align="left" src="/images/Mr_Benny_Lee.png">
+</div>
 <br>
 <br>
 <br>
 <br>
 <br>
-
-<br>Mr Benny Lee
+<br>
+<br>
+<p>Mr Benny Lee
 <br>Chairperson, School Advisory Committee
 <br>
-
+</p>
 <p>Mr Benny Lee has served as Chairman of the School Advisory Committee since
 2021. He is the Chief Executive Officer of Tanoto Foundation and provides
 strategic leadership to the SAC in supporting the school’s growth and development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Members_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Members_2026_cropped.jpg">
 </div>
 <p><strong>From left to right: </strong>
 <br>Mr Loh Kah Hong (Staff-in-attendance),
