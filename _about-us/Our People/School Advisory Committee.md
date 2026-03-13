@@ -13,11 +13,9 @@ through the members’ networks, to achieve positive student learning outcomes,
 in line with the national educational goals and objectives.</p>
 <p><strong>Chairperson</strong>
 </p>
-
 <div class="isomer-image-wrapper">
-<img height="auto" width="100%" alt="" style="float: left; margin-right: 15px;" src="/images/Mr_Benny_Lee.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr_Benny_Lee.png">
 </div>
-
 <p>Mr Benny Lee
 <br>Chairperson, School Advisory Committee
 <br>
@@ -27,7 +25,7 @@ in line with the national educational goals and objectives.</p>
 strategic leadership to the SAC in supporting the school’s growth and development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" align="left" height="auto" width="100%" alt="" src="/images/SAC_Members_2026_cropped.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Members_2026_cropped.jpg">
 </div>
 <p><strong>From left to right: </strong>
 <br>Mr Loh Kah Hong (Staff-in-attendance),
