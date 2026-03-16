@@ -60,12 +60,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (Learning Support)</strong>
+<p><strong>AED (Special Educational Needs Officers)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Krystle Kuah
-<br>Miss Surbhi
+<p>Ms Surbhi
+<br>Mrs Krystle Kuah
 <br>Mr Randal Lui</p>
 </td>
 </tr>
