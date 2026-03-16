@@ -23,6 +23,7 @@ in line with the national educational goals and objectives.</p>
 <br>
 <br>
 <br>
+<br>
 <p>Mr Benny Lee
 <br>Chairperson, School Advisory Committee
 <br>
