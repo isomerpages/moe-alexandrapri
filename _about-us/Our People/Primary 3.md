@@ -40,7 +40,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Anthony Chua
 <br>Mdm Lin Huiting
-<br>Ms Tan Chay Ngee</p>
+<br>Mr Sean Chua</p>
 </td>
 </tr>
 <tr>
