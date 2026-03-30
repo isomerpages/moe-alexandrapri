@@ -29,7 +29,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adriel Chia
-<br>Ms Mercado Avie Zharisse Teves</p>
+<br>Mdm Jolene Hong</p>
 </td>
 </tr>
 <tr>
