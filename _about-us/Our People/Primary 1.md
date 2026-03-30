@@ -60,8 +60,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Poh Yeu Pei
-<br>Ms Kwok Hui Min
-<br>Miss Ng Choi Mei</p>
+<br>Mrs Mary Dorai
+<br>Ms Pauline Chua</p>
 </td>
 </tr>
 <tr>
