@@ -30,7 +30,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Amirah Bte Abu Hasan
-<br>Ms Nancy Tan</p>
+<br>Ms Kwok Hui Min</p>
 </td>
 </tr>
 <tr>
