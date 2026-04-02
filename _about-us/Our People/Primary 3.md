@@ -29,7 +29,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adriel Chia
-<br>Ms Mercado Avie Zharisse Teves</p>
+<br>Mdm Jolene Hong</p>
 </td>
 </tr>
 <tr>
@@ -39,8 +39,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Anthony Chua
-<br>Ms Jamie Wong
-<br>Ms Tan Chay Ngee</p>
+<br>Mdm Lin Huiting
+<br>Mr Sean Chua</p>
 </td>
 </tr>
 <tr>

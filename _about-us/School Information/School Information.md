@@ -188,23 +188,22 @@ delivery/emergency services.</p>
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for March 2026 </strong>
+<p><strong>ALPS Dental Clinic Schedule for April 2026 </strong>
 <br>
 <br>Opening Date:
-<br>02/03/2026 (8am-5pm)</p>
-<p>03/03/2026 (8am-5.30pm)</p>
-<p>04/03/2026 (8am-5pm)</p>
-<p>05/03/2026 (8am-5.30pm)</p>
-<p>06/03/2026 (8am-5pm)</p>
-<p>16/03/2026 (8am-5pm)</p>
-<p>17/03/2026 (8am-5.30pm)</p>
-<p>18/03/2026 (8am-12pm)</p>
-<p>19/03/2026 (8am-12pm)</p>
-<p>30/03/2026 (8am-5pm)</p>
-<p>31/03/2026 (8am-5.30pm)</p>
+<br>13/04/2026 (8am-5pm)
+<br>14/04/2026 (8am-5.30pm)
+<br>15/04/2026 (8am-5pm)
+<br>16/04/2026 (8am-5.30pm)
+<br>17/04/2026 (8am-5pm)
+<br>27/04/2026 (8am-5pm)
+<br>28/04/2026 (8am-5.30pm)
+<br>29/04/2026 (8am-5pm)
+<br>30/04/2026 (8am-5.30pm)</p>
 <p></p>
 <p>Closure Date:
-<br>09-13/03/2026, 20/03/2026, 23-27/03/2026</p>
+<br>06-10/04/2026,
+<br>20-24/04/2026</p>
 <p></p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
 call one of the following BUDDY clinics for assistance.</p>

@@ -30,7 +30,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Amirah Bte Abu Hasan
-<br>Ms Nancy Tan</p>
+<br>Ms Kwok Hui Min</p>
 </td>
 </tr>
 <tr>
@@ -60,8 +60,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Poh Yeu Pei
-<br>Ms Kwok Hui Min
-<br>Miss Ng Choi Mei</p>
+<br>Mrs Mary Dorai
+<br>Ms Pauline Chua</p>
 </td>
 </tr>
 <tr>
