@@ -188,7 +188,7 @@ delivery/emergency services.</p>
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for March 2026 </strong>
+<p><strong>ALPS Dental Clinic Schedule for April 2026 </strong>
 <br>
 <br>Opening Date:
 <br>02/03/2026 (8am-5pm)</p>
