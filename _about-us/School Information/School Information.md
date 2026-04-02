@@ -202,7 +202,8 @@ delivery/emergency services.</p>
 <p>30/04/2026 (8am-5.30pm)</p>
 <p></p>
 <p>Closure Date:
-<br>09-13/03/2026, 20/03/2026, 23-27/03/2026</p>
+<br>06-10/04/2026,
+<br>20-24/04/2026</p>
 <p></p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
 call one of the following BUDDY clinics for assistance.</p>
