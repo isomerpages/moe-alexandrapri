@@ -39,8 +39,9 @@ description: "School Canteen Advertisement Type of Stall\tClosing
   own expense."
 third_nav_title: For Service Providers
 ---
-<p><strong>School Canteen Advertisement</strong>
-</p>
+<blockquote>
+<h4><strong>School Canteen Advertisement</strong></h4>
+</blockquote>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,7 +68,7 @@ third_nav_title: For Service Providers
 <p>Western Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Feb 2026</p>
+<p>31 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
@@ -78,7 +79,7 @@ third_nav_title: For Service Providers
 <p>Chinese Mixed Vegetable Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Feb 2026</p>
+<p>31 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Non-Halal</p>
@@ -86,8 +87,6 @@ third_nav_title: For Service Providers
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -140,7 +139,7 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 62485200</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Alexandra_ps@moe.edu.sg</a>
+<p>Email: <a href="mailto:Alexandra_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Alexandra_ps@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -157,7 +156,6 @@ School’s General Office by the closing date.</p>
 </li>
 <li>
 <p>Bus number: 51, 122, 139, 186, 970</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Interested applicants must meet the following criteria:</strong>
@@ -210,7 +208,6 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Note to successful applicants:</strong>
 </p>
 <ul data-tight="true" class="tight">
