@@ -21,7 +21,7 @@ January 2022, both dates inclusive).</p>
 </li>
 </ul>
 <p>Please indicate your interest by submitting your child’s details to our
-waitlist. Click <a href="https://form.gov.sg/682401bd2611f9a2b1fd4449" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+waitlist. Click <a href="https://form.gov.sg/69ccd19caa002a6580a91b9a" rel="noopener nofollow" target="_blank">here</a> to
 access the <strong>waitlist form</strong>.</p>
 <p>Please note that:</p>
 <ul>
