@@ -40,6 +40,51 @@ description: "School Canteen Advertisement Type of Stall\tClosing
 third_nav_title: For Service Providers
 ---
 <blockquote>
-<h4>School Canteen Advertisement</h4>
+<h4><strong>School Canteen Advertisement</strong></h4>
 </blockquote>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Western Food</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Feb 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Mixed Vegetable Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Feb 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Halal</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
