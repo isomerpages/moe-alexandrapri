@@ -201,7 +201,7 @@ delivery/emergency services.</p>
 <br>
 </p>
 <p>Closure Date:
-<br>06-10/04/2026,
+<br>04-08/05/2026,
 <br>20-24/04/2026</p>
 <p></p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
