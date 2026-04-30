@@ -203,6 +203,7 @@ delivery/emergency services.</p>
 <p>Closure Date:
 <br>04-08/05/2026,
 <br>18-22/05/2026</p>
+<p>25-27/05/2026</p>
 <p></p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
 call one of the following BUDDY clinics for assistance.</p>
