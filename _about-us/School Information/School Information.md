@@ -191,11 +191,11 @@ delivery/emergency services.</p>
 <p><strong>ALPS Dental Clinic Schedule for May 2026 </strong>
 <br>
 <br>Opening Date:
-<br>13/04/2026 (8am-5pm)
-<br>14/04/2026 (8am-5.30pm)
-<br>15/04/2026 (8am-5pm)
-<br>16/04/2026 (8am-5.30pm)
-<br>17/04/2026 (8am-5pm)
+<br>11/05/2026 (8am-5pm)
+<br>12/05/2026 (8am-5.30pm)
+<br>13/05/2026 (8am-5pm)
+<br>14/05/2026 (8am-5.30pm)
+<br>15/05/2026 (8am-5pm)
 <br>27/04/2026 (8am-5pm)
 <br>28/04/2026 (8am-5.30pm)
 <br>29/04/2026 (8am-5pm)
