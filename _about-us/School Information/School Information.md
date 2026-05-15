@@ -198,7 +198,8 @@ delivery/emergency services.</p>
 <br>15/05/2026 (8am-5pm)</p>
 <p>25/05/2026 (8am-12pm)</p>
 <p>26/05/2026 (8am-5.30pm)
-<br>28/05/2026 (8am-5.30pm)
+<br>28/05/2026 (8am-5.30pm)</p>
+<p>02/06/2026 (8am-5.30pm)
 <br>
 </p>
 <p>Closure Date:
