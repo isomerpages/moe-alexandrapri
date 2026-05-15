@@ -195,7 +195,8 @@ delivery/emergency services.</p>
 <br>12/05/2026 (8am-5.30pm)
 <br>13/05/2026 (8am-5pm)
 <br>14/05/2026 (8am-5.30pm)
-<br>15/05/2026 (8am-5pm)
+<br>15/05/2026 (8am-5pm)</p>
+<p>25/05/2026 (8am-12pm)
 <br>28/05/2026 (8am-5.30pm)
 <br>29/05/2026 (8am-5pm)
 <br>
