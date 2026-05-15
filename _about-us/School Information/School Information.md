@@ -203,7 +203,8 @@ delivery/emergency services.</p>
 <p>03/06/2026 (8am-5pm)</p>
 <p>04/06/2026 (8am-5.30pm)</p>
 <p>05/06/2026 (8am-5pm)</p>
-<p>24/06/2026 (8am-5pm)
+<p>24/06/2026 (8am-5pm)</p>
+<p>25/06/2026 (8am-5.30pm)
 <br>
 </p>
 <p>Closure Date:
