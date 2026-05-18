@@ -1,6 +1,6 @@
 ---
 title: Term 1
-permalink: /total-defence-day/
+permalink: /life-at-alps/events/2026/term-1/
 variant: tiptap
 description: ""
 third_nav_title: "2026"
