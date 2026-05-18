@@ -20,3 +20,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026___IFD_School_Website_Submission_P5.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026___IFD_School_Website_Submission_P6.png">
+</div>
+<p></p>
