@@ -22,13 +22,13 @@ interactive way.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PictureA1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PictureB1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Programme Highlights</div>
-<div class="isomer-card-description">Students journeyed around the ASEAN countries through captivating flute
-performances during Assembly.</div>
+<div class="isomer-card-title">Vibrant Display Of Culture</div>
+<div class="isomer-card-description">A vibrant display of culture as teachers and students showcased different
+ethnic costumes.</div>
 </div>
 </div>
 </div>
