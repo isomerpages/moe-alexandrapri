@@ -45,7 +45,8 @@ interactive way.</p>
 </div>
 </div>
 </div>
-<p></p>
+<p><strong>A vibrant display of culture as teachers and students showcased different ethnic costumes.</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
