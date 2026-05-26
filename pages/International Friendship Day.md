@@ -79,7 +79,6 @@ interactive way.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Different Ethnic Costumes</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
