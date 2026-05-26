@@ -192,7 +192,6 @@ key facts with the support from our Parent Volunteers</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">World Café Experience</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
