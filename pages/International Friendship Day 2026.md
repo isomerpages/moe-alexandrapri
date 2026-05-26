@@ -18,6 +18,7 @@ Thailand, The Philippines, India, Japan and Vietnam. These exhibitions
 were designed in a World Café format to allow students to learn about different
 aspects like art, music and books from each culture in an engaging and
 interactive way.</p>
+<h2>Programme Highlights</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
