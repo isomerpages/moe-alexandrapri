@@ -298,7 +298,6 @@ and differences.</p>
 <br>•Interactive Segment
 <br>•Hari Raya Dance<strong>&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
