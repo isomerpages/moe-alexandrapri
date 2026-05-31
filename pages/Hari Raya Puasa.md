@@ -20,4 +20,6 @@ associated with Hari Raya Aidilfitri.</p>
 within the ALPS community.</p>
 </li>
 </ul>
-<p></p>
+<p>Programme Highlights
+<br>
+</p>
