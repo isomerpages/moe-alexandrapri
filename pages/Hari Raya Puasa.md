@@ -170,4 +170,25 @@ relationships with others.</p>
 </div>
 </div>
 </div>
+<p><strong>Recess Activities - Learning Stations @ Music Kingdom</strong>
+</p>
+<p><strong>Interactive Dikir Barat</strong>
+<br>- Students enjoyed an interactive Dikir Barat recess activity, where they
+clapped, sang, and participated in rhythmic movements to experience the
+festive tradition.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interactive Dikir Barat" src="/images/Interactive_Dikir_Barat.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Interactive Dikir Barat</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
 <p></p>
