@@ -63,7 +63,7 @@ ethnic costumes.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Different Ethnic Costumes 3</div>
+<div class="isomer-card-title">Different Ethnic Costumes 2</div>
 </div>
 </div>
 <div class="isomer-card">
