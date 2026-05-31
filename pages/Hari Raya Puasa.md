@@ -189,6 +189,55 @@ festive tradition.</p>
 </div>
 </div>
 </div>
+<p><strong>Recess Activities - Learning Stations @ Music Kingdom</strong>
+</p>
+<p><strong>Making of Hari Raya kuih (Makmur) Origami</strong>
+<br>- Students had fun making kuih Makmur origami, allowing them to explore
+traditional Hari Raya treats through a hands-on and creative activity.</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Making of Hari Raya kuih 1" src="/images/Making_of_Hari_Raya_kuih_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Making of Hari Raya kuih</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Making of Hari Raya kuih 2" src="/images/Making_of_Hari_Raya_kuih_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Making of Hari Raya kuih</div>
+</div>
+</div>
+</div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Making of Hari Raya kuih 3" src="/images/Making_of_Hari_Raya_kuih_3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Making of Hari Raya kuih</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Making of Hari Raya kuih 4" src="/images/Making_of_Hari_Raya_kuih_4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Making of Hari Raya kuih</div>
+</div>
+</div>
+</div>
 <p></p>
