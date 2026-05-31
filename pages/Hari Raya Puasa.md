@@ -286,6 +286,49 @@ traditional Hari Raya treats through a hands-on and creative activity.</p>
 </div>
 </div>
 </div>
+<p><strong>Recess Activities - Learning Stations @ Music Kingdom</strong>
+</p>
+<p><strong>Hari Raya Quiz</strong>
+<br>- Students participated in a Hari Raya Quiz to deepen their understanding
+of Hari Raya Aidilfitri and Hari Raya Haji, while appreciating their similarities
+and differences.</p>
+<p><strong>Assembly Programme</strong>
+</p>
+<p>•Dikir Barat Performance
+<br>•Interactive Segment
+<br>•Hari Raya Dance<strong>&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p></p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assembly 1" src="/images/Assembly1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assembly</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assembly 2" src="/images/Assembly2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assembly</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assembly 3" src="/images/Assembly3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assembly</div>
+</div>
+</div>
+</div>
 <p>aaaaa</p>
