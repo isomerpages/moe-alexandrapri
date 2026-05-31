@@ -138,3 +138,36 @@ relationships with others.</p>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Class Presentation 1" src="/images/Class_Presentation_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Class Presentation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Class Presentation 2" src="/images/Class_Presentation_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Class Presentation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Masterpieces" src="/images/Our_Masterpieces.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our Masterpieces</div>
+</div>
+</div>
+</div>
+<p></p>
