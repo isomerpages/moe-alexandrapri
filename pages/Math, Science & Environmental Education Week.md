@@ -46,4 +46,27 @@ Edition</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bird Protection Specialist" src="/images/Bird_Protection_Specialist.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 3 students being briefed by ALPS parent volunteers on their roles
+as Bird Protection Specialists</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lighting System Proposal" src="/images/Lighting_System_Proposal.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary 4 students discussing their lighting system proposal</div>
+</div>
+</div>
+</div>
 <p></p>
