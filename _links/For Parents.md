@@ -36,7 +36,7 @@ and relevant to parents with school-going children. Click to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/alps/home" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a>
+<p><a href="https://sites.google.com/moe.edu.sg/alexandra-primary-school/home" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a>
 </p>
 </td>
 </tr>
