@@ -68,3 +68,36 @@ deepened their understanding of Total Defence.</p>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Emergency Ready Bag" src="/images/Emergency_Ready_Bag.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learning what to pack in an emergency Ready Bag</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning continues without power" src="/images/Learning_Continues_Without_Power_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learning continues — even without power</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning continues without power" src="/images/Learning_Continues_Without_Power_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learning continues — even without power</div>
+</div>
+</div>
+</div>
+<p></p>
