@@ -300,4 +300,29 @@ students’ cultural understanding and values.</p>
 </div>
 </div>
 </div>
+<h4><strong>P6 Lo Hei @ Canteen</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P6 Lo Hei @ Canteen" src="/images/P6_Lo_Hei___Canteen_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">P6 Lo Hei @ Canteen</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P6 Lo Hei @ Canteen" src="/images/P6_Lo_Hei___Canteen_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">P6 Lo Hei @ Canteen</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
