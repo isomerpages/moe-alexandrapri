@@ -111,3 +111,36 @@ students’ cultural understanding and values.</p>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lunar New Year Decoration" src="/images/LNY_Decoration_4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lunar New Year Decoration</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lunar New Year Decoration" src="/images/LNY_Decoration_5.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lunar New Year Decoration</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lunar New Year Decoration" src="/images/LNY_Decoration_6.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lunar New Year Decoration</div>
+</div>
+</div>
+</div>
+<p></p>
