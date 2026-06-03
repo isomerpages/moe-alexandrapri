@@ -29,4 +29,28 @@ commitment to nurturing students through collaborative community efforts.</p>
 <p>As ALPS welcomes the Year of the Horse with hope and positivity, we look
 forward to continuing to provide authentic learning experiences that enrich
 students’ cultural understanding and values.</p>
+<h4><strong>Pre-celebration Activities</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pre-Celebration Activity" src="/images/Pre_Celebration_Activity_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pre-Celebration Activity</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pre-Celebration Activity" src="/images/Pre_Celebration_Activity_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pre-Celebration Activity</div>
+</div>
+</div>
+</div>
 <p></p>
