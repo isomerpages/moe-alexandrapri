@@ -78,3 +78,17 @@ at Jurong Lake Gardens.</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Campfire" src="/images/Campfire.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Finale Night: Campfire — an evening of laughter, cheers, and unforgettable
+memories under the stars.</div>
+</div>
+</div>
+</div>
+<p></p>
