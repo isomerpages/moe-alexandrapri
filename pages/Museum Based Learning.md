@@ -39,3 +39,39 @@ importance in shaping our shared identity.</p>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shop Visit" src="/images/Shop_Visit.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students learning about heritage and community through a shop visit at
+Geylang Serai.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Geylang Serai" src="/images/Geylang_Serai.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students learning about heritage and community through a shop visit at
+Geylang Serai.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo Discussion" src="/images/Photo_Discussion.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students discovering the history and culture of the Geylang Serai community
+through photo discussions.</div>
+</div>
+</div>
+</div>
+<p></p>
