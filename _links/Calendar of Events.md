@@ -9,7 +9,7 @@ description: ""
 </div>
 <p><a href="/files/2026_ALPS_Term_3_Calendar_of_Events__For_Parents_.pdf" rel="noopener nofollow" target="_blank">2026 ALPS Term 3 CoE for Parents</a>
 </p>
-<p><a href="/files/2026_Key_Events___updated_as_of_27Feb26_.pdf" rel="noopener nofollow" target="_blank">2026 Key Events</a>
+<p><a href="/files/2026_Key_Events__updated_as_of_28_May_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Key Events</a>
 </p>
 <p><a href="/files/Abbreviation___Glossary_for_CoE.pdf" rel="noopener nofollow" target="_blank">Abbreviation Glossary for CoE</a>
 </p>
