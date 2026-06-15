@@ -4,7 +4,7 @@ permalink: /international-friendship-day/
 variant: tiptap
 description: ""
 ---
-<h4><strong>International Friendship Day 2026</strong></h4>
+<h4><strong>International Friendship Day</strong></h4>
 <p>To commemorate this special day, our students participated in an assembly
 programme where they learned about the importance of fostering friendships
 between countries through a presentation led by a group of Primary 4 students.
@@ -63,7 +63,7 @@ ethnic costumes.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Different Ethnic Costumes 3</div>
+<div class="isomer-card-title">Different Ethnic Costumes 2</div>
 </div>
 </div>
 <div class="isomer-card">
