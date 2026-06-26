@@ -199,7 +199,7 @@ delivery/emergency services.</p>
 <br>21/07/2026 (8am-5.30pm)
 <br>22/07/2026 (8am-5pm)
 <br>23/07/2026 (8am-5.30pm)
-<br>25/06/2026 (8am-5.30pm)
+<br>24/07/2026 (8am-5pm)
 <br>26/06/2026 (8am-5pm)
 <br>
 </p>
