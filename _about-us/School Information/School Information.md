@@ -188,29 +188,26 @@ delivery/emergency services.</p>
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for May / June 2026 </strong>
+<p><strong>ALPS Dental Clinic Schedule for July 2026 </strong>
 <br>
 <br>Opening Date:
-<br>25/05/2026 (8am-12pm)
-<br>26/05/2026 (8am-5.30pm)
-<br>28/05/2026 (8am-5.30pm)
-<br>08/06/2026 (8am-5pm)
-<br>09/06/2026 (8am-5.30pm)
-<br>10/06/2026 (8am-5pm)
-<br>11/06/2026 (8am-5.30pm)
-<br>24/06/2026 (8am-5pm)
-<br>25/06/2026 (8am-5.30pm)
-<br>26/06/2026 (8am-5pm)
+<br>07/07/2026 (8am-5.30pm)
+<br>08/07/2026 (8am-5pm)
+<br>09/07/2026 (8am-5.30pm)
+<br>10/07/2026 (8am-5pm)
+<br>20/07/2026 (8am-5pm)
+<br>21/07/2026 (8am-5.30pm)
+<br>22/07/2026 (8am-5pm)
+<br>23/07/2026 (8am-5.30pm)
+<br>24/07/2026 (8am-5pm)
 <br>
 </p>
 <p>Closure Date:
-<br>18-22/05/2026
-<br>27/05/2026
-<br>29/05/2026
-<br>01-05/06/2026
-<br>12/06/2026
-<br>15-19/06/2026
 <br>29-30/06/2026
+<br>01-03/07/2026
+<br>06/07/2026
+<br>13-17/07/2026
+<br>27-31/07/2026
 <br>
 </p>
 <p></p>
@@ -251,21 +248,12 @@ call one of the following BUDDY clinics for assistance.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Bendemeer Pri School (School Holiday)</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>8764 6320</em></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p><strong>*May be subjected to change without prior notice due to unforeseen circumstances. Regards,</strong>
-</p>
-<p><strong>Mdm Tee (Dental Therapist)</strong>
+<p><strong>*May be subjected to change without prior notice due to unforeseen circumstances. </strong>
+<br>
+<br><strong>Regards,</strong>
+<br><strong>Mdm Tee (Dental Therapist)</strong>
 </p>
 </td>
 </tr>
@@ -281,7 +269,6 @@ call one of the following BUDDY clinics for assistance.</p>
 <br>Monday to Friday: 9.00 am - 6.00 pm
 <br>Saturday: 9.00 am - 1.00 pm
 <br>Sunday/Public Holiday: Closed</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Care Centre</strong> 
@@ -292,14 +279,6 @@ call one of the following BUDDY clinics for assistance.</p>
 <br>SCC Operating Hours
 <br>School Term: Monday to Friday 1.30 p.m. - 7 p.m.
 <br>School Holiday: Monday to Friday 7.30 a.m. - 7 p.m. (Full Day)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
