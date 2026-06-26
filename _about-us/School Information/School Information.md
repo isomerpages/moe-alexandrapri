@@ -250,9 +250,10 @@ call one of the following BUDDY clinics for assistance.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>*May be subjected to change without prior notice due to unforeseen circumstances. Regards,</strong>
-</p>
-<p><strong>Mdm Tee (Dental Therapist)</strong>
+<p><strong>*May be subjected to change without prior notice due to unforeseen circumstances. </strong>
+<br>
+<br><strong>Regards,</strong>
+<br><strong>Mdm Tee (Dental Therapist)</strong>
 </p>
 </td>
 </tr>
