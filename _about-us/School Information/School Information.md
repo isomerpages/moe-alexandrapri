@@ -269,7 +269,6 @@ call one of the following BUDDY clinics for assistance.</p>
 <br>Monday to Friday: 9.00 am - 6.00 pm
 <br>Saturday: 9.00 am - 1.00 pm
 <br>Sunday/Public Holiday: Closed</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Care Centre</strong> 
@@ -280,14 +279,6 @@ call one of the following BUDDY clinics for assistance.</p>
 <br>SCC Operating Hours
 <br>School Term: Monday to Friday 1.30 p.m. - 7 p.m.
 <br>School Holiday: Monday to Friday 7.30 a.m. - 7 p.m. (Full Day)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
