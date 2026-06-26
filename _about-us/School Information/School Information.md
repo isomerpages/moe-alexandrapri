@@ -248,16 +248,6 @@ call one of the following BUDDY clinics for assistance.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Bendemeer Pri School (School Holiday)</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>8764 6320</em></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>*May be subjected to change without prior notice due to unforeseen circumstances. Regards,</strong>
