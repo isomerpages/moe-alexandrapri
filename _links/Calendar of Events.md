@@ -7,7 +7,7 @@ description: ""
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" style="border:solid 1px #777" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=cHJpbWFyeXNjaG9vbGFsZXhhbmRyYUBnbWFpbC5jb20&amp;color=%23039BE5"></iframe>
 </div>
-<p><a href="/files/2026_ALPS_Term_3_Calendar_of_Events__For_Parents_.pdf" rel="noopener nofollow" target="_blank">2026 ALPS Term 3 CoE for Parents</a>
+<p><a href="/files/2026_ALPS_Term_3_Calendar_of_Events__For_Parents____25Jun26.pdf" rel="noopener nofollow" target="_blank">2026 ALPS Term 3 CoE for Parents</a>
 </p>
 <p><a href="/files/2026_Key_Events__updated_as_of_28_May_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Key Events</a>
 </p>
