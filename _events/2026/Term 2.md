@@ -11,7 +11,7 @@ third_nav_title: "2026"
 </div>
 <h4><strong>P2 Drama Performances</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="1037" width="1344" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfWRpsXLYwdDqhcrEQYFn7Gp1my4DEd3HsSm2ywVsv05BrP81vZcfxB5PELpzNB3g_ugxsak4D9CoM/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfWRpsXLYwdDqhcrEQYFn7Gp1my4DEd3HsSm2ywVsv05BrP81vZcfxB5PELpzNB3g_ugxsak4D9CoM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Hari Raya Puasa 2026</strong></h4>
 <div class="iframe-wrapper">
