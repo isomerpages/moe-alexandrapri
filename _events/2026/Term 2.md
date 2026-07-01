@@ -11,13 +11,12 @@ third_nav_title: "2026"
 </div>
 <h4><strong>P2 Drama Performances</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfWRpsXLYwdDqhcrEQYFn7Gp1my4DEd3HsSm2ywVsv05BrP81vZcfxB5PELpzNB3g_ugxsak4D9CoM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfWRpsXLYwdDqhcrEQYFn7Gp1my4DEd3HsSm2ywVsv05BrP81vZcfxB5PELpzNB3g_ugxsak4D9CoM/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h4><strong>Hari Raya Puasa 2026</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9v3n5k0J7HHQ-g75kQGSywhtCJgSXRfdkvS48FxJPW5ONK3FDLOulX7JidJKcWkHh6OzO8rmwwnux/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
 <h4><strong>International Friendship Day 2026</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOJvp4HDhL2_CymUGsniexooYiKEHpoS_TJZvZeiGcfo3JNzxmT4Zkpn1-DfkaSAci4q3Tu45dWg5p/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
