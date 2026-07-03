@@ -29,7 +29,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adriel Chia
-<br>Mdm Jolene Hong</p>
+<br>Mdm Raghumath Banu d/o Mohd Ali F</p>
+<p>Ms Deborah Quek</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +40,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Anthony Chua
-<br>Mdm Lin Huiting
 <br>Mr Sean Chua</p>
 </td>
 </tr>
@@ -70,10 +70,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Pannirselvam nee C Mahalakshmi
-<br>Ms Diana Ho
 <br>Mdm Tey Siew Leng</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

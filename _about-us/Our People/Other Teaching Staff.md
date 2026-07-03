@@ -20,6 +20,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Miki Soon</p>
+<p>Ms Diana Ho</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +29,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Sit Huat</p>
+<p>Ms Wu Juanjuan</p>
+<p>Ms Woo Siok Hwee</p>
 </td>
 </tr>
 <tr>
@@ -37,17 +39,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Melissa Sheo
-<br>Mr Brandon Ng</p>
+<p>Mrs Melissa Sheo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Art</strong>
+<p><strong>PE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Junie Ang</p>
+<p>Mdm Rossenah Bte Kamis
+<br>Mr Ho Ghim Khoon
+<br>Mr Steven Lim</p>
+<p>Ms Eliza Lim</p>
 </td>
 </tr>
 <tr>

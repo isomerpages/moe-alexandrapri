@@ -167,20 +167,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SH (English)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edward Chiam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>SH (Math)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Hazel Foo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jamie Wong Qian Ling</p>
 </td>
 </tr>
 <tr>
@@ -199,6 +199,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Angela Kwan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH (English)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Marilyn Yee</p>
 </td>
 </tr>
 <tr>
