@@ -203,6 +203,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>LH (English)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Marilyn Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ST (CL)</strong>
 </p>
 </td>
