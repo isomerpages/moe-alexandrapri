@@ -45,8 +45,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Perry Liew</p>
-<p>Mr Christopher Noel</p>
+<p>Mr Perry Liew
+<br>Mr Christopher Noel</p>
 </td>
 </tr>
 <tr>
