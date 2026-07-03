@@ -81,8 +81,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Jazreel Ari Yeo
-<br>Mr Hao Xiaoxing
-<br>Ms Deborah Quek</p>
+<br>Mr Hao Xiaoxing</p>
 </td>
 </tr>
 <tr>
