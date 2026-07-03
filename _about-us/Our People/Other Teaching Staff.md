@@ -71,8 +71,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Surbhi
 <br>Mrs Krystle Kuah
-<br>Mr Randal Lui</p>
-<p>Ms Brenda Ng</p>
+<br>Mr Randal Lui
+<br>Ms Brenda Ng</p>
 </td>
 </tr>
 </tbody>
