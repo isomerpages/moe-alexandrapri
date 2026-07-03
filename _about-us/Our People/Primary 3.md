@@ -70,7 +70,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Pannirselvam nee C Mahalakshmi
-<br>Ms Diana Ho
 <br>Mdm Tey Siew Leng</p>
 </td>
 </tr>
