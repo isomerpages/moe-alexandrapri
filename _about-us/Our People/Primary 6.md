@@ -63,7 +63,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Choong Lee San
-<br>Mr Sean Lim Zhong Sheng</p>
+<br>Mrs Judy Lim</p>
 </td>
 </tr>
 <tr>
