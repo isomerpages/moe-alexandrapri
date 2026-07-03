@@ -50,7 +50,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Cheryl Chua
-<br>Ms Lee Mui Hoong</p>
+<br>Mr Melvin Chin</p>
 </td>
 </tr>
 <tr>
