@@ -72,6 +72,7 @@ variant: tiptap
 <p>Ms Surbhi
 <br>Mrs Krystle Kuah
 <br>Mr Randal Lui</p>
+<p>Ms Brenda Ng</p>
 </td>
 </tr>
 </tbody>
