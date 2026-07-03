@@ -176,15 +176,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jamie Wong Qian Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH (Student Leadership &amp; Well-Being)</strong>
 </p>
 </td>
