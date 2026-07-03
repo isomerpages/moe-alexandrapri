@@ -20,6 +20,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Miki Soon</p>
+<p>Ms Diana Ho</p>
 </td>
 </tr>
 <tr>
