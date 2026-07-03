@@ -44,15 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Art</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Junie Ang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>AED (School Counsellor)</strong>
 </p>
 </td>
