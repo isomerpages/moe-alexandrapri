@@ -29,7 +29,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Sit Huat</p>
+<p>Ms Wu Juanjuan</p>
+<p>Ms Woo Siok Hwee</p>
 </td>
 </tr>
 <tr>
