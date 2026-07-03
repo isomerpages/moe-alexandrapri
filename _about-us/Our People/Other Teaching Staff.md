@@ -44,6 +44,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>PE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rossenah Bte Kamis
+<br>Mr Ho Ghim Khoon
+<br>Mr Steven Lim</p>
+<p>Ms Eliza Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>AED (School Counsellor)</strong>
 </p>
 </td>
