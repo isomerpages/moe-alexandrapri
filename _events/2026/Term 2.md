@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2026"
 ---
+<h4><strong>ALPS Sports Meet</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfIhGKAVBzPHXQHK78QhPMn2RnmlGdqnzenCG9o3syfT9JamvI-aUhm_1TW9Uzmfy87lhFpJYw0xEg/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>P1 Pet Pals: Sharing by Our Parent Volunteers</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXYV3uZUpVij05ZaOdJ6Z_tQ-mRA95A3xSqrKkFrSok6zyp_TQstLiWl6R4rCHjUJ3hPhzJCZOU3y8/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
