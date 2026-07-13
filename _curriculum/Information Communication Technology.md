@@ -98,7 +98,7 @@ resources:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.scamshield.gov.sg/videos/" rel="noopener noreferrer nofollow" target="_blank">National Crime Prevention Council</a>
+<p><a href="https://www.scamshield.gov.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">National Crime Prevention Council</a>
 </p>
 </li>
 <li>
@@ -107,6 +107,10 @@ resources:</p>
 </li>
 <li>
 <p><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Agency</a>
+</p>
+</li>
+<li>
+<p><a href="https://linktr.ee/cyber_wellness" rel="noopener nofollow" target="_blank">MOE Cyber Wellness</a>
 </p>
 </li>
 </ul>
