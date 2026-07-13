@@ -98,7 +98,7 @@ resources:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.scamshield.gov.sg/videos/" rel="noopener noreferrer nofollow" target="_blank">National Crime Prevention Council</a>
+<p><a href="https://www.scamshield.gov.sg/resources/s/" rel="noopener noreferrer nofollow" target="_blank">National Crime Prevention Council</a>
 </p>
 </li>
 <li>
