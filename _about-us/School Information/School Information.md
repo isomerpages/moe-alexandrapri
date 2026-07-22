@@ -198,7 +198,6 @@ delivery/emergency services.</p>
 <br>20/07/2026 (8am-5pm)
 <br>21/07/2026 (8am-5.30pm)
 <br>22/07/2026 (8am-5pm)
-<br>23/07/2026 (8am-5.30pm)
 <br>24/07/2026 (8am-5pm)
 <br>
 </p>
@@ -207,6 +206,7 @@ delivery/emergency services.</p>
 <br>01-03/07/2026
 <br>06/07/2026
 <br>13-17/07/2026
+<br>23/07/2026
 <br>27-31/07/2026
 <br>
 </p>
