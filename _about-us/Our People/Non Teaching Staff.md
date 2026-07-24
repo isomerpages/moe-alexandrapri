@@ -51,15 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Syahmul Aziz Mohd Mursalin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Administrative Executive</strong>
 </p>
 </td>
