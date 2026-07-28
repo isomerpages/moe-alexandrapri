@@ -191,11 +191,11 @@ delivery/emergency services.</p>
 <p><strong>ALPS Dental Clinic Schedule for July 2026 </strong>
 <br>
 <br>Opening Date:
-<br>07/07/2026 (8am-5.30pm)
-<br>08/07/2026 (8am-5pm)
-<br>09/07/2026 (8am-5.30pm)
-<br>10/07/2026 (8am-5pm)
-<br>20/07/2026 (8am-5pm)
+<br>03/08/2026 (8am-5pm)
+<br>04/08/2026 (8am-5.30pm)
+<br>05/08/2026 (8am-5pm)
+<br>06/08/2026 (8am-12pm)
+<br>07/08/2026 (8am-5pm)
 <br>21/07/2026 (8am-5.30pm)
 <br>22/07/2026 (8am-5pm)
 <br>24/07/2026 (8am-5pm)
