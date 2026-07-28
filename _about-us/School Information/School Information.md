@@ -199,8 +199,10 @@ delivery/emergency services.</p>
 <br>17/08/2026 (8am-5pm)
 <br>18/08/2026 (8am-5.30pm)
 <br>19/08/2026 (8am-5pm)
-<br>20/08/2026 (8am-12pm)</p>
-<p>31/08/2026 (8am-5pm)
+<br>20/08/2026 (8am-12pm)
+<br>31/08/2026 (8am-5pm)
+<br>01/09/2026 (8am-5.30pm)
+<br>02/09/2026 (8am-5pm)
 <br>
 </p>
 <p>Closure Date:
