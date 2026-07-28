@@ -188,7 +188,7 @@ delivery/emergency services.</p>
 <br>(Closed on Saturday and Sunday, Eve of/&amp; Public Holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ALPS Dental Clinic Schedule for July 2026 </strong>
+<p><strong>ALPS Dental Clinic Schedule for July, August and September 2026 </strong>
 <br>
 <br>Opening Date:
 <br>03/08/2026 (8am-5pm)
